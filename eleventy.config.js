@@ -39,13 +39,13 @@ module.exports = eleventyConfig => {
 
 	eleventyConfig.setLibrary("md", markdownLib);
 
-	var firstRun = true;
-	eleventyConfig.on('eleventy.before', async ({ dir, runMode, outputMode }) => {
-		if (firstRun) {
-			firstRun = false;
-			generateCategoryPages({}, true, false);
-		}
-	});
+	// var firstRun = true;
+	// eleventyConfig.on('eleventy.before', async ({ dir, runMode, outputMode }) => {
+	// 	if (firstRun) {
+	// 		firstRun = false;
+	// 		generateCategoryPages({}, true, false);
+	// 	}
+	// });
 
 	eleventyConfig.addShortcode("getKeywords", function (categories) {
 		let returnString = "";
