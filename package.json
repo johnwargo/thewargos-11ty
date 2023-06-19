@@ -1,0 +1,15 @@
+{
+  "name": "thewargos",
+  "version": "1.0.0",
+  "description": "Eleventy version of the static web site at https://thewargos.com",
+  "main": "eleventy.config.images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Eleventy"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
