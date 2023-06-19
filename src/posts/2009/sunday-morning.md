@@ -2,7 +2,7 @@
 title: "Sunday Morning"
 date: "2009-10-25"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 Well, It's a cold, dark Sunday morning.

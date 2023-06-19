@@ -2,8 +2,8 @@
 title: "Reworking Chapter 11"
 date: "2009-07-03"
 categories: 
-  - "bbdf"
-  - "miscellaneous"
+  - "BlackBerry Development Fundamentals"
+  - "Miscellaneous"
 ---
 
 No, not THAT chapter 11, chapter 11 of my book.

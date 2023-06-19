@@ -2,7 +2,7 @@
 title: "Hotel Room Power"
 date: "2012-12-10"
 categories: 
-  - "travel"
+  - "Travel"
 ---
 
 \[caption id="attachment\_2329" align="alignnone" width="400"\][![European Hotel Room Power Switch](images/hotel-room-power.jpg "European Hotel Room Power Switch")](http://www.thewargos.com/2012/12/hotel-room-power/hotel-room-power/) European Hotel Room Power Switch\[/caption\]

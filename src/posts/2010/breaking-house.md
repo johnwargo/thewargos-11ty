@@ -2,7 +2,7 @@
 title: "Breaking House..."
 date: "2010-03-08"
 categories: 
-  - "the-house"
+  - "The House"
 ---
 
 OK, so we’ve been in this house for a whole 16 days. It’s a great house in a great neighborhood. It’s not fancy, but it’s…grand. Unfortunately, the builder didn’t do a great job on the finishing. It was a spec house and therefore doesn’t have ANY upgrades. That’s OK though, we love the house and have a whole big list of things we’d like to upgrade over the next 10 years (just in time to sell it when the kids graduate from High School).

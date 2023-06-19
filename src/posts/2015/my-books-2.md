@@ -2,8 +2,8 @@
 title: "My books"
 date: "2015-04-23"
 categories: 
-  - "geeking-out"
-  - "miscellaneous"
+  - "Geeking Out"
+  - "Miscellaneous"
 ---
 
 Looking at the google new stand for Android. So funny to see how prolific I am compared to that other John Wargo guy. Hard to imagine I failed English in my junior year of high school.

@@ -2,7 +2,7 @@
 title: "Perfect Rice Krispy Treats"
 date: "2013-01-18"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 coverImage: "rice_krispy_treats.png"
 ---
 

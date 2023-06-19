@@ -2,7 +2,7 @@
 title: "Garage Photos"
 date: "2010-05-06"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 As you may have heard, we're putting an extra garage in the back yard. Originally it was intended to be a workshop for me (our house doesn't have a basement, so I needed a place for my tools) but we later decided to move my office out of the bonus room into the outbuilding. The builder we hired showed us a garage that he built that we really feel exactly fits the bill for my needs. We spent some time at the other garage getting a feel for it and we loved it.

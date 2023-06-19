@@ -2,7 +2,7 @@
 title: "Chocolate Chip Cookies with Nuts?"
 date: "2009-06-16"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 tags: 
   - "chocolate-chip-cookies-with-nuts"
   - "panera"

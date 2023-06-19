@@ -2,7 +2,7 @@
 title: "Squirrel Trap"
 date: "2009-07-27"
 categories: 
-  - "the-twins"
+  - "The Twins"
 ---
 
 August found a bunch of acorns recently and this weekend he and Elizabeth decided to try to actually catch a squirrel using them. They laid out a path of acorns leading to a box and planned on jumping out to drop the box on any squirrel that ventured out to eat the acorns.

@@ -2,7 +2,7 @@
 title: "Yet another horrible customer service experience with Dell"
 date: "2009-11-06"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I just don’t know what’s going on with Dell. I love their computers – every computer I’ve ever bought was a Dell and anyone who asks me what to get is told to buy a Dell.

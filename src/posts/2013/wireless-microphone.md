@@ -2,7 +2,7 @@
 title: "Wireless Microphone"
 date: "2013-11-07"
 categories: 
-  - "family"
+  - "Family"
 ---
 
 Last Friday I went to see an instrumental guitarist (Travis Larson Band) perform in concert. It was at a place called the Double Door Inn here in Charlotte and there were like 3 people there when we arrived before the show.  Because it was such a small audience, I got a chance to talk with Travis and he mentioned that he was doing a workshop at the local Guitar Center store near us on Wednesday night (last night).

@@ -2,7 +2,7 @@
 title: "Best Weekend Ever"
 date: "2010-09-26"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 It's been an amazing weekend here. Last night we got together with two other couples to have a nice dinner at The Dish in Charlotte then headed over to the Neighborhood Theater to see Paul Thorn (www.paulthorn.com) in concert. It was amazing. Dinner was great and the concert was awesome; he puts on a great show every time.

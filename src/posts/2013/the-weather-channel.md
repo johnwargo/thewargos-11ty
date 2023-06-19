@@ -2,7 +2,7 @@
 title: "The Weather Channel"
 date: "2013-01-17"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 Wanted to fill you in on my last tweet. I was watching the weather channel and they were showing some landslides in a particular county in NC. They showed a house on a particular road then announced (idiots) that the owner of the house is in Colorado at the moment.

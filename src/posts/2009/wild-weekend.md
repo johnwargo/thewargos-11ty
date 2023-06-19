@@ -2,9 +2,9 @@
 title: "Wild Weekend"
 date: "2009-05-31"
 categories: 
-  - "bbdf"
-  - "the-house"
-  - "the-twins"
+  - "BlackBerry Development Fundamentals"
+  - "The House"
+  - "The Twins"
 ---
 
 Phew, wild weekend.

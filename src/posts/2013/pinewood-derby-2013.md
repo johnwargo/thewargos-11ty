@@ -2,7 +2,7 @@
 title: "Pinewood Derby 2013"
 date: "2013-01-27"
 categories: 
-  - "family"
+  - "Family"
 coverImage: "august-pinewood-derby.jpg"
 ---
 

@@ -2,7 +2,7 @@
 title: "Worst Dad Ever"
 date: "2010-12-26"
 categories: 
-  - "the-twins"
+  - "The Twins"
 ---
 
 This weekend I did some things that just has Anna shaking her head.

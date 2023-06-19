@@ -2,7 +2,7 @@
 title: "Yippy Skippy!"
 date: "2009-06-15"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 tags: 
   - "blackberry-development-fundamentals"
 ---

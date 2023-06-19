@@ -2,7 +2,7 @@
 title: "Facebook Page?"
 date: "2012-11-29"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 \[caption id="attachment\_2287" align="alignnone" width="300"\][![McNelly SoftWorks Logo](images/msw_logo_md.jpg "McNelly SoftWorks Logo")](http://www.thewargos.com/2012/11/facebook-page/msw_logo_md/) McNelly SoftWorks Logo\[/caption\]

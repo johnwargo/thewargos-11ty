@@ -2,7 +2,7 @@
 title: "Thankful"
 date: "2012-12-27"
 categories: 
-  - "family"
+  - "Family"
 coverImage: "birthday-faces.png"
 ---
 

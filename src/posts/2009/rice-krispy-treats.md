@@ -2,7 +2,7 @@
 title: "Rice Krispy Treats"
 date: "2009-11-10"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 Just had a quick lunch at the BlackBerry Developer Conference. Its the first place ever that I've had commercially produced rice krispy treats that tasted home made. I had 4 of them, could have had more.

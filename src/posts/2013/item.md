@@ -2,7 +2,7 @@
 title: "Item"
 date: "2013-09-20"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 A while back, my brother in law gave me the item shown in the figure below. I’ll let you take a look at it for a minute before I tell you what it is.

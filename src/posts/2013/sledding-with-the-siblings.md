@@ -2,7 +2,7 @@
 title: "Sledding with the Siblings"
 date: "2013-01-02"
 categories: 
-  - "family"
+  - "Family"
 coverImage: "Siblings-Sledding.png"
 ---
 

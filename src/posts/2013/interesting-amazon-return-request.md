@@ -2,7 +2,7 @@
 title: "Interesting Amazon Return Request"
 date: "2013-01-18"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I recently finished unpacking all of my stuff in my workshop. Like my Father did, I built a pegboard storage system behind my bench. As part of my 1st of the year reorganization I was moving some stuff around on the pegboard and decided to pick up some new organizers to hang there. One of the things I got was this interesting pegboard mount for a set of wrenches - see photo below.

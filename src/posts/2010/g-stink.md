@@ -2,7 +2,7 @@
 title: "G-Stink"
 date: "2010-02-01"
 categories: 
-  - "the-twins"
+  - "The Twins"
 ---
 
 I've always had pet names for the twins. We started out calling them by their given names although we struggled for the first couple of weeks saying ‘August.’ Over time I started mixing in different names for them, to the point where the kids really aren’t sure what we’re going to call them.

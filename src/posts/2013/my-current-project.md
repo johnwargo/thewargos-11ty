@@ -2,7 +2,7 @@
 title: "My Current Project"
 date: "2013-04-11"
 categories: 
-  - "the-house"
+  - "The House"
 ---
 
 We have this storage room that’s full of boxes and had these nasty wire shelves on one wall. As soon as we moved in, we yanked down most of the shelves and had less storage room than we started with. After Anna saw my work on the CD shelves (I still need to write about that project) she agreed to let me make storage shelves for this storage room.

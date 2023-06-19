@@ -2,7 +2,7 @@
 title: "The Big 50"
 date: "2012-12-25"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I turned 50 this year; it was…fun.  My back went out twice in the month leading up to the big event, so that was a problem, but I was looking forward to my birthday and had a great time.

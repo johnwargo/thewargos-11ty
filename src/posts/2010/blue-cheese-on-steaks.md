@@ -2,7 +2,7 @@
 title: "Blue Cheese on Steaks"
 date: "2010-11-11"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I hate it when you go to what's supposed to be a great steak restaurant and they don't know how to melt blue cheese on s steak. If the steak is almost $30 and the 'melted blue cheese' is still crumbles, you're wasting your time with this restaurant.

@@ -2,7 +2,7 @@
 title: "Discovering Raspberry Pi"
 date: "2013-01-27"
 categories: 
-  - "family"
+  - "Family"
 coverImage: "son-with-raspberry-pi.png"
 ---
 

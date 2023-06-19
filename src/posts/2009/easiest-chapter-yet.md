@@ -2,7 +2,7 @@
 title: "Easiest Chapter Yet"
 date: "2009-05-13"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 tags: 
   - "blackberry-development-fundamentals"
 ---

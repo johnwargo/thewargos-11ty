@@ -2,7 +2,7 @@
 title: "Book Shopping"
 date: "2011-03-23"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I was poking around in a mall in Plano Texas today and stopped by a Barnes & Noble just to see what's new, but of course to see if my BlackBerry book was on the shelves.

@@ -2,7 +2,7 @@
 title: "Sunglasses in the Dentist's chair"
 date: "2009-10-21"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 We took the twins to the Dentist yesterday - both parents go when possible (easy now since I'm not working) and the kids pick who goes in with them. Yesterday, Elizabeth wanted me and August went in with Anna. I was really surprised when the whole thing took 75 minutes.

@@ -2,8 +2,8 @@
 title: "Spam Tester"
 date: "2011-01-12"
 categories: 
-  - "geeking-out"
-  - "miscellaneous"
+  - "Geeking Out"
+  - "Miscellaneous"
 ---
 
 I run a WordPress blog and setup the registration option so friends and family (especially my last remaining Aunt) can know when I post new items to the blog. I setup the system to notify me when someone registers and it's funny to see the different spammers register for the system. Usually the user name they enter doesn't look anything like the email address - that's usually a good clue for me that it's a spammer. You'd think that the user name someone selects would match their primary email address, but that's not what they usually do. I haven't tested this, but I'm sure the email addresses are bogus - too funny though how many of them end in .ru.

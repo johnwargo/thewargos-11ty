@@ -2,7 +2,7 @@
 title: "Waxing Historically"
 date: "2010-12-22"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 Well, it was a year ago that I was misdiagnosed by a Doctor covering for my primary provider. I went in because I felt horrible and she, after sticking a couple of fingers up my _you know what_, decided I had a prostate infection and prescribed some anti-biotics.

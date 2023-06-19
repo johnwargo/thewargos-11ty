@@ -2,7 +2,7 @@
 title: "Fire Pit"
 date: "2010-07-09"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 We have these crappy little blocks the previous owner used to build some stairs down into the back yard. They were used to build the walls for the stairs and some rocks were dumped into the area to make the floor. Didn't like it and couldn't wait to get rid of them. We asked the builder to put all of the blocks and rocks into the fill for the new garage and that's likely to happen today.

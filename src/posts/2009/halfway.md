@@ -2,7 +2,7 @@
 title: "Halfway"
 date: "2009-03-16"
 categories: 
-  - "bbdf"
+  - "BlackBerry Development Fundamentals"
 ---
 
 Well, I did it. I'm halfway through the book. I finished chapter 8 last night and I'm pretty excited. I'm at about 200 pages right now and per my publishing contract I'm supposed to deliver a book of approximately 400 pages. I also have 17 chapters planned for the book and the last couple of them are pretty short, so at 8 chapters, I'm at about half.

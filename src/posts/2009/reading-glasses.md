@@ -2,7 +2,7 @@
 title: "Reading Glasses"
 date: "2009-12-13"
 categories: 
-  - "the-twins"
+  - "The Twins"
 ---
 
 So, I've had to wear reading glasses for the last couple of years. As I've gotten older, they've just not been working very well for me lately. At the same time, August has been bugging me over and over and over again about wanting his own pair of glasses. I told him that once I got new reading glasses, that I'd give him my old ones. Well, because of the nature of AT&T's benefits, I'm going to have to wait until next year to get in to see my eye doctor, so he was having to wait a long time. I finally decided yesterday that I just couldn't wait anymore - so we all headed over to Sam's Club to pick up a 4 pack of stronger reading glasses (I need 4 pair - one for the master bathroom (reading room), my travel bag, my workshop and my office).

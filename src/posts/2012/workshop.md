@@ -2,8 +2,8 @@
 title: "Workshop"
 date: "2012-12-26"
 categories: 
-  - "the-house"
-  - "the-twins"
+  - "The House"
+  - "The Twins"
 ---
 
 Anna took over my workshop the last month or so – not that I mind. She and a friend got some used school desks and moved them into my workshop to scrape, sand, glue and paint them. The desk undersides were covered with used chewing gum – even I thought it was gross and I didn’t have to scrape it all off. They turned out great, see the picture below of one of them under our Christmas tree.

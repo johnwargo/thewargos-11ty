@@ -2,7 +2,7 @@
 title: "Separation of Church and State"
 date: "2010-11-18"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 Anna and I were talking the other day about Christmas at the kid's school. Apparently it's against the rules to bring candy canes in to the school. Apparently some idiot decided to make [Candy Canes all about Jesus](http://www.snopes.com/holidays/christmas/candycane.asp), so now the kids can't have them at school. Why can't a candy cane be about, I don't know, candy?  Why does it have to be religious? Apparently people are starting to compare snowflakes to the star Jesus was born under, so anything snowflake related will be prohibited too. You've got to be kidding me.

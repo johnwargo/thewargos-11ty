@@ -2,7 +2,7 @@
 title: "Our Grand Vacation: Day 3"
 date: "2015-08-27"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 Day three of our vacation started with a great breakfast at Anchuca followed by a tour of the building. I'd not spent much time in any buildings built before the civil war, so it was fun.

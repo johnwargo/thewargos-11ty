@@ -2,7 +2,7 @@
 title: "PUBLISHING CONTRACT!!!"
 date: "2009-02-11"
 categories: 
-  - "geeking-out"
+  - "Geeking Out"
 ---
 
 I got a contract for my book!!! I signed it last night and sent it over. The book is called Fundamentals of BlackBerry Application Development and it should be released by Addison-Wesley some time this fall.  I'm wrapping up chapter 6 right now and need to have the whole book finished by July 15th. I've got a lot of work in front of me.

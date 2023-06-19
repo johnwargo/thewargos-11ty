@@ -2,7 +2,7 @@
 title: "Snow Woes"
 date: "2011-01-12"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 We've had a really fun week. We had a big snow storm on Monday (3 - 4 inches of snow, big for Charlotte) and the kids were out of school. They had a blast playing in the snow with their friends and made a real big day of it.

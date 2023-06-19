@@ -2,7 +2,7 @@
 title: "Umbrellas and S Hooks"
 date: "2009-09-07"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 On Saturday August and I were playing in the back porch with a box of stuff he collected. One of the items was a cape from some old costume. He asked me to help him make a parachute out of it. I explained that it needed to be bigger than it was to be able to act as a parachute. He has been fascinated with Mary Poppins for some time now, so he grabbed a little golf bag umbrella (just big enough to protect your clubs from getting wet) and wanted to jump off a sofa to float a little. Of course, being Mr. Wizard, I had to show him a better way...So I went outside and grabbed a real (large) golf umbrella and got a big ladder out of the garage and had him jumping off of the ladder with the umbrella. He immediately felt the drag caused by the larger umbrella and got the point. He and Elizabeth spent the next half hour jumping off of things with the golf umbrella until it finally broke.

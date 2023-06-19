@@ -2,7 +2,7 @@
 title: "Presents for the Sick"
 date: "2009-12-26"
 categories: 
-  - "the-twins"
+  - "The Twins"
 ---
 
 I've been pretty sick for the last couple of weeks - I'm not going to go into what's wrong with me, but I have been pretty miserable. I've been sleeping a lot and when this all first started, August and Elizabeth were really cute in the way they tried to help take care of me (August especially). As I lay in bed, trying to recover I heard something happening at the bedroom door - it sounded like something trying to make its way underneath the closed door.

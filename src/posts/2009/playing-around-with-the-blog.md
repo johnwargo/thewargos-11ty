@@ -2,7 +2,7 @@
 title: "Playing around with the blog"
 date: "2009-06-05"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I'm playing around with WordPress - I added some plug-ins (like a social networking plug-in that allows you to post something you find interesting to your Facebook or other social networking profile)) and changed the template.

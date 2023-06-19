@@ -2,7 +2,7 @@
 title: "Getting ready for a speaking engagement"
 date: "2009-03-31"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I'm getting ready for a speaking engagement at The View Lotus Domino Administrator 2009 and Lotus Domino Developer 2009 conferences. I have three sessions, one on the admin track called "Preparing for the Mobile Applications Onslaught" and two sessions for the Developers conference called "Beyond the Browser: Building Mobile Rich Client Applications to Access Your Domino Data" and "Extending Your Domino Applications to Mobile Devices." I'm pretty excited about this. I've spoken at the conference the previous two years, but for both of them I was representing RIM, so I had to be careful about what I said. In this year's presentations, I get to talk about BlackBerry (very near to my heart) but also other mobile platforms.

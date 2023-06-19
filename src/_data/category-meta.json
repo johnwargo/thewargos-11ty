@@ -1,52 +1,52 @@
 [
   {
-    "category": "Uncategorized",
-    "count": 2,
-    "description": ""
-  },
-  {
-    "category": "anna",
+    "category": "Anna",
     "count": 4,
     "description": ""
   },
   {
-    "category": "bbdf",
+    "category": "BlackBerry Development Fundamentals",
     "count": 11,
     "description": ""
   },
   {
-    "category": "family",
+    "category": "Family",
     "count": 12,
     "description": ""
   },
   {
-    "category": "geeking-out",
+    "category": "Geeking Out",
     "count": 8,
     "description": ""
   },
   {
-    "category": "miscellaneous",
+    "category": "Miscellaneous",
     "count": 134,
     "description": ""
   },
   {
-    "category": "the-dogs",
+    "category": "The Dogs",
     "count": 4,
     "description": ""
   },
   {
-    "category": "the-house",
+    "category": "The House",
     "count": 26,
     "description": ""
   },
   {
-    "category": "the-twins",
+    "category": "The Twins",
     "count": 35,
     "description": ""
   },
   {
-    "category": "travel",
+    "category": "Travel",
     "count": 1,
     "description": ""
+  },
+  {
+    "category": "Uncategorized",
+    "count": 2,
+    "description": "Posts without a category assigned"
   }
 ]

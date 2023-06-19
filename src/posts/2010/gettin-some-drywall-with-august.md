@@ -2,7 +2,7 @@
 title: "Gettin' Some Drywall with August"
 date: "2010-03-28"
 categories: 
-  - "the-twins"
+  - "The Twins"
 ---
 
 Our new house has a lot of storage. When we first looked at it, it kept me awake the first night because I knew I loved the house, but I couldn't think of how, since the house didn't have a basement, we would be able to get all of our stuff put away. We went back the next day and I took an inventory of the storage space and quickly found that we had enough (probably too much).

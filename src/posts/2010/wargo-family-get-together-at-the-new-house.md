@@ -2,7 +2,7 @@
 title: "Wargo Family Get Together at the New House"
 date: "2010-03-08"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 We had the whole Wargo Family in this weekend. It was a lot of fun, we had the 3 couples plus 5 kids all running around making a ton of noise. My brother’s family came in Friday afternoon and my sister a while later. Of course the kids were too excited to sleep, so we had a late night and two of my nephews can’t do anything but get up at 5:30 so it was … challenging.

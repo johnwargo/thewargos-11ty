@@ -2,8 +2,8 @@
 title: "Kid's Web Sites"
 date: "2013-11-17"
 categories: 
-  - "family"
-  - "the-twins"
+  - "Family"
+  - "The Twins"
 ---
 
 When the twins were born, I immediately set them up with email accounts on this site. When they got their tablets earlier this year, I was able to set them up with those email accounts on the device. I also set them up with web sites; August's is augustwargo.com and Elizabeth's is lisawargo.com. August and I spent some time a while back working on his and this afternoon Lizzie and I spent some time working on hers.

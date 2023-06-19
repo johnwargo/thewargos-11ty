@@ -2,7 +2,7 @@
 title: "The Hardest Things About Moving to Charlotte"
 date: "2010-03-04"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I've discovered three things that have turned out to have been the hard parts of the move to Charlotte.

@@ -2,7 +2,7 @@
 title: "Getting Ready for Christmas"
 date: "2010-11-27"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 When we were in Akron, I just couldn't get excited about Christmas. I don't know whether it was something about the house or who wasn't in the house with us, but I just stopped caring about decorating for Christmas. Now that we're in Charlotte, I decided to try to make a big deal out of the holiday (and all holidays).  If you've seen the pictures, the house has a series of dormers across the front. There's even one above the front door and for some reason it has a power outlet in it. So, when we bought the house, I decided that we were going to put something up in that dormer for each holiday - something that could be seen from the street and also from within the house.

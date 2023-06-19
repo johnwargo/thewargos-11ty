@@ -2,7 +2,7 @@
 title: "Marketing and Technology at the Carowinds Amusement Park"
 date: "2010-09-11"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 We took the twins to Carowinds today – it’s a local amusement park just about 20 miles from here. I noticed two interesting things while we were at the park. One was an interesting marketing trick and another was an interesting use of technology.

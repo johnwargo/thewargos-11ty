@@ -2,7 +2,7 @@
 title: "jwargo.com"
 date: "2009-05-12"
 categories: 
-  - "geeking-out"
+  - "Geeking Out"
 tags: 
   - "john-wargo"
   - "jwargocom"

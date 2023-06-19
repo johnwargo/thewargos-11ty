@@ -2,7 +2,7 @@
 title: "Our Grand Vacation: Day 2"
 date: "2015-08-19"
 categories: 
-  - "anna"
+  - "Anna"
 ---
 
 So, since we were only in Greenville, MS to eat at Doe's, we grabbed a hotel room and did some more relaxing. The next morning, I woke up early-ish. I'm a HUGE fan of Shipley's Do-Nuts and spied one in Greenville on the way to the hotel. So, leaving Anna to wake up in the hotel room, I scooted off to get some FRESH Do-Nuts.

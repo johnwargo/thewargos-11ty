@@ -2,7 +2,7 @@
 title: "Time Warner Cable: Bunch of Idiots"
 date: "2010-02-14"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 I knew things would start to go wrong as we approached the closing date for our house in Charlotte. Yesterday it all began.  We had slight issues with the mortgage and closing and I think the closing in Charlotte will be a bit late because of it, but we should be OK.

@@ -2,8 +2,8 @@
 title: "Our Grand Vacation"
 date: "2015-08-11"
 categories: 
-  - "anna"
-  - "family"
+  - "Anna"
+  - "Family"
 coverImage: "funny_glasses.jpg"
 ---
 

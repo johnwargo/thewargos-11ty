@@ -2,9 +2,9 @@
 title: "Book Update"
 date: "2009-06-19"
 categories: 
-  - "bbdf"
+  - "BlackBerry Development Fundamentals"
 tags: 
-  - "anna"
+  - "Anna"
   - "blackberry-development-fundamentals"
   - "john-wargo"
 ---

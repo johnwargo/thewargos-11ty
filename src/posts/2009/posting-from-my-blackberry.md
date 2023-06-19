@@ -2,7 +2,7 @@
 title: "Posting from my BlackBerry"
 date: "2009-06-15"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 tags: 
   - "blackberry"
   - "wordpress"

@@ -2,7 +2,7 @@
 title: "Playing in the water..."
 date: "2009-10-17"
 categories: 
-  - "the-twins"
+  - "The Twins"
 ---
 
 Whenever I'm home alone with the kids on a Saturday (Anna's out of town this weekend) I always make sure I get caught up on the laundry. As soon as the kids see the water in the tub, they start their regular water play. First they dig out this 'thing' we have that's supposed to get cobwebs out of stuff - the poke around the ceiling and get it all cleaned up. Once that's done, they get mops, squeegees and other implements of cleaning and start dumping water from the tub and cleaning the laundry room floor. It's so funny to watch and they love doing it - just mopping the floor like they have no cares.

@@ -2,7 +2,7 @@
 title: "August and I snuck out and played golf yesterday…"
 date: "2010-04-23"
 categories: 
-  - "miscellaneous"
+  - "Miscellaneous"
 ---
 
 Elizabeth was invited to a birthday party yesterday afternoon and, since August wasn’t invited, I decided it would be a good time for the two of us to have some quality time together. I was going to say ‘he and I’ but worried that Anna would correct my grammar, she’s always doing that, so I went back and changed the phrasing.
