@@ -1,7 +1,6 @@
 const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const { generateCategoryPages } = require('eleventy-generate-category-pages');
-// https://github.com/11ty/eleventy/issues/2301
 const markdownIt = require('markdown-it');
 const markdownItAttrs = require('markdown-it-attrs');
 const pluginDate = require('eleventy-plugin-date');
