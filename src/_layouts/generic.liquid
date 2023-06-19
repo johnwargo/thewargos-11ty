@@ -1,0 +1,31 @@
+---
+siteTitle: The Wargos
+---
+<!DOCTYPE HTML>
+<!--
+Vortex by Pixelarity
+pixelarity.com | hello@pixelarity.com
+License: pixelarity.com/license
+--><html>
+  <head>
+    <title>{{ siteTitle }}: {{ title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+  </head>
+  <body class="is-preload">
+    {% include "header.html" %}
+    <div id="wrapper">
+      <section class="main style1">
+        <header class="small">
+          <h1>{{ title }}</h1>
+        </header>
+        <div class="inner">
+          {{ content }}
+        </div>
+      </section>
+    </div>
+    {% include "footer.html" %}
+    {% include "scripts.html" %}
+  </body>
+</html>
