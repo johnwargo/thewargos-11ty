@@ -5,7 +5,6 @@ const markdownIt = require('markdown-it');
 const markdownItAttrs = require('markdown-it-attrs');
 const pluginDate = require('eleventy-plugin-date');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
-const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const embedYouTube = require('eleventy-plugin-youtube-embed');
 const pluginStats = require('eleventy-plugin-post-stats');
 
@@ -25,7 +24,6 @@ module.exports = eleventyConfig => {
 	eleventyConfig.addPlugin(embedYouTube);
 	eleventyConfig.addPlugin(pluginDate);
 	eleventyConfig.addPlugin(pluginRss);
-	eleventyConfig.addPlugin(syntaxHighlight);
 	eleventyConfig.addPlugin(pluginImages);
 	eleventyConfig.addPlugin(pluginStats);
 
@@ -116,21 +114,16 @@ module.exports = eleventyConfig => {
 		"src/assets/sass/",
 		"src/assets/webfonts/",
 		// Images folders
-		"src/images/*",
-		"src/images/headers/*",
-		"src/images/avatar/*",
-		"src/images/common/*",
-		"src/images/covers/*",
-		"src/images/sites/*"
+		"src/images/*",		
 	].forEach((path) => {
 		eleventyConfig.addPassthroughCopy(path);
 	});
 
 	// Assumes cascading folders per year
-	// let thisYear = new Date().getFullYear();
-	// for (let i = 2009; i <= thisYear; i++) {
-	// 	eleventyConfig.addPassthroughCopy(`src/images/${i}/*`);
-	// }
+	let thisYear = new Date().getFullYear();
+	for (let i = 2009; i <= thisYear; i++) {
+		eleventyConfig.addPassthroughCopy(`src/posts/${i}/images/*`);
+	}
 
 	// Only minify HTML if we are in production because it slows builds
 	if (isProduction) {
