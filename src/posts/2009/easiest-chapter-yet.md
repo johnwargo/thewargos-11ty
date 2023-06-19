@@ -4,7 +4,7 @@ date: "2009-05-13"
 categories: 
   - Miscellaneous
  
-  - "blackberry-development-fundamentals"
+  - "BlackBerry Development Fundamentals"
 ---
 
 Well, I had to whack a chapter from the book last night. I can't say which one and I can't say why, but it was one I was really looking forward to writing.  Since I no longer have to write it, it's the easiest one I worked on (or didn't work on I guess).
