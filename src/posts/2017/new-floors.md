@@ -2,7 +2,7 @@
 title: "New Floors"
 date: "2017-07-30"
 categories: 
-  - "The House"
+  - The House
 ---
 
 If you've been to our house, you likely noticed our yellow hardwood floors. Whoever built the house used a clear finish on unstained floors that over time yellowed. Not a good look.

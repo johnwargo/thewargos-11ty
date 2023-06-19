@@ -2,7 +2,7 @@
 title: "Building a Play Fort, Part One: The Post"
 date: "2010-05-26"
 categories: 
-  - "The House"
+  - The House
 ---
 
 Last fall we got a family friend to help me build a play house in the back yard for the kids. We couldn't really afford it at the time, but we had an opportunity and, since we knew we were moving south, it would give me a chance to do a learner house before building the longer lasting one in Charlotte.

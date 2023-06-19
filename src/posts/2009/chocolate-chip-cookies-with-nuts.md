@@ -2,10 +2,7 @@
 title: "Chocolate Chip Cookies with Nuts?"
 date: "2009-06-16"
 categories: 
-  - "Miscellaneous"
-tags: 
-  - "chocolate-chip-cookies-with-nuts"
-  - "panera"
+  - Miscellaneous
 ---
 
 Panera (or at least the one I ate at recently) is no longer selling Chocolate Chip Cookies with Nuts. They've been selling them for years and are my favorite one and they just stopped selling them. The still sell the regular ones (without nuts) but not the ones I want. When I asked, someone there said it was because of safety reasons.  

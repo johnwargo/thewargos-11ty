@@ -2,7 +2,7 @@
 title: "Busy Weekend"
 date: "2010-11-29"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 Well, we just finished a very busy weekend. My sister and her family came in to town and we had a lot of fun hanging out. The twins loved playing with their cousins and it got pretty crazy here while they were in town. I cooked the traditional big turkey dinner on Thursday and Anna says it was the best ever.

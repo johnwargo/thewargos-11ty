@@ -2,11 +2,7 @@
 title: "Book Update"
 date: "2009-06-19"
 categories: 
-  - "BlackBerry Development Fundamentals"
-tags: 
-  - "Anna"
-  - "blackberry-development-fundamentals"
-  - "john-wargo"
+  - BlackBerry Development Fundamentals
 ---
 
 Finished chapter 16 late last night. The chapter turned out pretty well, better than I expected. All I have left to do writing-wise is finish half of chapter 10. I should be able to complete that by Monday and the writing will be done.

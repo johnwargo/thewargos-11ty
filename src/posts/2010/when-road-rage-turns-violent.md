@@ -2,7 +2,7 @@
 title: "When Road Rage Turns Violent"
 date: "2010-03-15"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 As I got on the exercise equipment this morning at the Y, I noticed what appeared to be a long news item on the local channel. I couldn't tell what the story was because I was blasting old Jethro Tull (Minstrel in the Gallery) into my ears from my iPod.

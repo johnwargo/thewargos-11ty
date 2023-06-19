@@ -2,7 +2,7 @@
 title: "Moved Site"
 date: "2012-11-27"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 [![](images/site_moved-300x234.png "site_moved")](http://www.thewargos.com/2012/11/moved-site/site_moved/)

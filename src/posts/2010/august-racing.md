@@ -2,7 +2,7 @@
 title: "August Racing"
 date: "2010-04-12"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I played golf this morning with my neighbor and of course August wanted to go as well. I'd promised August we'd play this weekend, so we made plans to head out after Anna finished running some errands. During the day, we got out our clubs and some practice balls and spent some time hitting balls in the front yard. When it came time to go to the driving range, August decided instead that he wanted to play miniature golf. So, we trucked over to the miniature golf place and played a round.

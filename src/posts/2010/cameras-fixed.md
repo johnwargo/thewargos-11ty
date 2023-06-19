@@ -2,7 +2,7 @@
 title: "Camera's Fixed"
 date: "2010-08-01"
 categories: 
-  - "The House"
+  - The House
 ---
 
 Well, about $350 later, our camera has been fixed and I can get back to taking some good pictures of the new garage/office. While I was out of town last week, they finished framing the building, put on the roof and installed the windows. Here's some update pictures:

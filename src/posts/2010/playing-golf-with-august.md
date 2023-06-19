@@ -2,7 +2,7 @@
 title: "Playing Golf With August"
 date: "2010-07-25"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 August and I headed out to play golf yesterday. My back's been bothering me for a long time now and was finally getting good enough that I thought I could handle it. It was of course 100 degrees F, but we went out anyway.

@@ -2,7 +2,7 @@
 title: "Lotusphere 2011"
 date: "2011-02-02"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I'm wrapping up what is my 17th Lotusphere conference. This has been a big event for me, lots of good things and some not so good things happened here.

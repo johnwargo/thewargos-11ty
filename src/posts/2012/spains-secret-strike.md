@@ -2,7 +2,7 @@
 title: "Spain’s Secret Strike"
 date: "2012-12-08"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 [![The Sun](images/sun.png "The Sun")](http://www.thewargos.com/2012/12/spains-secret-strike/sun/)

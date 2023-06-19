@@ -2,7 +2,7 @@
 title: "Happiest Day in My Life"
 date: "2009-09-18"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 No, not because I don't have to work for a little while - because of this...

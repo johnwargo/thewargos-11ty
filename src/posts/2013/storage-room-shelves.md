@@ -2,7 +2,7 @@
 title: "Storage Room Shelves"
 date: "2013-11-06"
 categories: 
-  - "The House"
+  - The House
 ---
 
 Back in April, Anna and I built a set of shelves for our storage room. I was just pulling some pictures off of our camera and found these pictures I took as I assembled the shelves. I cut them in the workshop and Anna and I painted them before carrying them into the storage room to build them in place. The room was too small for me to build them in the shop and move them over in a finished state.

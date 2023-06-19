@@ -2,7 +2,7 @@
 title: "'Finished' the book last night..."
 date: "2009-06-25"
 categories: 
-  - "BlackBerry Development Fundamentals"
+  - BlackBerry Development Fundamentals
 ---
 
 Yep, it's finished! Wow, a whole bunch of work that was. Now all I have to do is finish the review/edit phase and (woohoo!) it's ready to publish.

@@ -2,8 +2,8 @@
 title: "Saturday Night"
 date: "2009-06-14"
 categories: 
-  - "Miscellaneous"
-tags: 
+  - Miscellaneous
+ 
   - "blackberry-development-fundamentals"
 ---
 

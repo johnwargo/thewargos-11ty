@@ -2,7 +2,7 @@
 title: "Silly Rabbits"
 date: "2009-06-18"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 A few years ago we had these silly rabbits that built a nest and had babies in the flower bed right outside our back porch door. It didn't take long for the dogs to find them and kill a few bunnies. How stupid - the dogs are outside chasing rabbits every day, you'd think they'd know.

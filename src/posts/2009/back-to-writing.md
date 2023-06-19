@@ -2,7 +2,7 @@
 title: "Back to Writing"
 date: "2009-06-06"
 categories: 
-  - "BlackBerry Development Fundamentals"
+  - BlackBerry Development Fundamentals
 ---
 
 OK, I finally finished getting through the final reviewer's comments. It was arduous - in one chapter, there were more comments than could fit on the page. As much as I hated putting aside the writing to spend an entire week processing a reviewer's comments, their comments in general were helpful for the book. In many cases, they were looking too much at the book from their perspective (how they'd write it) but in others the comments were spot on and helped some of the rough spots in the book.

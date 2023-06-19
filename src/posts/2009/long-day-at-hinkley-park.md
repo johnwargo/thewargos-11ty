@@ -2,7 +2,7 @@
 title: "Long day at the Hinkley Reservation"
 date: "2009-04-26"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 We had an amazing day yesterday. We had breakfast and I had to scurry to accommodate a late scheduled showing of the house. Turns out they though the back yard was too small.  Oh well. 

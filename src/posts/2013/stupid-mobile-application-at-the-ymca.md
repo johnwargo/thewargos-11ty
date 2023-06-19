@@ -2,7 +2,7 @@
 title: "Stupid Mobile Application at the YMCA"
 date: "2013-08-18"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 OK, so I was registering my daughter for fall Soccer (That’s Football to most of the world) at the local YMCA. The person behind the counter scanned my membership card, so had all of the information she needed to complete the registration except for payment. Actually, that’s not true – they automatically transfer the monthly fee from my checking account, so they even had the information they needed to collect payment as well.

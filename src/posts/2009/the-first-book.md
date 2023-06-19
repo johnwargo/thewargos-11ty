@@ -2,7 +2,7 @@
 title: "The First Book"
 date: "2009-02-12"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 Is selling well according to [Official Sports International](<a href=). They put the book in their Christmas Flyer and just ordered another batch of books for inventory. They're putting their finishing touches on their spring flyer, so we should be in good shape.

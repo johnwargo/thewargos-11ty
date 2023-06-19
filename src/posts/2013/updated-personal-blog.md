@@ -2,7 +2,7 @@
 title: "Updated Personal Blog"
 date: "2013-01-24"
 categories: 
-  - "Geeking Out"
+  - Geeking Out
 coverImage: "jmw-web-site.png"
 ---
 

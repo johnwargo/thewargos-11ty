@@ -2,7 +2,7 @@
 title: "Singin' a Song Productions"
 date: "2010-02-09"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 \[caption id="attachment\_421" align="alignleft" width="175" caption="Birds of a Feather"\][![](images/bof_cover_175.jpg "Birds of a Feather")](http://www.thewargos.com/wp-content/uploads/2010/02/bof_cover_175.jpg)\[/caption\]

@@ -2,7 +2,7 @@
 title: "Interesting (bad) Dell RMA Expereince"
 date: "2009-08-19"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I had an interesting experience with a Dell Netbook purchase that I thought I’d share with you…

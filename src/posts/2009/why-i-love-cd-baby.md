@@ -2,7 +2,7 @@
 title: "Why I Love CD Baby"
 date: "2009-10-16"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 A long time ago, I spent a lot of time listening to Internet radio. There was some site I found (I can no longer remember its name) that had a great folk channel and I found a lot of great artists through it. One of them was a young lady by the name of [Michelle Lewis](http://www.michellelewismusic.com/) who has a new EP coming out soon if I remember correctly. Anyway, Michelle and many other artists sell their CD's through a company called CD Baby - it's an independent CD distributor that has a lot of great artists on board.

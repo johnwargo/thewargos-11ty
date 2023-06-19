@@ -2,7 +2,7 @@
 title: "Junior Mints"
 date: "2013-01-03"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 coverImage: "junior_mints_box.png"
 ---
 

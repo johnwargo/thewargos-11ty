@@ -2,7 +2,7 @@
 title: "BoxTone Blog Posting"
 date: "2009-04-14"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I published my first blog posting to the BoxTone web site yesterday. Check it out:

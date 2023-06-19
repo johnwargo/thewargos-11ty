@@ -2,7 +2,7 @@
 title: "Telemarketed by an IVR"
 date: "2012-12-27"
 categories: 
-  - "Geeking Out"
+  - Geeking Out
 coverImage: "callcenter.png"
 ---
 

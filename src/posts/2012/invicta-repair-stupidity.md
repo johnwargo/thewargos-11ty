@@ -2,7 +2,7 @@
 title: "Invicta Repair Stupidity"
 date: "2012-12-10"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 \[caption id="attachment\_2334" align="alignnone" width="300"\][![Invicta Logo](images/invicta_logo.jpg "Invicta Logo")](http://www.thewargos.com/2012/12/invicta-repair-stupidity/invicta_logo/) Invicta Logo\[/caption\]

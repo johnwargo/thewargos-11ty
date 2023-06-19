@@ -2,7 +2,7 @@
 title: "Elizabeth said the funniest thing"
 date: "2009-04-26"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 After dinner last night, we played in the back yard for a couple of hours. I finally dug out my clubs and we chipped balls for a while. They both got out their clubs and played along. Eventually they decided they were going to collect all of my shag balls and charge me to use them. It was funny. I started trying to hit them with balls (they were plastic) and everybody laughed.

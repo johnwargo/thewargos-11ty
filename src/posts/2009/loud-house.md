@@ -2,7 +2,7 @@
 title: "Loud house"
 date: "2009-01-17"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I forgot to mention that with the incredibly low temperatures, the house is making a whole bunch of really loud sounds. Anna and I were woken up last night with bumps and sanps we'd never heard before.

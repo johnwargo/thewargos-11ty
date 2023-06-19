@@ -2,7 +2,7 @@
 title: "Things are different now that the kids are in school"
 date: "2009-09-08"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 Things sure are different here now that the kids are in school. Let's go through some of the changes:

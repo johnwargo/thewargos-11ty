@@ -2,9 +2,9 @@
 title: "Wild Weekend"
 date: "2009-05-31"
 categories: 
-  - "BlackBerry Development Fundamentals"
-  - "The House"
-  - "The Twins"
+  - BlackBerry Development Fundamentals
+  - The House
+  - The Twins
 ---
 
 Phew, wild weekend.

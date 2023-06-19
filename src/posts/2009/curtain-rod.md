@@ -2,7 +2,7 @@
 title: "Curtain Rod"
 date: "2009-01-02"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 We had an issue a while back where the kids gave a sitter a horrible time going to bed. One of the things that happened was that they pulled one of the curtains off the wall in their room. It took me a while to rebuild the rod holder so it could go back up.  On Wednedsay afternoon I finally got it back up and it seemed sturdier than before.

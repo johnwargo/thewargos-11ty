@@ -2,9 +2,9 @@
 title: "Building Some Furniture"
 date: "2013-10-25"
 categories: 
-  - "Family"
-  - "Miscellaneous"
-  - "The House"
+  - Family
+  - Miscellaneous
+  - The House
 ---
 
 One of the cool things about having a workshop is using it to build stuff. A while back, Anna asked me to put together some shelving for August and Elizabeth's rooms. She wanted something with slots for those collapsible cube storage thingies about 12" by 12" by 12".

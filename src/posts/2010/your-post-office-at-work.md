@@ -2,7 +2,7 @@
 title: "Your Post Office at Work"
 date: "2010-05-06"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 Well, we’re all moved in to the house and getting ready to build a garage. We hired a builder, we have preliminary plans and I’m excited to break ground. One of the things we needed for the builder is the survey that was done on the property as part of the closing. I sent email after email to the closing lawyer asking for a copy of the survey and got no response (McMillan-Terry, they suck).

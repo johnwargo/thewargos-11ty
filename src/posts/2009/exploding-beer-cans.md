@@ -2,7 +2,7 @@
 title: "Exploding Beer Cans"
 date: "2009-09-08"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 I went camping a few weeks ago with a couple of buddies and we had some beer left over (actually pretty hard to imagine if you think about it). Rather than bring a bunch of beer home (I really don't drink Beer at home - allergic to it) I suggested I leave the cooler for the next batch of campers to drink.

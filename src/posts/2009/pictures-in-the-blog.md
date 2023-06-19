@@ -2,7 +2,7 @@
 title: "Pictures in the Blog"
 date: "2009-06-06"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 Of course, all along I've been able to include pictures in posts but never through to do so. Here's one.

@@ -2,7 +2,7 @@
 title: "Pizza Place"
 date: "2009-02-11"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 It had been a while since I spoke with my friend Laura. I'd had the kids and got pretty busy and we never seemed to have time to catch up. A few weeks ago I emailed her and said hello, she replied with a very nice, long message documenting everything that was going on with her.  Turns out that she's opening a restaurant (actually, it opened yesterday). For dinner last night, we all climbed into the van and headed over to her place.

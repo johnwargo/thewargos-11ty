@@ -2,7 +2,7 @@
 title: "CD Shelving"
 date: "2013-04-11"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I promised all of you some pictures of how the CD shelves turned out. Here ya go!

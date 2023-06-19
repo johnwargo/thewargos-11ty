@@ -2,7 +2,7 @@
 title: "Big Holiday Weekend"
 date: "2012-11-24"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 We had a big holiday weekend here. I’ve been out of town most of the last 6 weeks and it was really nice to have a few extra days without work. We had the traditional Thanksgiving dinner Thursday then Friday and Saturday I crossed a few things off the to-do list.

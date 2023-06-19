@@ -2,7 +2,7 @@
 title: "20-Cups"
 date: "2010-05-17"
 categories: 
-  - "The House"
+  - The House
 ---
 
 My sister in law was driving home from a Family Reunion this afternoon and swung by to visit us. A little impromptu family play date, very nice. We decided to have dinner then she'd hit the road and put the kids to bed. Anna ordered pizza from Donatos and I went to pick it up.

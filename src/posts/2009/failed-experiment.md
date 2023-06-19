@@ -2,7 +2,7 @@
 title: "Failed Experiment"
 date: "2009-04-24"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 A few weeks ago I was playing with the kids in the den and decided they would think it was cool to learn that the sofa was actually a pull-out bed. August immediately asked if they could sleep on it and I readily agreed. Well, Anna is out of town this weekend (looking for houses in Charlotte) and as soon as we started home from the airport the kids started asking if they could sleep in the pull-out bed tonight. I agreed as long as the entire house was picked up by the time they were supposed to go to bed.

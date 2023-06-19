@@ -2,7 +2,7 @@
 title: "Soccer Practice"
 date: "2011-03-10"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 Well, we signed the kids up for Soccer at the local Y. August played last fall and Elizabeth didn't want to, but this year she's in. We split them up, so they're not on the same team. We thought that would be best considering Elizabeth's ability to be a bull in a china shop.

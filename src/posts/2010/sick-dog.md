@@ -2,7 +2,7 @@
 title: "Sick Dog"
 date: "2010-07-19"
 categories: 
-  - "The Dogs"
+  - The Dogs
 ---
 
 \[caption id="attachment\_632" align="alignleft" width="300" caption="Lucy Girl"\][![Lucy Girl](images/DSC_0202-300x199.jpg "Lucy Girl")](http://www.thewargos.com/wp-content/uploads/2010/07/DSC_0202.jpg)\[/caption\]

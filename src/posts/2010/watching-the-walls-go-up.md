@@ -2,7 +2,7 @@
 title: "Watching the Walls Go Up"
 date: "2010-07-20"
 categories: 
-  - "The House"
+  - The House
 ---
 
 Well, after many (many, many) problems and delays, the walls are finally going up on my new garage/office/workshop.  Half of the wood was delivered yesterday and the framers started framing early this morning. Two walls are up and the back wall is being built in place.  They'll have the front wall installed before lunch and may even get started on the floor joist installation. They may even have the second floor framed today.

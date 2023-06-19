@@ -2,7 +2,7 @@
 title: "It's Official"
 date: "2009-04-23"
 categories: 
-  - "BlackBerry Development Fundamentals"
+  - BlackBerry Development Fundamentals
 ---
 
 The publisher has decided on a title for the book!  The book is going to be called BlackBerry Development Fundamentals (the working title was Fundamentals of BlackBerry Development, so this is close to what I was thinking would be a good title).  The book should be up on amazon.com soon, look for the book by title or use the ISBN's for the book: ISBN-10: 0321647424 or ISBN-13: 9780321647429.

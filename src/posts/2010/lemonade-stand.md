@@ -2,7 +2,7 @@
 title: "Lemonade Stand"
 date: "2010-05-03"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 Anna had a sorority reunion this weekend, so I had the kids all to myself all weekend. On Sunday, we were hanging out, playing in the yard and so on. Before long it was lunch time and I had a house full of kids. August and Elizabeth had been bugging us ever since we got here to let them sell lemonade in the front yard and they asked me again. Well, it was a hot one; it got up to 92 degrees, so I told them they could do it after lunch.

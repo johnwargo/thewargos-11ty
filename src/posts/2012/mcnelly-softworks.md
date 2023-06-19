@@ -2,7 +2,7 @@
 title: "McNelly SoftWorks"
 date: "2012-12-07"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 \[caption id="attachment\_2287" align="alignnone" width="300"\][![McNelly SoftWorks Logo](images/msw_logo_md.jpg "McNelly SoftWorks Logo")](http://www.thewargos.com/2012/11/facebook-page/msw_logo_md/) McNelly SoftWorks Logo\[/caption\]

@@ -2,7 +2,7 @@
 title: "Dog Poo on the stairs"
 date: "2009-10-01"
 categories: 
-  - "The Dogs"
+  - The Dogs
 ---
 
 So I got up early this morning (like at 3:23 AM) and went off to the gym (at about 6). When I came home, nobody else was up (although someone should have been) so the dogs were there to greet me. I took them downstairs to feed them and when I came back upstairs I noticed that I had dog poo on my shoe and there was some on each of three alternating steps into the basement. I guess what happened was that one of the dogs (I didn't recognize the poo) had to go and let one piece sneak out on the way down to eat (eating been considered much more important than 'doing their business') and I inadvertently stepped in it.

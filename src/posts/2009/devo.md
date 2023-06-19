@@ -2,8 +2,8 @@
 title: "Devo"
 date: "2009-06-16"
 categories: 
-  - "Miscellaneous"
-tags: 
+  - Miscellaneous
+ 
   - "devo"
   - "weather-channel"
 ---

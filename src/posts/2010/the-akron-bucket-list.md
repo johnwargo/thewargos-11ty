@@ -2,7 +2,7 @@
 title: "The Akron Bucket List"
 date: "2010-01-26"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 OK, so I’ve lived in Akron my entire life. The house I live in today is the house my parents moved into when my mother was pregnant with me. I have long, strong ties to Akron – although not because it’s Akron. It’s just because that’s where I have lived all of my life and it’s just home. I’m fortunate that I’ve traveled all over the United States and parts of the world (China, the United Kingdom, Germany, the Netherlands, Australia, Mexico, Canada, France, Monte Carlo and Italy – I think that’s it). I’ve gotten to know all sorts of places, but Akron has just always been home.

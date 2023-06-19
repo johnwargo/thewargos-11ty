@@ -2,7 +2,7 @@
 title: "Big day at the new house"
 date: "2010-02-28"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 Well, we've been in the house for 8 days now and we're probably about 70% unpacked. Anna's been working like crazy getting more and more unpacked in each room. Won't be too long before we're all done.

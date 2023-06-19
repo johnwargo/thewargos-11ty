@@ -2,7 +2,7 @@
 title: "Carving Pumpkins"
 date: "2009-10-19"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 We picked Anna up at the airport yesterday then headed off to Acme (yep, Acme) to pick up pumpkins. They had them on sale for $2.99 and being unemployed (or almost unemployed) we're trying to spend a little as possible on them.

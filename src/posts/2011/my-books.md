@@ -2,7 +2,7 @@
 title: "My Books"
 date: "2011-06-27"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I’m getting ready to start writing my next (third) book. As I mentioned before, I’ve been having conversations with my publisher about what I’m going to do next and I think we’ve decided on the topic.  I’m waiting on a contract from my publisher then I’ll get started.

@@ -2,7 +2,7 @@
 title: "Bookmark"
 date: "2010-05-08"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 \[caption id="attachment\_558" align="alignleft" width="161" caption="A Bookmark Elizabeth Made for Me"\][![A Bookmark Elizabeth Made for Me](images/Elizabeth-bookmark-161x300.png "A Bookmark Elizabeth Made for Me")](http://www.thewargos.com/wp-content/uploads/2010/05/Elizabeth-bookmark.png)\[/caption\]

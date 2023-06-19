@@ -2,7 +2,7 @@
 title: "Few showings so far"
 date: "2009-04-14"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 Had a couple of showings last week and one yesterday.

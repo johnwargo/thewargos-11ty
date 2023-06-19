@@ -2,7 +2,7 @@
 title: "Lands’ End Order Tracker"
 date: "2012-12-10"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I’m a huge fan of Lands’ End (yes, that’s a typo – it’s their typo, not mine) and have been a customer for a very long time. Everyone’s on the Internet now, so you can buy things, check status of orders and even return stuff without ever having to fill out a form or even call a customer service person.

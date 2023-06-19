@@ -2,7 +2,7 @@
 title: "No Free Milk?"
 date: "2009-08-25"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 We took the kids to their new school yesterday for open house. When we got home, Anna told me an interesting story I thought I'd share.

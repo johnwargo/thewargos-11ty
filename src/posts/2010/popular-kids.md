@@ -2,7 +2,7 @@
 title: "Popular Kids"
 date: "2010-05-02"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 August has been bugging us for some time now to let him go over to a classmate’s house (let’s call her Suzie). He’s made us drive into her cul-de-sac to try to find her house and this weekend I promised we’d ride our bikes over there to see if we could see her outside. We headed over and found them – her and her sister (go ahead and crank on my grammar) rushed over to see the twins and Suzie gave August a huge hug. They rushed off to play while I met the father and later the mother. It’s so cool to see the kids make friends, but the huge hug he got was…interesting. I didn’t know 6 year olds hugged that much, but a lot of girls hug August.

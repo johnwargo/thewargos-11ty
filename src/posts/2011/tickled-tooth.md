@@ -2,7 +2,7 @@
 title: "Tickled Tooth"
 date: "2011-04-12"
 categories: 
-  - "The Twins"
+  - The Twins
 ---
 
 Elizabeth's been losing some teeth lately. She fell a while back and whacked two of her front teeth and they started to wiggle. On Sunday, she was getting out of her church dress when I walked into the room. She had her dress pulled over her head with her belly exposed. Of course I couldn't pass up the opportunity to give her a big belly tickle. She screamed, pulled her hands down and promptly knocked one of her loose teeth out of her mouth.

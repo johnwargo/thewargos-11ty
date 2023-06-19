@@ -2,7 +2,7 @@
 title: "Free DSL Upgrade"
 date: "2013-01-18"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I called my local phone and Internet provider (Windstream) today about upgrading my Internet bandwidth. They'd sent me a letter a while back about increased speeds in the neighborhood and I thought I'd see what it cost.

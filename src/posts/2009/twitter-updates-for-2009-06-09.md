@@ -1,7 +1,7 @@
 ---
 title: "Twitter Updates for 2009-06-09"
 date: "2009-06-10"
-tags: 
+ 
   - "tweets"
 ---
 

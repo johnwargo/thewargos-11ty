@@ -2,8 +2,8 @@
 title: "Best dog toy ever"
 date: "2009-07-07"
 categories: 
-  - "Miscellaneous"
-  - "The Dogs"
+  - Miscellaneous
+  - The Dogs
 ---
 
 For years, Anna and I would try different dog toys and the silly dogs would break them within seconds of getting them. We just realized though that there's one toy they've used for years and they haven't broken it. It's called a soft bite floppy disk and, although the one we have is crumpled, torn and crappy looking - it is still in one piece and the dogs play with it all the time. We love it. 

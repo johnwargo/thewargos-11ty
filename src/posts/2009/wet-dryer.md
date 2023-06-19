@@ -2,7 +2,7 @@
 title: "Wet Dryer"
 date: "2009-03-12"
 categories: 
-  - "The House"
+  - The House
 ---
 
 We have this interesting problem with our dryer vent. The window well where it comes out is in a window well that tends to get a lot of water in a heavy rain. Sometimes, not very often, rain water fills up the window well and runs down the vent pipe into the dryer. We've taken the step sometimes when heavy rain is expected to pull the dryer away from the wall and disconnect the vent.

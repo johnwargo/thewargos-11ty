@@ -21,7 +21,7 @@
   },
   {
     "category": "Miscellaneous",
-    "count": 134,
+    "count": 135,
     "description": ""
   },
   {
@@ -48,5 +48,40 @@
     "category": "Uncategorized",
     "count": 2,
     "description": "Posts without a category assigned"
+  },
+  {
+    "category": "blackberry",
+    "count": 1,
+    "description": ""
+  },
+  {
+    "category": "blackberry-development-fundamentals",
+    "count": 3,
+    "description": ""
+  },
+  {
+    "category": "devo",
+    "count": 1,
+    "description": ""
+  },
+  {
+    "category": "john-wargo",
+    "count": 1,
+    "description": ""
+  },
+  {
+    "category": "jwargocom",
+    "count": 1,
+    "description": ""
+  },
+  {
+    "category": "weather-channel",
+    "count": 1,
+    "description": ""
+  },
+  {
+    "category": "wordpress",
+    "count": 1,
+    "description": ""
   }
 ]

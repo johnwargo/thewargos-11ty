@@ -2,7 +2,7 @@
 title: "Our Grand Vacation: Day 1"
 date: "2015-08-11"
 categories: 
-  - "Anna"
+  - Anna
 ---
 
 Here we go, off on a vacation. First of all, we had to get Abby from the airport. Since she was coming in and we were soon thereafter leaving, we decided to take two cars to the airport. We loaded up the kids and headed off. I parked my car in the daily parking lot while Anna parked her car in the short-term parking. August was with me and Lizzy was with Anna.

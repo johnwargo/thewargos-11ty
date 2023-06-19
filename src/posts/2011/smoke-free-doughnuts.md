@@ -2,7 +2,7 @@
 title: "Smoke Free Doughnuts"
 date: "2011-04-08"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 OK, so what is Dunkin' implying here? That the other doughnut brands have smoke in them? Huh?

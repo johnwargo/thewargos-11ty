@@ -2,7 +2,7 @@
 title: "8 Months, 2 Days"
 date: "2009-08-03"
 categories: 
-  - "BlackBerry Development Fundamentals"
+  - BlackBerry Development Fundamentals
 ---
 
 That's how long it takes to 'write' a 500 page computer book. I started the process on December 1st, 2008 and it's pretty much consumed my after-hours life since then. I have:

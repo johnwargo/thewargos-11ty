@@ -2,9 +2,9 @@
 title: "Paul Bunyon"
 date: "2011-03-13"
 categories: 
-  - "Miscellaneous"
-  - "The House"
-  - "The Twins"
+  - Miscellaneous
+  - The House
+  - The Twins
 ---
 
 We had quite a busy day yesterday. The previous owner of this house planted 140 trees in the front yard. The beauty of him doing that is that you can't see the house very clearly from the street (even though it's not that far from the street) so it hides some of the size of it and we get a great amount of shade in the afternoon (since the house faces West) which makes the house cooler during hot days.

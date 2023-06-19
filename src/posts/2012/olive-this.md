@@ -2,7 +2,7 @@
 title: "Olive This!"
 date: "2012-08-03"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I’ve been writing a bit about some friends of ours who have opened a specialty olive oil and vinegar store in South Charlotte called Olive This!. Simply two housewives with an idea and a well-known distributor with a quality product. When I heard about what they were doing, I knew they’d need a web presence and immediately offered to help. I would have done it for free, but instead they plied me with cookies, brownies and other food items for my help.

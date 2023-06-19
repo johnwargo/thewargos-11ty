@@ -2,7 +2,7 @@
 title: "Airplane Etiquette"
 date: "2014-02-02"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I spent the weekend in Buffalo snowmobiling with some very old friends. As I flew on several Southwest airlines flights I was reminded of a little piece of airplane etiquette that most people don’t think/know of.

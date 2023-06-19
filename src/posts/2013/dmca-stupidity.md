@@ -2,7 +2,7 @@
 title: "DMCA Stupidity"
 date: "2013-01-28"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 coverImage: "handcuffs.png"
 ---
 

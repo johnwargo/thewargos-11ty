@@ -2,7 +2,7 @@
 title: "Writer's Block"
 date: "2010-02-12"
 categories: 
-  - "Miscellaneous"
+  - Miscellaneous
 ---
 
 I was so traumatized by my previous employer over my business writing that toward the end (and probably one of the reasons they let me go) I just couldn't write anything. I had to write in my boss' voice and I found it just too difficult. On top of that, everything was done by committee and it was just a nightmare to accommodate everyone on top of a picky boss. The last real document I had to write took me weeks to write - I just stared and stared at the screen, completely unable to put any words down. It was horrible.
