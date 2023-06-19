@@ -1,6 +1,6 @@
 ---
-title: "9th Anniversary"
-date: "2009-12-09"
+title: 9th Anniversary
+date: 2009-12-09
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "A Jelly Bean He Didn't Like?"
-date: "2009-06-28"
+title: A Jelly Bean He Didn't Like?
+date: 2009-06-28
 categories: 
   - The Twins
 ---

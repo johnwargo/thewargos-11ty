@@ -1,6 +1,6 @@
 ---
-title: "Alone with the kids"
-date: "2009-01-24"
+title: Alone with the kids
+date: 2009-01-24
 categories: 
   - Miscellaneous
 ---

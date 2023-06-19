@@ -1,6 +1,6 @@
 ---
-title: "Anna and the twins are at a park"
-date: "2009-02-11"
+title: Anna and the twins are at a park
+date: 2009-02-11
 categories: 
   - Miscellaneous
 ---

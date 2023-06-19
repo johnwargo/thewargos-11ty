@@ -1,6 +1,6 @@
 ---
-title: "Another old friend"
-date: "2009-01-24"
+title: Another old friend
+date: 2009-01-24
 categories: 
   - Miscellaneous
 ---

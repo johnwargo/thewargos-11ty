@@ -1,6 +1,6 @@
 ---
-title: "8 Months, 2 Days"
-date: "2009-08-03"
+title: 8 Months, 2 Days
+date: 2009-08-03
 categories: 
   - BlackBerry Development Fundamentals
 ---
