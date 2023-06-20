@@ -54,9 +54,8 @@ License: pixelarity.com/license
               </section>
               <section class="box">
                 <header>
-                  <h3>Categories</h3>
+                  <h3>Article Categories</h3>
                 </header>
-                <p>The following list displays the most popular artickes in the site.</p>
                 {% assign categories = category-meta | sort %}
                 <ul>
                   {% for catData in categories %}
@@ -68,7 +67,7 @@ License: pixelarity.com/license
                   {% endfor %}
                 </ul>
                 <footer>
-                  <a href="#" class="button alt">Read More</a>
+                  <a href="/categories/" class="button alt">Read More</a>
                 </footer>
               </section>
             </div>
