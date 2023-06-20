@@ -1,6 +1,6 @@
 ---
-title: "Reworking Chapter 11"
-date: "2009-07-03"
+title: Reworking Chapter 11
+date: 2009-07-03
 categories: 
   - BlackBerry Development Fundamentals
 ---

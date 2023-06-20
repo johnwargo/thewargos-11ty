@@ -1,6 +1,6 @@
 ---
-title: "Long walk in the park"
-date: "2009-06-08"
+title: Long walk in the park
+date: 2009-06-08
 categories: 
   - Miscellaneous
 ---

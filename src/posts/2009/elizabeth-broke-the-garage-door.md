@@ -1,5 +1,5 @@
 ---
-title: Elizabeth broke the garage door...
+title: Elizabeth broke the garage door
 date: 2009-06-01
 categories: 
   - Miscellaneous

@@ -1,6 +1,6 @@
 ---
-title: "Elizabeth said the funniest thing"
-date: "2009-04-26"
+title: Elizabeth said the funniest thing
+date: 2009-04-26
 categories: 
   - The Twins
 ---

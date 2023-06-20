@@ -1,6 +1,6 @@
 ---
-title: "Silly Rabbits"
-date: "2009-06-18"
+title: Silly Rabbits
+date: 2009-06-18
 categories: 
   - Miscellaneous
 ---
@@ -9,4 +9,4 @@ A few years ago we had these silly rabbits that built a nest and had babies in t
 
 Well, I went outside the other day and there appears to be a new nest -even closer to the door and more easily visible.
 
-\[caption id="attachment\_168" align="alignleft" width="300" caption="Rabbit Nest?"\]![Rabbit Nest?](images/IMG00006-20090616-1726-300x225.jpg "IMG00006-20090616-1726")\[/caption\]
+![Rabbit Nest?](images/IMG00006-20090616-1726-300x225.jpg "IMG00006-20090616-1726")

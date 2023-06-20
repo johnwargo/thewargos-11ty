@@ -1,5 +1,5 @@
 ---
-title: Interesting (bad) Dell RMA Expereince
+title: Interesting (bad) Dell RMA Experience
 date: 2009-08-19
 categories: 
   - Miscellaneous

@@ -1,6 +1,6 @@
 ---
-title: "Elizabeth drew me a picture"
-date: "2009-09-28"
+title: Elizabeth drew me a picture
+date: 2009-09-28
 categories: 
   - Miscellaneous
 ---

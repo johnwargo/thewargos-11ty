@@ -1,6 +1,6 @@
 ---
-title: "Carving Pumpkins"
-date: "2009-10-19"
+title: Carving Pumpkins
+date: 2009-10-19
 categories: 
   - Miscellaneous
 ---

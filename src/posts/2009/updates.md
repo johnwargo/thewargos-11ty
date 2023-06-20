@@ -1,5 +1,5 @@
 ---
-title: Updates...
+title: Updates
 date: 2009-01-16
 categories: 
   - Geeking Out

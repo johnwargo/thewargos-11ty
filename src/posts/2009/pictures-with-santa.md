@@ -1,6 +1,6 @@
 ---
-title: "Pictures with Santa"
-date: "2009-12-03"
+title: Pictures with Santa
+date: 2009-12-03
 categories: 
   - Miscellaneous
 ---

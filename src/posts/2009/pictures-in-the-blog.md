@@ -1,6 +1,6 @@
 ---
-title: "Pictures in the Blog"
-date: "2009-06-06"
+title: Pictures in the Blog
+date: 2009-06-06
 categories: 
   - The Twins
 ---

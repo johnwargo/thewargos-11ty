@@ -1,6 +1,6 @@
 ---
-title: "Rice Krispy Treats"
-date: "2009-11-10"
+title: Rice Krispy Treats
+date: 2009-11-10
 categories: 
   - Miscellaneous
 ---

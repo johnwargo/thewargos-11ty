@@ -1,6 +1,6 @@
 ---
-title: "Getting ready for a speaking engagement"
-date: "2009-03-31"
+title: Getting ready for a speaking engagement
+date: 2009-03-31
 categories: 
   - Miscellaneous
 ---

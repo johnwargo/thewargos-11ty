@@ -1,5 +1,5 @@
 ---
-title: Playing in the water...
+title: Playing in the water
 date: 2009-10-17
 categories: 
   - The Twins

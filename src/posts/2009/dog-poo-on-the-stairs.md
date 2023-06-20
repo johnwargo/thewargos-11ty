@@ -1,5 +1,5 @@
 ---
-title: Dog Poo on the stairs
+title: Dog Poop on the Stairs
 date: 2009-10-01
 categories: 
   - The Dogs

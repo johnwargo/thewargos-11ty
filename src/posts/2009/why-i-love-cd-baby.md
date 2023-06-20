@@ -1,6 +1,6 @@
 ---
-title: "Why I Love CD Baby"
-date: "2009-10-16"
+title: Why I Love CD Baby
+date: 2009-10-16
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Second Person?"
-date: "2009-06-12"
+title: Second Person
+date: 2009-06-12
 categories: 
   - Miscellaneous
 ---

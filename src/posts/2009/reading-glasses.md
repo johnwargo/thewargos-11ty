@@ -1,6 +1,6 @@
 ---
-title: "Reading Glasses"
-date: "2009-12-13"
+title: Reading Glasses
+date: 2009-12-13
 categories: 
   - The Twins
 ---
