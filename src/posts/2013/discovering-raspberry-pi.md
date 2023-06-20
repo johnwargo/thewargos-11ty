@@ -1,9 +1,9 @@
 ---
-title: "Discovering Raspberry Pi"
-date: "2013-01-27"
+title: Discovering Raspberry Pi
+date: 2013-01-27
 categories: 
   - Family
-HeaderImage: "son-with-raspberry-pi.png"
+HeaderImage: images/2013/son-with-raspberry-pi.png
 ---
 
 Many months ago I learned about the Raspberry Pi hobbyist computer (www.raspberrypi.org). Apparently it was created to provide an inexpensive system that kids could use to learn programming. At $35US it really hits the mark.
@@ -12,7 +12,7 @@ I understand their goals well; I had access to micro computers in High School ba
 
 Anyway, I was excited about the potential for the Pi, so I ordered one and it sat in a box for a while. My 9 year old son and I got a chance to hook it up yesterday afternoon and had a blast. If you haven’t seen one before, here’s a picture.
 
-\[caption id="attachment\_2480" align="alignnone" width="300"\][![Raspberry Pi](images/raspberry-pi-300x225.png)](http://www.thewargos.com/wp-content/uploads/2013/01/raspberry-pi.png) Raspberry Pi\[/caption\]
+![Raspberry Pi](images/raspberry-pi.png)
 
 Essentially it’s a mini-PC with an ARM processor, HDMI port, Ethernet Port, two USB ports and some more stuff. It runs on a cell phone charger (I’m using a BlackBerry charger in the photo). You burn a special version of Linux to an appropriately sized (2GB minimum) SD card, plug everything in and you’re ready to go.
 

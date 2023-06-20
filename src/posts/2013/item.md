@@ -7,7 +7,7 @@ categories:
 
 A while back, my brother in law gave me the item shown in the figure below. I’ll let you take a look at it for a minute before I tell you what it is.
 
-[![](images/f-bomb-300x262.png)](http://www.thewargos.com/wp-content/uploads/2013/09/f-bomb.png)
+![](images/f-bomb.png)
 
 As soon as he handed it to me, he asked me ‘do you know what this is?’ Of course it did, it’s an F-bomb. Get it?
 

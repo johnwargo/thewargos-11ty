@@ -1,9 +1,9 @@
 ---
-title: "DMCA Stupidity"
-date: "2013-01-28"
+title: DMCA Stupidity
+date: 2013-01-28
 categories: 
   - Miscellaneous
-HeaderImage: "handcuffs.png"
+HeaderImage: images/2016/handcuffs.png
 ---
 
 OK, let me see if I got this straight:

@@ -1,6 +1,6 @@
 ---
-title: "Wireless Microphone"
-date: "2013-11-07"
+title: Wireless Microphone
+date: 2013-11-07
 categories: 
   - Family
 ---
@@ -11,4 +11,4 @@ August has been taking Guitar lessons and doing quite well with them, so I thoug
 
 Anyway, they were raffling off some free microphone equipment and August won the grand prize. Here's a pic with August and Travis showing off his 'Major Award'  :-)
 
-\[caption id="attachment\_2956" align="alignnone" width="300"\][![Grand Prize Winner](images/Augusts-Major-Award-300x168.jpg)](http://www.thewargos.com/wp-content/uploads/2013/11/Augusts-Major-Award.jpg) Grand Prize Winner\[/caption\]
+![Grand Prize Winner](images/Augusts-Major-Award.jpg)

@@ -1,9 +1,9 @@
 ---
-title: "Pinewood Derby 2013"
-date: "2013-01-27"
+title: Pinewood Derby 2013
+date: 2013-01-27
 categories: 
   - Family
-HeaderImage: "august-pinewood-derby.jpg"
+HeaderImage: images/2013/august-pinewood-derby.jpg
 ---
 
 Every year, I invite August's Cub Scout pack over to the house to use my tools to create the members pinewood derby cars. It’s a lot of fun, we usually get a great turnout and some pretty interesting cars are made. Afterwards we order some pizza and have a big Cub Scout pizza party. The kids enjoy themselves, Elizabeth chases the boys she likes around the house and the boys pretend that they don’t like her and HATE being chased by her.
@@ -18,7 +18,7 @@ August and I headed over to the workshop and got to work. I tried to get him to 
 
 Here’s the car – washers and all.
 
-\[caption id="attachment\_2474" align="alignnone" width="300"\][![Pinewood Derby Car](images/pinewood-derby-car-300x168.jpg)](http://www.thewargos.com/wp-content/uploads/2013/01/pinewood-derby-car.jpg) Pinewood Derby Car\[/caption\]
+![Pinewood Derby Car](images/pinewood-derby-car.jpg)
 
 I had to work the breakfast at the races, so I headed over to the event and Anna waited for the kids to get up. August must have registered some disdain at my weight installation, because Anna called me and was looking for the car’s spray paint. She gave it a quick paintjob and headed off to the race.
 

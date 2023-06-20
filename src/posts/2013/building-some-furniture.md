@@ -1,6 +1,6 @@
 ---
-title: "Building Some Furniture"
-date: "2013-10-25"
+title: Building Some Furniture
+date: 2013-10-25
 categories: 
   - Family
   - Miscellaneous
@@ -13,4 +13,6 @@ Anyway, I got some wood with my friend Sean's help and got to work. I cut all of
 
 A friend of mine from Akron works for a finish company, not a company from Finland, but a company that produces wood finishes for the furniture industry. He hooked me up with some good stuff. I've almost finished all of the pieces, it was a GREAT learning experience (and a lot of work) but it looks good so far. See the photos below.
 
-[![cubbies-1](images/cubbies-1-300x168.jpg)](http://www.thewargos.com/wp-content/uploads/2013/10/cubbies-1.jpg) [![cubbies-2](images/cubbies-2-300x168.jpg)](http://www.thewargos.com/wp-content/uploads/2013/10/cubbies-2.jpg) [![cubbies-3](images/cubbies-3-300x168.jpg)](http://www.thewargos.com/wp-content/uploads/2013/10/cubbies-3.jpg)
+![cubbies-1](images/cubbies-1.jpg)
+![cubbies-2](images/cubbies-2.jpg)
+![cubbies-3](images/cubbies-3.jpg)
