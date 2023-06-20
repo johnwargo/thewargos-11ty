@@ -15,7 +15,7 @@ We arrived in Vicksburg around lunch time and grabbed lunch before heading off t
 
 Here's a picture of me with the ship:
 
-![Me and the Cairo](images/2015-08-04-16.40.09.jpg)
+![Me and the Cairo](images/2015/2015-08-04-16.40.09.jpg)
 
 And more pictures of the ship:
 
@@ -27,6 +27,6 @@ For our accommodations, Anna booked us a room at Anchuca, an Antebellum home in 
 
 For dinner, we ate at a place called 10 South, a restaurant on the top (10th) floor of a building overlooking the Mississippi river. It was hot, but way cool. For my meal, I had country fried steak (no surprise there) made out of a New York Strip, see phot below. It was awesome! I couldn't eat all of it.
 
-![Country Fried NY Strip](images/2015-08-04-20.03.53.jpg)
+![Country Fried NY Strip](images/2015/2015-08-04-20.03.53.jpg)
 
 When we got back to our room, we grabbed a cocktail and a quick swim in the facility's pool. In all, it was a fun, although unconventional, romantic vacation day.
