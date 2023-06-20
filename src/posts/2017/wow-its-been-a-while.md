@@ -1,6 +1,6 @@
 ---
-title: "Wow, its been a while"
-date: "2017-07-30"
+title: Wow, its been a while
+date: 2017-07-30
 categories: 
   - Miscellaneous
 ---

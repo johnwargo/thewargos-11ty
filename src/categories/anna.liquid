@@ -8,7 +8,7 @@
     "before": function(paginationData, fullData){ let data = paginationData.filter((item) => item.data.categories.includes('Anna')); return Array.from(data).sort((a, b) => { return a.date < b.date ? 1 : -1; });}
   },
   "category": "Anna",
-  "description": null,
+  "description": "Articles that focus on Anna or something Anna did.",
   "eleventyComputed": {
     "title": "Category: {{ category }}"
   },

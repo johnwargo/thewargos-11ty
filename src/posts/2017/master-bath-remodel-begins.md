@@ -1,6 +1,6 @@
 ---
-title: "Master Bath Remodel Begins"
-date: "2017-12-24"
+title: Master Bath Remodel Begins
+date: 2017-12-24
 categories: 
   - The House
 ---

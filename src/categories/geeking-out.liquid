@@ -8,7 +8,7 @@
     "before": function(paginationData, fullData){ let data = paginationData.filter((item) => item.data.categories.includes('Geeking Out')); return Array.from(data).sort((a, b) => { return a.date < b.date ? 1 : -1; });}
   },
   "category": "Geeking Out",
-  "description": null,
+  "description": "Articles about my favorite topic, geeking out on technology.",
   "eleventyComputed": {
     "title": "Category: {{ category }}"
   },

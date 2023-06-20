@@ -1,6 +1,6 @@
 ---
-title: "Back to Hinkley Reservation today"
-date: "2009-04-26"
+title: Back to Hinkley Reservation today
+date: 2009-04-26
 categories: 
   - Miscellaneous
 ---

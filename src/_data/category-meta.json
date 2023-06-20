@@ -2,22 +2,22 @@
   {
     "category": "Anna",
     "count": 4,
-    "description": ""
+    "description": "Articles that focus on Anna or something Anna did."
   },
   {
     "category": "BlackBerry Development Fundamentals",
     "count": 12,
-    "description": ""
+    "description": "Articles related to my first commercially published book."
   },
   {
     "category": "Family",
     "count": 12,
-    "description": ""
+    "description": "Articles about the family."
   },
   {
     "category": "Geeking Out",
     "count": 8,
-    "description": ""
+    "description": "Articles about my favorite topic, geeking out on technology."
   },
   {
     "category": "Miscellaneous",
@@ -27,21 +27,21 @@
   {
     "category": "The Dogs",
     "count": 4,
-    "description": ""
+    "description": "Articles about our dogs."
   },
   {
     "category": "The House",
     "count": 26,
-    "description": ""
+    "description": "Articles about the house."
   },
   {
     "category": "The Twins",
     "count": 35,
-    "description": ""
+    "description": "Articles about our twin chilren."
   },
   {
     "category": "Travel",
     "count": 1,
-    "description": ""
+    "description": "Articles related to our travels."
   }
 ]

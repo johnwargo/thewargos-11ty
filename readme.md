@@ -10,8 +10,12 @@ This is a work in progress, barely started.
 
 ## Tasks
 
-- [ ] Home page article list
+- [x] Home page article list
+- [x] Articles Page
+- [x] Categories Page
+- [x] Google Analytics
 - [ ] Home sidebar
-- [ ] Articles Page
+- [ ] About content
+- [ ] Clean up post content
+- [ ] Fix image links
 - [ ] Search
-- [ ] Categories Page

@@ -60,7 +60,7 @@ await $`eleventy`;
 
 if (updateIndex) {
   console.log('\nUpdating Algolia Index');
-  await $`algolia-idxup _site/algolia.json JMW_`;
+  await $`algolia-idxup _site/algolia.json WAR_`;
 }
 
 await gitUpdate(theArgs[0]);
