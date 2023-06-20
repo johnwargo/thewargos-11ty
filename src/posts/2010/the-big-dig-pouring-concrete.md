@@ -1,6 +1,6 @@
 ---
-title: "The Big Dig: Pouring Concrete"
-date: "2010-06-23"
+title: The Big Dig Pouring Concrete
+date: 2010-06-23
 categories: 
   - The House
 ---

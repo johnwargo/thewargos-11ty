@@ -1,6 +1,6 @@
 ---
-title: "Building a Play Fort, Part One: The Post"
-date: "2010-05-26"
+title: Building a Play Fort (Part One)
+date: 2010-05-26
 categories: 
   - The House
 ---

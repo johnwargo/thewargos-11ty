@@ -1,6 +1,6 @@
 ---
-title: "Garage Photos"
-date: "2010-05-06"
+title: Garage Photos
+date: 2010-05-06
 categories: 
   - Miscellaneous
 ---

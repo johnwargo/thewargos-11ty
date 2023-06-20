@@ -1,6 +1,6 @@
 ---
-title: "'Finished' the Fort Today"
-date: "2010-06-21"
+title: Finished the Fort Today
+date: 2010-06-21
 categories: 
   - Miscellaneous
 ---

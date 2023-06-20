@@ -1,6 +1,6 @@
 ---
-title: "The Play Fort: Completed"
-date: "2010-05-31"
+title: The Play Fort Completed
+date: 2010-05-31
 categories: 
   - The House
 ---
@@ -9,8 +9,8 @@ Well, my brother and sister came up for the weekend to help with building the fo
 
 Here's the building crew:
 
-\[caption id="attachment\_582" align="alignnone" width="300" caption="Three Builders"\][![Three Builders](images/Three-Builders1-300x199.jpg "Three Builders")](http://www.thewargos.com/wp-content/uploads/2010/05/Three-Builders1.jpg)\[/caption\]
+![Three Builders](images/Three-Builders1.jpg)
 
 And here we are climbing on the fort:
 
-\[caption id="attachment\_583" align="alignnone" width="300" caption="Three Builders Climbing"\][![Three Builders Climbing](images/Three-Builders7-300x199.jpg "Three Builders Climbing")](http://www.thewargos.com/wp-content/uploads/2010/05/Three-Builders7.jpg)\[/caption\]
+![Three Builders Climbing](images/Three-Builders7.jpg)

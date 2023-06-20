@@ -20,7 +20,7 @@ Anyway, I’m leaving Akron and of course there are some things I need to do bef
 1. Skyway Drive-In – Got to have my double cheeseburger (plain of course), fries and California (M&B Grape Punch Concentrate and Ginger Ale – very nice!). Done!
 2. Swenson’s Drive-In – Same as above but Tater Tots instead of Fries.
 3. Lugi’s Pizza – An Akron staple since 1949. Small Sausage Pizza with extra Sausage plus one of those cheesy (very cheesy) salads). Done!
-4. Dontino’s Restaurant – Home made Veal Parmesean and homemade pasta. Done!  Their Lasagna is home made as well, you should try it some time
+4. Dontino’s Restaurant – Home made Veal Parmesan and homemade pasta. Done!  Their Lasagna is home made as well, you should try it some time
 5. Michael’s AM – local Breakfast-only restaurant. Country Fried Steak and Eggs!
 6. Winking Lizard – local restaurant chain – specializes in homemade soups. This Thursday they’re making my favorite: Cheeseburger Soup. Meet me there at 1:00 on 01/28/10 to join me for lunch – Winking Lizard Tavern in Fairlawn, Ohio (Ghent Road and Market Street across from Summit Mall).
 

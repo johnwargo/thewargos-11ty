@@ -1,6 +1,6 @@
 ---
-title: "Garage Update"
-date: "2010-08-27"
+title: Garage Update
+date: 2010-08-27
 categories: 
   - The House
 ---

@@ -1,6 +1,6 @@
 ---
-title: "White Christmas"
-date: "2010-12-26"
+title: White Christmas
+date: 2010-12-26
 categories: 
   - The House
 ---

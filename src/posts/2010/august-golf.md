@@ -1,5 +1,5 @@
 ---
-title: August and I snuck out and played golf yesterday…
+title: August and I snuck out and played golf yesterday
 date: 2010-04-23
 categories: 
   - Miscellaneous

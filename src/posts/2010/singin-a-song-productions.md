@@ -1,11 +1,11 @@
 ---
-title: "Singin' a Song Productions"
-date: "2010-02-09"
+title: Singing a Song Productions
+date: 2010-02-09
 categories: 
   - Miscellaneous
 ---
 
-\[caption id="attachment\_421" align="alignleft" width="175" caption="Birds of a Feather"\][![](images/bof_cover_175.jpg "Birds of a Feather")](http://www.thewargos.com/wp-content/uploads/2010/02/bof_cover_175.jpg)\[/caption\]
+![Birds of a Feather](images/bof_cover_175.jpg)
 
 Anna's sister is an elementary school teacher and she and a friend recently created a school program for elementary school kids called Birds of a Feather. Its a great program with great songs and costumes. Anna even created the program cover drawing.
 

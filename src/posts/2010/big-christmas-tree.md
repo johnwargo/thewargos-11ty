@@ -1,6 +1,6 @@
 ---
-title: "Big Christmas Tree"
-date: "2010-12-05"
+title: Big Christmas Tree
+date: 2010-12-05
 categories: 
   - The House
 ---
@@ -11,4 +11,4 @@ All of us worked together to put the lights on the tree before the twins went to
 
 Here's a picture of the tree as it was last night. Merry Christmas!
 
-\[caption id="attachment\_760" align="alignleft" width="300" caption="Wargo Christmas Tree - Phase 1"\][![Wargo Christmas Tree](images/Christmas-Tree-1-300x199.jpg "Wargo Christmas Tree")](http://www.thewargos.com/wp-content/uploads/2010/12/Christmas-Tree-1.jpg)\[/caption\]
+![Wargo Christmas Tree](images/Christmas-Tree-1.jpg "Wargo Christmas Tree")

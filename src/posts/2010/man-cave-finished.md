@@ -1,6 +1,6 @@
 ---
-title: "Man Cave Finished!"
-date: "2010-11-27"
+title: Man Cave Finished
+date: 2010-11-27
 categories: 
   - The House
 ---

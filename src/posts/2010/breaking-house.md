@@ -1,5 +1,5 @@
 ---
-title: Breaking House...
+title: Breaking House
 date: 2010-03-08
 categories: 
   - The House

@@ -1,6 +1,6 @@
 ---
-title: "Dingo"
-date: "2010-07-10"
+title: Dingo
+date: 2010-07-10
 categories: 
   - Miscellaneous
 ---

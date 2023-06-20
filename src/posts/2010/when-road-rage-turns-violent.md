@@ -1,6 +1,6 @@
 ---
-title: "When Road Rage Turns Violent"
-date: "2010-03-15"
+title: When Road Rage Turns Violent
+date: 2010-03-15
 categories: 
   - Miscellaneous
 ---

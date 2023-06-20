@@ -1,6 +1,6 @@
 ---
-title: "Watching the Walls Go Up"
-date: "2010-07-20"
+title: Watching the Walls Go Up
+date: 2010-07-20
 categories: 
   - The House
 ---
