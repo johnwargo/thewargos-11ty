@@ -40,3 +40,5 @@ Salami porchetta cupim venison buffalo ham hock prosciutto meatball. Burgdoggen 
     </p>
   </article>
 {% endfor %}
+
+<a href="/articles/" class="button">All Articles</a>
