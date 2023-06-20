@@ -26,14 +26,14 @@ License: pixelarity.com/license
                 <a href="/about/" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
                 <p>Short ribs hamburger shoulder ground round rump. Pork chop kevin jerky venison porchetta spare ribs fatback burgdoggen. Pork chop frankfurter alcatra venison turducken landjaeger drumstick pork loin tail turkey pork. Rump ground round swine flank, picanha frankfurter chicken pork landjaeger ham corned beef pork chop tail shank. Flank chislic tail bacon. Tenderloin shankle corned beef strip steak, pork chop jowl chislic frankfurter shank..</p>
                 <footer>
-                  <a href="#" class="button alt">Read More</a>
+                  <a href="/about/" class="button alt">Read More</a>
                 </footer>
               </section>
               <section class="box">
                 <header>
                   <h3>Most Popular</h3>
                 </header>
-                <p>The following list displays the most popular articles in the site.</p>
+                <p>The following list displays the most popular (most viewed) articles in the site.</p>
                 <ul class="divided">
                   <li>
                     <a href="#">Sed et blandit consequat sed</a>
@@ -49,7 +49,7 @@ License: pixelarity.com/license
                   </li>
                 </ul>
                 <footer>
-                  <a href="#" class="button alt">All Articles</a>
+                  <a href="/articles/" class="button alt">All Articles</a>
                 </footer>
               </section>
               <section class="box">
@@ -57,7 +57,16 @@ License: pixelarity.com/license
                   <h3>Categories</h3>
                 </header>
                 <p>The following list displays the most popular artickes in the site.</p>
-                <ul class="divided"></ul>
+                {% assign categories = category-meta | sort %}
+                <ul>
+                  {% for catData in categories %}
+                    <li>
+                      <strong>
+                        <a href="{{ "/" | htmlBaseUrl }}categories/{{ catData.category | slugify }}/">{{ catData.category }}</a>
+                      </strong>
+                    </li>
+                  {% endfor %}
+                </ul>
                 <footer>
                   <a href="#" class="button alt">Read More</a>
                 </footer>

@@ -3,7 +3,6 @@ title: "Updates..."
 date: "2009-01-16"
 categories: 
   - Geeking Out
-  - Miscellaneous
 ---
 
 Well, it was -8 degrees this morning, supposed to be -13 tomorrow. Horrible cold.  Furnace broke twice in the last couple of weeks.  Logs going on.

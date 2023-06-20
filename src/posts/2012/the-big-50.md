@@ -1,6 +1,6 @@
 ---
-title: "The Big 50"
-date: "2012-12-25"
+title: The Big 50
+date: 2012-12-25
 categories: 
   - Miscellaneous
 ---

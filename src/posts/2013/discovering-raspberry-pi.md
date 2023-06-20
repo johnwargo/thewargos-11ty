@@ -3,7 +3,7 @@ title: "Discovering Raspberry Pi"
 date: "2013-01-27"
 categories: 
   - Family
-coverImage: "son-with-raspberry-pi.png"
+HeaderImage: "son-with-raspberry-pi.png"
 ---
 
 Many months ago I learned about the Raspberry Pi hobbyist computer (www.raspberrypi.org). Apparently it was created to provide an inexpensive system that kids could use to learn programming. At $35US it really hits the mark.

@@ -1,9 +1,9 @@
 ---
-title: "Thankful"
-date: "2012-12-27"
+title: Thankful
+date: 2012-12-27
 categories: 
   - Family
-coverImage: "birthday-faces.png"
+headerImage: birthday-faces.png
 ---
 
 Anna and I plus the kids had a wonderful Christmas and we’re basking in the glow of the weekend and the holiday. On Christmas day I had a little time by myself to putz around my office. As I sat there, working through my mail and doing some other simple tasks, I started thinking about my year and all the things I had to be thankful for.

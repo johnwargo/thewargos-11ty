@@ -3,7 +3,7 @@ title: "Junior Mints"
 date: "2013-01-03"
 categories: 
   - Miscellaneous
-coverImage: "junior_mints_box.png"
+HeaderImage: "junior_mints_box.png"
 ---
 
 My kids know I love Junior Mints. Whenever they’re in a store and see them that grab a box and hold them up for me to see. On Halloween, any time they get some in their bags, they pull them out and give them to me. Pretty cool stuff.
