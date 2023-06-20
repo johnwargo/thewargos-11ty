@@ -1,6 +1,6 @@
 ---
-title: "Stupid Mobile Application at the YMCA"
-date: "2013-08-18"
+title: Stupid Mobile Application at the YMCA
+date: 2013-08-18
 categories: 
   - Miscellaneous
 ---

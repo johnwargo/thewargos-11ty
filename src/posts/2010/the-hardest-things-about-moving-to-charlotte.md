@@ -1,6 +1,6 @@
 ---
-title: "The Hardest Things About Moving to Charlotte"
-date: "2010-03-04"
+title: The Hardest Things About Moving to Charlotte
+date: 2010-03-04
 categories: 
   - Miscellaneous
 ---

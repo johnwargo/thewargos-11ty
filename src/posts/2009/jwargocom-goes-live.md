@@ -1,6 +1,6 @@
 ---
-title: "jwargo.com goes live"
-date: "2009-05-11"
+title: jwargo.com goes live
+date: 2009-05-11
 categories: 
   - Miscellaneous
 ---

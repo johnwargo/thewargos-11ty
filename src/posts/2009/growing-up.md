@@ -1,6 +1,6 @@
 ---
-title: "Growing Up!"
-date: "2009-03-10"
+title: Growing Up!
+date: 2009-03-10
 categories: 
   - The Twins
 ---

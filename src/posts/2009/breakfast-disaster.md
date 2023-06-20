@@ -1,6 +1,6 @@
 ---
-title: "Breakfast Disaster"
-date: "2009-01-10"
+title: Breakfast Disaster
+date: 2009-01-10
 categories: 
   - The Twins
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Tickled Tooth"
-date: "2011-04-12"
+title: Tickled Tooth
+date: 2011-04-12
 categories: 
   - The Twins
 ---

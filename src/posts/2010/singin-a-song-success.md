@@ -1,6 +1,6 @@
 ---
-title: "Singin a Song Success"
-date: "2010-02-12"
+title: Singin a Song Success
+date: 2010-02-12
 categories: 
   - Miscellaneous
 ---

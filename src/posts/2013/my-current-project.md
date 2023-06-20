@@ -1,6 +1,6 @@
 ---
-title: "My Current Project"
-date: "2013-04-11"
+title: My Current Project
+date: 2013-04-11
 categories: 
   - The House
 ---

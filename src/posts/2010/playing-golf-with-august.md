@@ -1,6 +1,6 @@
 ---
-title: "Playing Golf With August"
-date: "2010-07-25"
+title: Playing Golf With August
+date: 2010-07-25
 categories: 
   - The Twins
 ---

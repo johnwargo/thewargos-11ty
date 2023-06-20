@@ -1,6 +1,6 @@
 ---
-title: "Posting from my BlackBerry"
-date: "2009-06-15"
+title: Posting from my BlackBerry
+date: 2009-06-15
 categories: 
   - Miscellaneous
 ---

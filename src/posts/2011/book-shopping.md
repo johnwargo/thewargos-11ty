@@ -1,6 +1,6 @@
 ---
-title: "Book Shopping"
-date: "2011-03-23"
+title: Book Shopping
+date: 2011-03-23
 categories: 
   - Miscellaneous
 ---

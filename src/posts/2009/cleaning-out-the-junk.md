@@ -1,6 +1,6 @@
 ---
-title: "Cleaning Out the Junk"
-date: "2009-01-02"
+title: Cleaning Out the Junk
+date: 2009-01-02
 categories: 
   - Miscellaneous
 ---

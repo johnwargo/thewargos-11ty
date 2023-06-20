@@ -1,6 +1,6 @@
 ---
-title: "CD Shelving"
-date: "2013-04-11"
+title: CD Shelving
+date: 2013-04-11
 categories: 
   - Miscellaneous
 ---

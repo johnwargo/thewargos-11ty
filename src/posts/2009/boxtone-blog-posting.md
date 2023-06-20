@@ -1,6 +1,6 @@
 ---
-title: "BoxTone Blog Posting"
-date: "2009-04-14"
+title: BoxTone Blog Posting
+date: 2009-04-14
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Halfway"
-date: "2009-03-16"
+title: Halfway
+date: 2009-03-16
 categories: 
   - BlackBerry Development Fundamentals
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Hanging the dry wall"
-date: "2010-04-11"
+title: Hanging the dry wall
+date: 2010-04-11
 categories: 
   - Miscellaneous
 ---

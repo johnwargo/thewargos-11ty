@@ -1,6 +1,6 @@
 ---
-title: "Wordpress App"
-date: "2014-11-24"
+title: Wordpress App
+date: 2014-11-24
 categories: 
   - Miscellaneous
 ---

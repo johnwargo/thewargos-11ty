@@ -1,6 +1,6 @@
 ---
-title: "August Playing Guitar"
-date: "2013-11-06"
+title: August Playing Guitar
+date: 2013-11-06
 categories: 
   - Family
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Hanging the curtain rod"
-date: "2009-01-04"
+title: Hanging the curtain rod
+date: 2009-01-04
 categories: 
   - Miscellaneous
 ---

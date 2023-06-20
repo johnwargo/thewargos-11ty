@@ -1,6 +1,6 @@
 ---
-title: "Lotusphere 2011"
-date: "2011-02-02"
+title: Lotusphere 2011
+date: 2011-02-02
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "No Free Milk?"
-date: "2009-08-25"
+title: No Free Milk?
+date: 2009-08-25
 categories: 
   - The Twins
 ---

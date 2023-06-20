@@ -1,6 +1,6 @@
 ---
-title: "Loud house"
-date: "2009-01-17"
+title: Loud house
+date: 2009-01-17
 categories: 
   - Miscellaneous
 ---

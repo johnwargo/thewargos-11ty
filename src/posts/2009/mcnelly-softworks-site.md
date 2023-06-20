@@ -1,6 +1,6 @@
 ---
-title: "McNelly SoftWorks site"
-date: "2009-05-03"
+title: McNelly SoftWorks site
+date: 2009-05-03
 categories: 
   - Miscellaneous
 ---

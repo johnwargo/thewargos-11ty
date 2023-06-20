@@ -1,6 +1,6 @@
 ---
-title: "Trouble"
-date: "2009-11-03"
+title: Trouble
+date: 2009-11-03
 categories: 
   - The Twins
 ---

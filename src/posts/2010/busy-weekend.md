@@ -1,6 +1,6 @@
 ---
-title: "Busy Weekend"
-date: "2010-11-29"
+title: Busy Weekend
+date: 2010-11-29
 categories: 
   - Miscellaneous
 ---

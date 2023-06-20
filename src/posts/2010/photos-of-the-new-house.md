@@ -1,6 +1,6 @@
 ---
-title: "Photos of the New House"
-date: "2010-01-13"
+title: Photos of the New House
+date: 2010-01-13
 categories: 
   - The House
 ---

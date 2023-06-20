@@ -1,6 +1,6 @@
 ---
-title: "Mozart?"
-date: "2011-02-11"
+title: Mozart?
+date: 2011-02-11
 categories: 
   - The Twins
 ---

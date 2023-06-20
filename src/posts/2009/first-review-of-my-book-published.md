@@ -1,6 +1,6 @@
 ---
-title: "First review of my book published"
-date: "2009-11-02"
+title: First review of my book published
+date: 2009-11-02
 categories: 
   - Miscellaneous
 ---

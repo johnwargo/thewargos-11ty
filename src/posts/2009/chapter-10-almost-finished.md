@@ -1,6 +1,6 @@
 ---
-title: "Chapter 10 Almost Finished"
-date: "2009-06-23"
+title: Chapter 10 Almost Finished
+date: 2009-06-23
 categories: 
   - Miscellaneous
 ---

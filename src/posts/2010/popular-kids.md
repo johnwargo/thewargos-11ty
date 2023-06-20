@@ -1,6 +1,6 @@
 ---
-title: "Popular Kids"
-date: "2010-05-02"
+title: Popular Kids
+date: 2010-05-02
 categories: 
   - The Twins
 ---

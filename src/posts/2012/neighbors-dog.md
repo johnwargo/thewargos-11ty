@@ -1,6 +1,6 @@
 ---
-title: "Neighbor's Dog"
-date: "2012-04-18"
+title: Neighbor's Dog
+date: 2012-04-18
 categories: 
   - Miscellaneous
 ---

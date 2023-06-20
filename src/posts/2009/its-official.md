@@ -1,6 +1,6 @@
 ---
-title: "It's Official"
-date: "2009-04-23"
+title: It's Official
+date: 2009-04-23
 categories: 
   - BlackBerry Development Fundamentals
 ---

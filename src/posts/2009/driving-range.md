@@ -1,6 +1,6 @@
 ---
-title: "Driving Range"
-date: "2009-06-23"
+title: Driving Range
+date: 2009-06-23
 categories: 
   - Miscellaneous
 ---

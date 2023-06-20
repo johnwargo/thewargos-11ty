@@ -1,6 +1,6 @@
 ---
-title: "Our Grand Vacation: Day 2"
-date: "2015-08-19"
+title: Our Grand Vacation (Day 2)
+date: 2015-08-19
 categories: 
   - Anna
 ---

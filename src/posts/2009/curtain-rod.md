@@ -1,6 +1,6 @@
 ---
-title: "Curtain Rod"
-date: "2009-01-02"
+title: Curtain Rod
+date: 2009-01-02
 categories: 
   - The Twins
 ---

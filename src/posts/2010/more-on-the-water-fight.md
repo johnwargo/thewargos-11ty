@@ -1,6 +1,6 @@
 ---
-title: "More on the Water Fight"
-date: "2010-09-26"
+title: More on the Water Fight
+date: 2010-09-26
 categories: 
   - Miscellaneous
 ---

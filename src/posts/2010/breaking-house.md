@@ -1,6 +1,6 @@
 ---
-title: "Breaking House..."
-date: "2010-03-08"
+title: Breaking House...
+date: 2010-03-08
 categories: 
   - The House
 ---

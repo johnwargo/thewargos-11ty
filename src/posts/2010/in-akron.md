@@ -1,6 +1,6 @@
 ---
-title: "In Akron"
-date: "2010-08-18"
+title: In Akron
+date: 2010-08-18
 categories: 
   - Miscellaneous
 ---

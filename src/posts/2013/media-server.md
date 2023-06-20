@@ -1,6 +1,6 @@
 ---
-title: "Media Server"
-date: "2013-02-02"
+title: Media Server
+date: 2013-02-02
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Umbrellas and S Hooks"
-date: "2009-09-07"
+title: Umbrellas and S Hooks
+date: 2009-09-07
 categories: 
   - Miscellaneous
 ---

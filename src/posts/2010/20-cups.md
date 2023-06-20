@@ -1,6 +1,6 @@
 ---
-title: "20-Cups"
-date: "2010-05-17"
+title: 20-Cups
+date: 2010-05-17
 categories: 
   - The House
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Pizza Place"
-date: "2009-02-11"
+title: Pizza Place
+date: 2009-02-11
 categories: 
   - Miscellaneous
 ---

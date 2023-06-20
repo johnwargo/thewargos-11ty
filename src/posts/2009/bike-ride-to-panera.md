@@ -1,6 +1,6 @@
 ---
-title: "Bike Ride to Panera"
-date: "2009-04-25"
+title: Bike Ride to Panera
+date: 2009-04-25
 categories: 
   - The Twins
 ---

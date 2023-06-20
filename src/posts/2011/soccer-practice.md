@@ -1,6 +1,6 @@
 ---
-title: "Soccer Practice"
-date: "2011-03-10"
+title: Soccer Practice
+date: 2011-03-10
 categories: 
   - The Twins
 ---

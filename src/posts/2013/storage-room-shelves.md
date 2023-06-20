@@ -1,6 +1,6 @@
 ---
-title: "Storage Room Shelves"
-date: "2013-11-06"
+title: Storage Room Shelves
+date: 2013-11-06
 categories: 
   - The House
 ---

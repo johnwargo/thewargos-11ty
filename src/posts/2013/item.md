@@ -1,6 +1,6 @@
 ---
-title: "Item"
-date: "2013-09-20"
+title: Item
+date: 2013-09-20
 categories: 
   - Miscellaneous
 ---

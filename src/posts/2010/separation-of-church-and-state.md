@@ -1,6 +1,6 @@
 ---
-title: "Separation of Church and State"
-date: "2010-11-18"
+title: Separation of Church and State
+date: 2010-11-18
 categories: 
   - Miscellaneous
 ---

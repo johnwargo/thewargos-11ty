@@ -1,6 +1,6 @@
 ---
-title: "New Job"
-date: "2015-04-21"
+title: New Job
+date: 2015-04-21
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Our Grand Vacation: Day 3"
-date: "2015-08-27"
+title: Our Grand Vacation (Day 3)
+date: 2015-08-27
 categories: 
   - Miscellaneous
 ---

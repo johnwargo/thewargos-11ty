@@ -1,6 +1,6 @@
 ---
-title: "Big day at the new house"
-date: "2010-02-28"
+title: Big day at the new house
+date: 2010-02-28
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Kicking the Soccer Ball"
-date: "2010-04-19"
+title: Kicking the Soccer Ball
+date: 2010-04-19
 categories: 
   - The Twins
 ---
@@ -11,4 +11,4 @@ August isn't happy about it, but at least I know I can still hit a Soccer ball.
 
 Here are some pictured of the front beds Anna's working on.
 
-\[gallery link="file"\]
+\[gallery link=file\]

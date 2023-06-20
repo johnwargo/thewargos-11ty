@@ -1,6 +1,6 @@
 ---
-title: "Chicken with a Cold"
-date: "2013-02-01"
+title: Chicken with a Cold
+date: 2013-02-01
 categories: 
   - Family
 ---

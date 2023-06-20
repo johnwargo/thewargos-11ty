@@ -1,6 +1,6 @@
 ---
-title: "Lots of rain the other night"
-date: "2009-03-10"
+title: Lots of rain the other night
+date: 2009-03-10
 categories: 
   - Miscellaneous
 ---

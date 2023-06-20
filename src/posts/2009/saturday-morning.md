@@ -1,6 +1,6 @@
 ---
-title: "Saturday Morning"
-date: "2009-06-13"
+title: Saturday Morning
+date: 2009-06-13
 categories: 
   - BlackBerry Development Fundamentals
 ---

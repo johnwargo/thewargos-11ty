@@ -1,6 +1,6 @@
 ---
-title: "Playing around with the blog"
-date: "2009-06-05"
+title: Playing around with the blog
+date: 2009-06-05
 categories: 
   - Miscellaneous
 ---

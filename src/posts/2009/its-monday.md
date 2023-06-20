@@ -1,6 +1,6 @@
 ---
-title: "It's Monday!"
-date: "2009-06-15"
+title: It's Monday!
+date: 2009-06-15
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Squirrel Trap"
-date: "2009-07-27"
+title: Squirrel Trap
+date: 2009-07-27
 categories: 
   - The Twins
 ---

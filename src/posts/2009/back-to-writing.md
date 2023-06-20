@@ -1,6 +1,6 @@
 ---
-title: "Back to Writing"
-date: "2009-06-06"
+title: Back to Writing
+date: 2009-06-06
 categories: 
   - BlackBerry Development Fundamentals
 ---

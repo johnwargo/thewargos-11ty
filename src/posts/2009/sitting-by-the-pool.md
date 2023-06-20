@@ -1,6 +1,6 @@
 ---
-title: "sitting by the pool"
-date: "2009-09-25"
+title: sitting by the pool
+date: 2009-09-25
 categories: 
   - Miscellaneous
 ---

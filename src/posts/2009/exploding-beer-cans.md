@@ -1,6 +1,6 @@
 ---
-title: "Exploding Beer Cans"
-date: "2009-09-08"
+title: Exploding Beer Cans
+date: 2009-09-08
 categories: 
   - The Twins
 ---

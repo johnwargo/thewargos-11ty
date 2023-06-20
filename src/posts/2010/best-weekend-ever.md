@@ -1,6 +1,6 @@
 ---
-title: "Best Weekend Ever"
-date: "2010-09-26"
+title: Best Weekend Ever
+date: 2010-09-26
 categories: 
   - Miscellaneous
 ---

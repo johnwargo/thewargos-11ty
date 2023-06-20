@@ -1,6 +1,6 @@
 ---
-title: "Your Post Office at Work"
-date: "2010-05-06"
+title: Your Post Office at Work
+date: 2010-05-06
 categories: 
   - Miscellaneous
 ---

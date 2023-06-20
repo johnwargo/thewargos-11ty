@@ -1,6 +1,6 @@
 ---
-title: "Easiest Chapter Yet"
-date: "2009-05-13"
+title: Easiest Chapter Yet
+date: 2009-05-13
 categories: 
   - Miscellaneous
   - BlackBerry Development Fundamentals

@@ -1,6 +1,6 @@
 ---
-title: "Presents for the Sick"
-date: "2009-12-26"
+title: Presents for the Sick
+date: 2009-12-26
 categories: 
   - The Twins
 ---

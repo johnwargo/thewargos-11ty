@@ -1,6 +1,6 @@
 ---
-title: "The Weather Channel"
-date: "2013-01-17"
+title: The Weather Channel
+date: 2013-01-17
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Wet Dryer"
-date: "2009-03-12"
+title: Wet Dryer
+date: 2009-03-12
 categories: 
   - The House
 ---

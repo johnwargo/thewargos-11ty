@@ -1,6 +1,6 @@
 ---
-title: "Waxing Historically"
-date: "2010-12-22"
+title: Waxing Historically
+date: 2010-12-22
 categories: 
   - Miscellaneous
 ---

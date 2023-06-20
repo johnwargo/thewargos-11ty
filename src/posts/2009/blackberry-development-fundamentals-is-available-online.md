@@ -1,6 +1,6 @@
 ---
-title: "BlackBerry Development Fundamentals is available online"
-date: "2009-07-10"
+title: BlackBerry Development Fundamentals is available online
+date: 2009-07-10
 categories: 
   - BlackBerry Development Fundamentals
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Few showings so far"
-date: "2009-04-14"
+title: Few showings so far
+date: 2009-04-14
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Airplane Etiquette"
-date: "2014-02-02"
+title: Airplane Etiquette
+date: 2014-02-02
 categories: 
   - Miscellaneous
 ---

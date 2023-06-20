@@ -1,6 +1,6 @@
 ---
-title: "Book Update"
-date: "2009-06-19"
+title: Book Update
+date: 2009-06-19
 categories: 
   - BlackBerry Development Fundamentals
 ---

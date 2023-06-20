@@ -1,6 +1,6 @@
 ---
-title: "Craft Room (of sorts)"
-date: "2009-01-04"
+title: Craft Room (of sorts)
+date: 2009-01-04
 categories: 
   - The Twins
 ---

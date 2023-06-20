@@ -1,6 +1,6 @@
 ---
-title: "Marketing and Technology at the Carowinds Amusement Park"
-date: "2010-09-11"
+title: Marketing and Technology at the Carowinds Amusement Park
+date: 2010-09-11
 categories: 
   - Miscellaneous
 ---

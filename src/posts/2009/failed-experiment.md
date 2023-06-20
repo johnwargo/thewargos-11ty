@@ -1,6 +1,6 @@
 ---
-title: "Failed Experiment"
-date: "2009-04-24"
+title: Failed Experiment
+date: 2009-04-24
 categories: 
   - Miscellaneous
 ---

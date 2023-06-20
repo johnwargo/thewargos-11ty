@@ -1,6 +1,6 @@
 ---
-title: "Long day at the Hinkley Reservation"
-date: "2009-04-26"
+title: Long day at the Hinkley Reservation
+date: 2009-04-26
 categories: 
   - Miscellaneous
 ---

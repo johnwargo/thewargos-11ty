@@ -1,6 +1,6 @@
 ---
-title: "Lights Off"
-date: "2010-04-23"
+title: Lights Off
+date: 2010-04-23
 categories: 
   - Miscellaneous
 ---

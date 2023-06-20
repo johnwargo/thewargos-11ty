@@ -1,6 +1,6 @@
 ---
-title: "The Blog Revisited"
-date: "2009-01-02"
+title: The Blog Revisited
+date: 2009-01-02
 categories: 
   - Miscellaneous
 ---

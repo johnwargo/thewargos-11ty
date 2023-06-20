@@ -1,6 +1,6 @@
 ---
-title: "Things are different now that the kids are in school"
-date: "2009-09-08"
+title: Things are different now that the kids are in school
+date: 2009-09-08
 categories: 
   - The Twins
 ---

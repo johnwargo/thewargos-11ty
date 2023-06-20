@@ -1,6 +1,6 @@
 ---
-title: "StillTasty: Your Ultimate Shelf Life Guide - Save Money, Eat Better, Help The Environment"
-date: "2009-06-23"
+title: StillTasty, Your Ultimate Shelf Life Guide
+date: 2009-06-23
 categories: 
   - Miscellaneous
 ---

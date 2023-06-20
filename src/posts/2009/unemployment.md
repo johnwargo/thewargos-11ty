@@ -1,6 +1,6 @@
 ---
-title: "Unemployment"
-date: "2009-09-18"
+title: Unemployment
+date: 2009-09-18
 categories: 
   - Miscellaneous
 ---

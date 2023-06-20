@@ -1,6 +1,6 @@
 ---
-title: "Playing in the water..."
-date: "2009-10-17"
+title: Playing in the water...
+date: 2009-10-17
 categories: 
   - The Twins
 ---

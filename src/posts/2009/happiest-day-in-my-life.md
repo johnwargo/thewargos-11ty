@@ -1,6 +1,6 @@
 ---
-title: "Happiest Day in My Life"
-date: "2009-09-18"
+title: Happiest Day in My Life
+date: 2009-09-18
 categories: 
   - Miscellaneous
 ---

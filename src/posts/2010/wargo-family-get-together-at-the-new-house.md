@@ -1,6 +1,6 @@
 ---
-title: "Wargo Family Get Together at the New House"
-date: "2010-03-08"
+title: Wargo Family Get Together at the New House
+date: 2010-03-08
 categories: 
   - Miscellaneous
 ---

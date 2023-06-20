@@ -1,6 +1,6 @@
 ---
-title: "Making the Move to Charlotte"
-date: "2010-02-17"
+title: Making the Move to Charlotte
+date: 2010-02-17
 categories: 
   - Miscellaneous
 ---

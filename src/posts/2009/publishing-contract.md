@@ -1,6 +1,6 @@
 ---
-title: "PUBLISHING CONTRACT!!!"
-date: "2009-02-11"
+title: PUBLISHING CONTRACT!!!
+date: 2009-02-11
 categories: 
   - Geeking Out
 ---

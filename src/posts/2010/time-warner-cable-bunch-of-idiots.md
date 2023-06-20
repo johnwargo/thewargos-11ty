@@ -1,6 +1,6 @@
 ---
-title: "Time Warner Cable: Bunch of Idiots"
-date: "2010-02-14"
+title: Time Warner Cable, Bunch of Idiots
+date: 2010-02-14
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Chocolate Chip Cookies with Nuts?"
-date: "2009-06-16"
+title: Chocolate Chip Cookies with Nuts?
+date: 2009-06-16
 categories: 
   - Miscellaneous
 ---

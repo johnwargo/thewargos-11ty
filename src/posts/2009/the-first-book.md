@@ -1,6 +1,6 @@
 ---
-title: "The First Book"
-date: "2009-02-12"
+title: The First Book
+date: 2009-02-12
 categories: 
   - Miscellaneous
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Interesting (bad) Dell RMA Expereince"
-date: "2009-08-19"
+title: Interesting (bad) Dell RMA Expereince
+date: 2009-08-19
 categories: 
   - Miscellaneous
 ---

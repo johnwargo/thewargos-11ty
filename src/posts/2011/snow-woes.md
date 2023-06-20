@@ -1,6 +1,6 @@
 ---
-title: "Snow Woes"
-date: "2011-01-12"
+title: Snow Woes
+date: 2011-01-12
 categories: 
   - Miscellaneous
 ---

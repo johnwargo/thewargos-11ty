@@ -1,6 +1,6 @@
 ---
-title: "jwargo.com"
-date: "2009-05-12"
+title: jwargo.com
+date: 2009-05-12
 categories: 
   - Geeking Out
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Top 10 Endearing Habits of a Geeky Spouse | GeekDad | Wired.com"
-date: "2009-07-22"
+title: Top 10 Endearing Habits of a Geeky Spouse | GeekDad | Wired.com
+date: 2009-07-22
 categories: 
   - Geeking Out
 ---

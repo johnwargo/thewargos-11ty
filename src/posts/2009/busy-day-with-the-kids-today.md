@@ -1,6 +1,6 @@
 ---
-title: "Busy day with the kids today"
-date: "2009-05-03"
+title: Busy day with the kids today
+date: 2009-05-03
 categories: 
   - Miscellaneous
 ---

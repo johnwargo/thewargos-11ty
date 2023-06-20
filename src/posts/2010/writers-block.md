@@ -1,6 +1,6 @@
 ---
-title: "Writer's Block"
-date: "2010-02-12"
+title: Writer's Block
+date: 2010-02-12
 categories: 
   - Miscellaneous
 ---

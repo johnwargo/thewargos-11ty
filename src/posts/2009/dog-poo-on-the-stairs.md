@@ -1,6 +1,6 @@
 ---
-title: "Dog Poo on the stairs"
-date: "2009-10-01"
+title: Dog Poo on the stairs
+date: 2009-10-01
 categories: 
   - The Dogs
 ---

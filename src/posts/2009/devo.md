@@ -1,6 +1,6 @@
 ---
-title: "Devo"
-date: "2009-06-16"
+title: Devo
+date: 2009-06-16
 categories: 
   - Miscellaneous
 ---

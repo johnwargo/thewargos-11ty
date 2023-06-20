@@ -1,6 +1,6 @@
 ---
-title: "Sunday Morning"
-date: "2009-10-25"
+title: Sunday Morning
+date: 2009-10-25
 categories: 
   - Miscellaneous
 ---

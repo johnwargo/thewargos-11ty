@@ -1,6 +1,6 @@
 ---
-title: "Dexter Keep-Away"
-date: "2014-09-23"
+title: Dexter Keep-Away
+date: 2014-09-23
 categories: 
   - The Dogs
   - The Twins

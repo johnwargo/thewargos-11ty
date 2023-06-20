@@ -1,6 +1,6 @@
 ---
-title: "Yet another horrible customer service experience with Dell"
-date: "2009-11-06"
+title: Yet another horrible customer service experience with Dell
+date: 2009-11-06
 categories: 
   - Miscellaneous
 ---

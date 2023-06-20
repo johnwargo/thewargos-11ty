@@ -1,6 +1,6 @@
 ---
-title: "G-Stink"
-date: "2010-02-01"
+title: G-Stink
+date: 2010-02-01
 categories: 
   - The Twins
 ---

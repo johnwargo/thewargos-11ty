@@ -1,6 +1,6 @@
 ---
-title: "Mechanical Bull"
-date: "2013-09-06"
+title: Mechanical Bull
+date: 2013-09-06
 categories: 
   - Family
 ---

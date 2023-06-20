@@ -1,6 +1,6 @@
 ---
-title: "Blue Cheese on Steaks"
-date: "2010-11-11"
+title: Blue Cheese on Steaks
+date: 2010-11-11
 categories: 
   - Miscellaneous
 ---

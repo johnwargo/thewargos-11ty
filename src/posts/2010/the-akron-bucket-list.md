@@ -1,6 +1,6 @@
 ---
-title: "The Akron Bucket List"
-date: "2010-01-26"
+title: The Akron Bucket List
+date: 2010-01-26
 categories: 
   - Miscellaneous
 ---

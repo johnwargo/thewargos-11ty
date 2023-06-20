@@ -1,6 +1,6 @@
 ---
-title: "August and I snuck out and played golf yesterday…"
-date: "2010-04-23"
+title: August and I snuck out and played golf yesterday…
+date: 2010-04-23
 categories: 
   - Miscellaneous
 ---
@@ -11,6 +11,6 @@ August and Elizabeth had been bugging me to go play golf, so we decided to head 
 
 Here are some pictures of August at the course.
 
-\[gallery link="file" columns="2"\]
+\[gallery link=file columns=2\]
 
 At one point, he’d been using his 7 iron for everything except putting so I started having him use different clubs just to get a feel for them. I noticed he had a hybrid club (kind of a mix between an iron and a wood) so I suggested he give that one a try (special thanks to Aunt Sue and Cousin Robert for the clubs by the way). He positioned himself by the ball and took a swing and the ball went further than he’d ever hit a golf ball before. It was way cool. I shouted my praise for the shot, walked over and gave him a bug high five and he hugged me and said ‘I love you dad!’ It was a great night and I can’t wait to do it again (and again and again and again…..)

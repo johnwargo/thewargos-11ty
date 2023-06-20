@@ -1,6 +1,6 @@
 ---
-title: "Every night"
-date: "2009-03-12"
+title: Every night
+date: 2009-03-12
 categories: 
   - The Twins
 ---

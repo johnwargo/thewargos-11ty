@@ -1,6 +1,6 @@
 ---
-title: "Kid's Web Sites"
-date: "2013-11-17"
+title: Kid's Web Sites
+date: 2013-11-17
 categories: 
   - Family
   - The Twins

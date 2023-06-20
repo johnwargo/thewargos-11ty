@@ -1,6 +1,6 @@
 ---
-title: "Stilts"
-date: "2009-07-18"
+title: Stilts
+date: 2009-07-18
 categories: 
   - The Twins
 ---

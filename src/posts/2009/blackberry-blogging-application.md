@@ -1,6 +1,6 @@
 ---
-title: "BlackBerry blogging application"
-date: "2009-08-19"
+title: BlackBerry blogging application
+date: 2009-08-19
 categories: 
   - Miscellaneous
 ---

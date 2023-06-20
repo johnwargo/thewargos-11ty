@@ -1,6 +1,6 @@
 ---
-title: "'Finished' the book last night..."
-date: "2009-06-25"
+title: Finished the book last night
+date: 2009-06-25
 categories: 
   - BlackBerry Development Fundamentals
 ---

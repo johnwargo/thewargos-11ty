@@ -1,6 +1,6 @@
 ---
-title: "Free DSL Upgrade"
-date: "2013-01-18"
+title: Free DSL Upgrade
+date: 2013-01-18
 categories: 
   - Miscellaneous
 ---

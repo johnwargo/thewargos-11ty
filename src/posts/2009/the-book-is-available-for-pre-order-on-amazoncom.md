@@ -1,6 +1,6 @@
 ---
-title: "The book is available for pre-order on Amazon.com"
-date: "2009-06-07"
+title: The book is available for pre-order on Amazon.com
+date: 2009-06-07
 categories: 
   - BlackBerry Development Fundamentals
 ---
