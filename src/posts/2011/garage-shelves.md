@@ -1,6 +1,6 @@
 ---
-title: "Garage Shelves"
-date: "2011-02-18"
+title: Garage Shelves
+date: 2011-02-18
 categories: 
   - The House
 ---

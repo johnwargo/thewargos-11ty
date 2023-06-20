@@ -1,6 +1,6 @@
 ---
-title: "Paul Bunyon"
-date: "2011-03-13"
+title: Paul Bunyon
+date: 2011-03-13
 categories: 
   - Miscellaneous
   - The House
@@ -19,6 +19,6 @@ What was interesting was that I was able to get Anna to come out and help us wit
 
 Anna? She chatted with the neighbor's wife as shown in the following picture (while we worked of course):
 
-\[caption id="attachment\_900" align="alignnone" width="179" caption="Anna & Rake"\][![Anna & Rake](images/Anna-Rake-179x300.jpg "Anna & Rake")](http://www.thewargos.com/wp-content/uploads/2011/03/Anna-Rake.jpg)\[/caption\]
+![Anna & Rake](images/Anna-Rake.jpg)
 
 The cones? Those are from the kids. They've gotten the Soccer Bug (I couldn't be happier) so they setup a goal with some neighbors and friends and had a little game in the yard as we (but not Anna) worked away.

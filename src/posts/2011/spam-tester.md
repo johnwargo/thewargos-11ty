@@ -1,6 +1,6 @@
 ---
-title: "Spam Tester"
-date: "2011-01-12"
+title: Spam Tester
+date: 2011-01-12
 categories: 
   - Geeking Out
   - Miscellaneous
@@ -10,7 +10,7 @@ I run a WordPress blog and setup the registration option so friends and family (
 
 You've got to love it though when spammers register for your site and clearly identify themselves as spammers. Take a look at the following screen shot:
 
-\[caption id="attachment\_850" align="alignnone" width="300" caption="Spam Tester"\][![Spam Tester](images/testspam-300x156.png "Spam Tester")](http://www.thewargos.com/wp-content/uploads/2011/01/testspam.png)\[/caption\]
+![Spam Tester](images/testspam.png)
 
 The person registered for the site and the email address they're using tells it like it is: someone testing some spamming software.
 
