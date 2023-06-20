@@ -1,13 +1,13 @@
 ---
-title: "Facebook Page?"
-date: "2012-11-29"
+title: Facebook Page
+date: 2012-11-29
 categories: 
   - Miscellaneous
 ---
 
-\[caption id="attachment\_2287" align="alignnone" width="300"\][![McNelly SoftWorks Logo](images/msw_logo_md.jpg "McNelly SoftWorks Logo")](http://www.thewargos.com/2012/11/facebook-page/msw_logo_md/) McNelly SoftWorks Logo\[/caption\]
+![McNelly SoftWorks Logo](images/msw_logo_md.jpg)
 
-I discovered yesterday that my little side business, McNelly Softworks, has a Facebook page. I didn't create a Facebook page for the business, but apparently it's had one for several years now. Here's a [link to the page](https://www.facebook.com/pages/McNelly-Softworks/162508630443365?ref=ts&fref=ts "Link to McNelly SoftWorks Facebook Page") - I'm going to make some nice graphics for the page just to experiment with it.
+I discovered yesterday that my little side business, McNelly SoftWorks, has a Facebook page. I didn't create a Facebook page for the business, but apparently it's had one for several years now. Here's a [link to the page](https://www.facebook.com/pages/McNelly-Softworks/162508630443365?ref=ts&fref=ts "Link to McNelly SoftWorks Facebook Page") - I'm going to make some nice graphics for the page just to experiment with it.
 
 What's amazing is how many public listings there are for the company - all listing my old Akron address. Looks like hundreds of sites downloaded the Yellow Pages listings and made entries for my business (which isn't actually much of a business, simply a place for me to earn some extra cash). Do a quick Google Search for _McNelly SoftWorks_ and you'll see what I mean.
 

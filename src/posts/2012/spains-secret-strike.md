@@ -1,11 +1,9 @@
 ---
-title: "Spain’s Secret Strike"
-date: "2012-12-08"
+title: Spain’s Secret Strike
+date: 2012-12-08
 categories: 
   - Miscellaneous
 ---
-
-[![The Sun](images/sun.png "The Sun")](http://www.thewargos.com/2012/12/spains-secret-strike/sun/)
 
 I was in Spain for a conference back in November and I was there during a nationwide strike against the austerity programs that the EU is putting in place to help enable economic recovery. My employer is international (we have offices and employees everywhere) and very organized, so we knew a lot in advance about the strike and were given very specific instructions on how to stay safe during the… unrest.
 

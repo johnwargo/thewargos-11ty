@@ -1,6 +1,6 @@
 ---
-title: "Lands’ End Order Tracker"
-date: "2012-12-10"
+title: Lands’ End Order Tracker
+date: 2012-12-10
 categories: 
   - Miscellaneous
 ---
@@ -11,14 +11,12 @@ Why is it then that Lands’ End won’t give you an easy way to track your orde
 
 I got an email from them for an order I placed (shhhhh, it’s a gift for my Wife) that included the track order button shown in the figure below:
 
-[![Lands' End Shipped Order Confirmation](images/lands_end_1.png "Lands' End Shipped Order Confirmation")](http://www.thewargos.com/2012/12/lands-end-order-tracker/lands_end_1/)
-
+![Lands' End Shipped Order Confirmation](images/lands_end_1.png)
 Figure 1 – Lands’ End Shipped Order Confirmation Email
 
 Being interested in knowing where said order was, I clicked the Track Order button and was presented with the following page:
 
-[![Lands' End Order Tracker Page](images/lands_end_2.png "Lands' End Order Tracker Page")](http://www.thewargos.com/2012/12/lands-end-order-tracker/lands_end_2/)
-
+![Lands' End Order Tracker Page](images/lands_end_2.png)
 Figure 2 – Lands’ End Track Order Page
 
 Help me understand why they’re prompting me to enter my order number? They already know what my order number is – they’re the ones who sent me the email listing the order number (which I’ve blurred out in Figure 1). They even know what country I’m interested in as well as the zip code.

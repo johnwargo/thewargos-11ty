@@ -1,11 +1,11 @@
 ---
-title: "Hotel Room Power"
-date: "2012-12-10"
+title: Hotel Room Power
+date: 2012-12-10
 categories: 
   - Travel
 ---
 
-\[caption id="attachment\_2329" align="alignnone" width="400"\][![European Hotel Room Power Switch](images/hotel-room-power.jpg "European Hotel Room Power Switch")](http://www.thewargos.com/2012/12/hotel-room-power/hotel-room-power/) European Hotel Room Power Switch\[/caption\]
+![European Hotel Room Power Switch](images/hotel-room-power.jpg)
 
 I arrived in Spain on Sunday, November 11th. I was tired (don’t sleep well on planes), stinky and trying to stay awake (I failed – ended up sleeping for like an hour after I got settled into my room). I was staying at the Auditorium Madrid, supposedly the largest hotel in Europe (it was pretty big) and my room was very, very far from the lobby.
 
@@ -15,7 +15,7 @@ Now, I need to tell you that when I walked in the room, I noticed this little wh
 
 So, after checking everything I could think of in the room in an effort to figure out why nothing worked, I remembered that little slot. What the heck, what’s the worse that could happen? I stuck my room key in the slot and suddenly everything in my room started to work (the electricity came back on). Amazing!
 
-I asked a German colleague about this and apparently it’s standard across Europe (it had been quite a while since I’d been in Europe apparently (about 10 years), you have to stick your key in the slot to enable electricity. None of that stuff like we have in the US where there’s a motion sensor in the room to determine whether the air conditioning should be running or the Disney Hotel thing of disabling the air conditioning when the door’s not dead-bolted. Nope, in Europe, nothing electrical works unless you’re room key is in that slot.
+I asked a German colleague about this and apparently it’s standard across Europe (it had been quite a while since I’d been in Europe apparently (about 10 years)), you have to stick your key in the slot to enable electricity. None of that stuff like we have in the US where there’s a motion sensor in the room to determine whether the air conditioning should be running or the Disney Hotel thing of disabling the air conditioning when the door’s not dead-bolted. Nope, in Europe, nothing electrical works unless you’re room key is in that slot.
 
 So, what do you do when you want the air conditioning (or heat) running while you’re out of the room? Or, how do you charge a smartphone while you’re out of the room? Better ask for two room keys when you check into a European hotel.
 

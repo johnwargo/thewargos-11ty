@@ -1,6 +1,6 @@
 ---
-title: "Olive This!"
-date: "2012-08-03"
+title: Olive This
+date: 2012-08-03
 categories: 
   - Miscellaneous
 ---
@@ -11,7 +11,7 @@ I set them up with a hosting account (at [Fatcow](http://www.fatcow.com/join/ind
 
 Here's a snapshot of their web site, it looks really great:
 
-[![Olive This! Web Site](images/olivethis_site_snap-300x141.png "Olive This! Web Site")](http://www.thewargos.com/wp-content/uploads/2012/08/olivethis_site_snap.png)
+![Olive This! Web Site](images/olivethis_site_snap.png)
 
 Once they opened, some of their initial customers were involved with different publications in the area, so they’re already getting some great publicity. The first was an article in the local community paper about [new stores in the area](http://www.charlotteobserver.com/2012/08/01/3407032/new-stores-opening-all-over-the.html "New Stores Opening in the Area") but I imagine more will come soon.
 

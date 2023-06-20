@@ -1,6 +1,6 @@
 ---
-title: "Workshop"
-date: "2012-12-26"
+title: Workshop
+date: 2012-12-26
 categories: 
   - The House
   - The Twins
@@ -8,7 +8,7 @@ categories:
 
 Anna took over my workshop the last month or so – not that I mind. She and a friend got some used school desks and moved them into my workshop to scrape, sand, glue and paint them. The desk undersides were covered with used chewing gum – even I thought it was gross and I didn’t have to scrape it all off. They turned out great, see the picture below of one of them under our Christmas tree.
 
-\[caption id="attachment\_2382" align="alignnone" width="300"\][![School Desks](images/school_desks-300x242.png)](http://www.thewargos.com/2012/12/workshop/school_desks/) School Desks\[/caption\]
+![School Desks](images/school_desks.png)
 
 They took up a bunch of room, of course, but the big effect on me of course is that whenever I’m in the shop working, the kids like to come over and hang out with me, ask a million questions and pick up things I definitely don’t want  them picking up (like sharp pointy things). There wasn’t a place to hide the desks, so I had to keep the door bolted and keep them away from the shop.
 

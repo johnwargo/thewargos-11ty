@@ -1,6 +1,6 @@
 ---
-title: "Cover Image"
-date: "2012-12-11"
+title: Cover Image
+date: 2012-12-11
 categories: 
   - Miscellaneous
 ---
@@ -9,4 +9,4 @@ I have been wanting to create something visual to add to the top of this site, p
 
 You can also see the one I very quickly created for McNelly SoftWorks below. Click on the photo to view it full size. Pretty cool stuff.
 
-\[caption id="attachment\_2354" align="alignnone" width="300"\][![McNelly SoftWorks Collage](images/mcnelly_collage-300x111.png "McNelly SoftWorks Collage")](http://www.thewargos.com/2012/12/cover-image/mcnelly_collage/) McNelly SoftWorks Collage\[/caption\]
+![McNelly SoftWorks Collage](images/mcnelly_collage.png)

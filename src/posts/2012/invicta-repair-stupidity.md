@@ -1,11 +1,9 @@
 ---
-title: "Invicta Repair Stupidity"
-date: "2012-12-10"
+title: Invicta Repair Stupidity
+date: 2012-12-10
 categories: 
   - Miscellaneous
 ---
-
-\[caption id="attachment\_2334" align="alignnone" width="300"\][![Invicta Logo](images/invicta_logo.jpg "Invicta Logo")](http://www.thewargos.com/2012/12/invicta-repair-stupidity/invicta_logo/) Invicta Logo\[/caption\]
 
 Many years ago, I purchased a rugged watch from Ashford.com. I’d never heard of the manufacturer before, but it seemed like a sturdy watch and I liked the thick, rubber watchband. The only drawback I found was that it was a self-winding watch and it would simply run out of juice when I didn’t attention to it.
 
