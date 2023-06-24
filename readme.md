@@ -14,8 +14,8 @@ Demo site: https://thewargos.netlify.app/
 - [x] Google Analytics
 - [x] About content
 - [x] Clean up post content
-- [ ] Home sidebar
-- [ ] Home content
+- [x] Home content
+- [x] Home sidebar
 - [ ] Fix image links
 - [ ] Menu highlighting on paginated pages
 - [ ] Search
