@@ -15,7 +15,7 @@ This is a work in progress, barely started.
 - [x] Categories Page
 - [x] Google Analytics
 - [ ] Home sidebar
-- [ ] About content
+- [x] About content
 - [ ] Clean up post content
 - [ ] Fix image links
 - [ ] Search
