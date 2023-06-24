@@ -19,3 +19,4 @@ Demo site: https://thewargos.netlify.app/
 - [ ] Fix image links
 - [ ] Menu highlighting on paginated pages
 - [ ] Search
+- [ ] Favicon
