@@ -8,7 +8,6 @@ eleventyNavigation:
 categories: []
 ---
 
-
 Not much to say, we met, we fell in love, we got married then we made a family! Here's a picture of the family in Cullowhee, NC - May, 2008.
 
 {% image "src/images/family-collowhee.jpg", "Wargo Family Photo", "image-full" %}
