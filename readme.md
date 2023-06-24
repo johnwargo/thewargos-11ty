@@ -6,16 +6,16 @@ Eleventy version of the static web site at https://thewargos.com
 
 Demo site: https://thewargos.netlify.app/
 
-This is a work in progress, barely started.
-
 ## Tasks
 
 - [x] Home page article list
 - [x] Articles Page
 - [x] Categories Page
 - [x] Google Analytics
-- [ ] Home sidebar
 - [x] About content
-- [ ] Clean up post content
+- [x] Clean up post content
+- [ ] Home sidebar
+- [ ] Home content
 - [ ] Fix image links
+- [ ] Menu highlighting on paginated pages
 - [ ] Search
