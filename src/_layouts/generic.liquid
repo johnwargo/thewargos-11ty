@@ -23,7 +23,11 @@ License: pixelarity.com/license
         <div class="container">
           <article class="box post">
             {% if headerImage %}
-              {% image "{{ headerImage }}", "{{ headerAltText }}", "image featured" %}
+              <span class="image fit"><img
+                  src="{{ headerImage }}"
+                  alt="{{ headerImageAltText }}"
+                  class="image fit" />
+              </span>
             {% else %}
               {% image "src/images/collage-header.png", "wargo family collage", "image featured" %}
             {% endif %}
