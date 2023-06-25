@@ -4,8 +4,8 @@ const sharp = require('sharp');
 const Image = require('@11ty/eleventy-img');
 
 const GALLERY_IMAGE_WIDTH = 256;
-const LANDSCAPE_LIGHTBOX_IMAGE_WIDTH = 1024;
-const PORTRAIT_LIGHTBOX_IMAGE_WIDTH = 768;
+const LANDSCAPE_LIGHTBOX_IMAGE_WIDTH = 1280;
+const PORTRAIT_LIGHTBOX_IMAGE_WIDTH = 1024;
 
 async function galleryImageShortcode(src, alt) {
     let lightboxImageWidth = LANDSCAPE_LIGHTBOX_IMAGE_WIDTH;

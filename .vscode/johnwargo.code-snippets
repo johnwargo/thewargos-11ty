@@ -15,12 +15,22 @@
 		],
 		"description": "Image Tag"
 	},
+	"Gallery": {
+		"scope": "markdown, liquid",
+		"prefix": "!gallery",
+		"body": [
+			"{% gallery \"\" %}",
+			"{% galleryImage \"src/images/\", \"\" %}",
+			"{% endgallery %}"
+		],
+		"description": "Image Tag"
+	},
 	"Link Target": {
 		"scope": "markdown, liquid",
 		"prefix": "!liquid",
 		"body": [
 			" target=\"_blank\""
-		],		
+		],
 		"description": "Anchor target"
 	}
 }
