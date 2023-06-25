@@ -1,5 +1,7 @@
 #!/usr/bin/env zx
 
+const ALGOLIA_PREFiX = 'WAR_';
+
 console.log('\nStarting project publish...');
 
 // With ZX the first three commands are the node executable, the zx executable, and the script name
@@ -52,7 +54,7 @@ await $`eleventy`;
 
 if (updateIndex) {
   console.log('\nUpdating Algolia Index');
-  await $`algolia-idxup _site/algolia.json WAR_`;
+  await $`algolia-idxup _site/algolia.json ${ALGOLIA_PREFiX}`;
 }
 
 await $`git add -A`;
