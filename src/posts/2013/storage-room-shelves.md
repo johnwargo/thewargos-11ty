@@ -9,13 +9,15 @@ Back in April, Anna and I built a set of shelves for our storage room. I was jus
 
 Lot of furniture building going on here this year.
 
-![Storage Room Shelves 1](images/Storage-Room-Shelves-1.jpg)
-![Storage Room Shelves 2](images/Storage-Room-Shelves-2.jpg)
-![Storage Room Shelves 3](images/Storage-Room-Shelves-3.jpg)
-![Storage Room Shelves 4](images/Storage-Room-Shelves-4.jpg)
-![Storage Room Shelves 5](images/Storage-Room-Shelves-5.jpg)
-![Storage Room Shelves 6](images/Storage-Room-Shelves-6.jpg)
-![Storage Room Shelves 7](images/Storage-Room-Shelves-7.jpg)
-![Storage Room Shelves 8](images/Storage-Room-Shelves-8.jpg)
-![Storage Room Shelves 9](images/Storage-Room-Shelves-9.jpg)
-![Storage Room Shelves 10](images/Storage-Room-Shelves-10.jpg)
+{% gallery "storage-shelves" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-1.jpg", "Storage Room Shelves 1" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-2.jpg", "Storage Room Shelves 2" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-3.jpg", "Storage Room Shelves 3" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-4.jpg", "Storage Room Shelves 4" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-5.jpg", "Storage Room Shelves 5" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-6.jpg", "Storage Room Shelves 6" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-7.jpg", "Storage Room Shelves 7" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-8.jpg", "Storage Room Shelves 8" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-9.jpg", "Storage Room Shelves 9" %}
+{% galleryImage "src/images/2013/Storage-Room-Shelves-10.jpg", "Storage Room Shelves 10" %}
+{% endgallery %}

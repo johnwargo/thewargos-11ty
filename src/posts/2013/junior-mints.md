@@ -12,4 +12,4 @@ Santa knows I love them too; he gives them to me in my stocking every Christmas.
 
 I love them so much that I even bought a Junior Mints Lunch Box at Disney one time (I’ve been there like 18 times). It’s sitting on my shelves in my office.
 
-![Junior Mints Lunch Box](images/junior_mints_lunch_box.png)
+{% image "src/images/2013/junior_mints_lunch_box.png", "Junior Mints Lunch Box", "image-full" %}

@@ -20,7 +20,7 @@ Demo site: https://thewargos.netlify.app/
 - [x] Menu highlighting on paginated pages
 - [x] Image gallery
 - [x] Fix image links 2014
-- [ ] Fix image links 2013
+- [x] Fix image links 2013
 - [ ] Fix image links 2012
 - [ ] Fix image links 2011
 - [ ] Fix image links 2010

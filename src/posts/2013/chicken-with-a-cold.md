@@ -5,4 +5,4 @@ categories:
   - Family
 ---
 
-\[wpvp\_embed type=vimeo video\_code=58708732 width=500 height=281\]
+https://vimeo.com/58708732

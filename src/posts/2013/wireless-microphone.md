@@ -11,4 +11,4 @@ August has been taking Guitar lessons and doing quite well with them, so I thoug
 
 Anyway, they were raffling off some free microphone equipment and August won the grand prize. Here's a pic with August and Travis showing off his 'Major Award'  :-)
 
-![Grand Prize Winner](images/Augusts-Major-Award.jpg)
+{% image "src/images/2013/Augusts-Major-Award.jpg", "Grand Prize Winner", "image-full" %}

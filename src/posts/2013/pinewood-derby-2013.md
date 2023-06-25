@@ -18,7 +18,7 @@ August and I headed over to the workshop and got to work. I tried to get him to 
 
 Here’s the car – washers and all.
 
-![Pinewood Derby Car](images/pinewood-derby-car.jpg)
+{% image "src/images/2013/pinewood-derby-car.jpg", "Pinewood Derby Car", "image-full" %}
 
 I had to work the breakfast at the races, so I headed over to the event and Anna waited for the kids to get up. August must have registered some disdain at my weight installation, because Anna called me and was looking for the car’s spray paint. She gave it a quick paintjob and headed off to the race.
 
