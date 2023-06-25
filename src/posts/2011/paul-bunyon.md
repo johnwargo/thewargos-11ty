@@ -19,6 +19,6 @@ What was interesting was that I was able to get Anna to come out and help us wit
 
 Anna? She chatted with the neighbor's wife as shown in the following picture (while we worked of course):
 
-![Anna & Rake](images/Anna-Rake.jpg)
+{% image "src/images/2011/Anna-Rake.jpg", "Anna & Rake", "image-full" %}
 
 The cones? Those are from the kids. They've gotten the Soccer Bug (I couldn't be happier) so they setup a goal with some neighbors and friends and had a little game in the yard as we (but not Anna) worked away.

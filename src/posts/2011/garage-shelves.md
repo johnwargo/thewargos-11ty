@@ -9,6 +9,10 @@ I moved my tools and my office into my new man cave back in October. I've been t
 
 Rather than buy something, I decided to get some help, buy the wood and build them myself. I got the wood a couple of weeks ago and put them together. I finally got them installed last week and I'm mostly moved in. I thought I'd share some pictures of the shelves. I think they turned out pretty well (if I do say myself).
 
-\[gallery link="file" columns="2" orderby="title"\]
+{% gallery "garage-shekves" %}
+{% galleryImage "src/images/2011/garage-shelves-1.jpg", "Garage Shelves 1" %}
+{% galleryImage "src/images/2011/garage-shelves-2.jpg", "Garage Shelves 2" %}
+{% galleryImage "src/images/2011/garage-shelves-3.jpg", "Garage Shelves 3" %}
+{% endgallery %}
 
 That funky stuff you see on the floor is the crappy epoxy coating the builder put down. We're waiting for warmer weather for them to pull it all up and put something else down in its place.
