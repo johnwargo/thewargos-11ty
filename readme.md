@@ -23,7 +23,7 @@ Demo site: https://thewargos.netlify.app/
 - [x] Fix image links 2013
 - [x] Fix image links 2012
 - [x] Fix image links 2011
-- [ ] Fix image links 2010
+- [x] Fix image links 2010
 - [ ] Fix image links 2009
 - [ ] Search
 - [ ] Most popular

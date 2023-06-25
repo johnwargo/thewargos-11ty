@@ -9,7 +9,7 @@ Back in April, Anna and I built a set of shelves for our storage room. I was jus
 
 Lot of furniture building going on here this year.
 
-{% gallery "storage-shelves" %}
+{% gallery "storage" %}
 {% galleryImage "src/images/2013/Storage-Room-Shelves-1.jpg", "Storage Room Shelves 1" %}
 {% galleryImage "src/images/2013/Storage-Room-Shelves-2.jpg", "Storage Room Shelves 2" %}
 {% galleryImage "src/images/2013/Storage-Room-Shelves-3.jpg", "Storage Room Shelves 3" %}

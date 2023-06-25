@@ -112,13 +112,12 @@ module.exports = eleventyConfig => {
 	// copy the rest of the files
 	[
 		// Data files
-		"src/_data/*",
+		"src/_data/",
 		// Template files
 		"src/assets/css/",
 		"src/assets/js/",
 		"src/assets/sass/",
 		"src/assets/webfonts/",
-		// Images folders
 		"src/images/*",
 	].forEach((path) => {
 		eleventyConfig.addPassthroughCopy(path);
