@@ -17,7 +17,8 @@ Demo site: https://thewargos.netlify.app/
 - [x] Home content
 - [x] Home sidebar
 - [x] Favicon
+- [x] Menu highlighting on paginated pages
 - [ ] Fix image links
-- [ ] Menu highlighting on paginated pages
 - [ ] Search
 - [ ] Most popular
+- [ ] Subscribe
