@@ -18,8 +18,13 @@ Demo site: https://thewargos.netlify.app/
 - [x] Home sidebar
 - [x] Favicon
 - [x] Menu highlighting on paginated pages
-- [ ] Image gallery
-- [ ] Fix image links
+- [x] Image gallery
+- [x] Fix image links 2014
+- [ ] Fix image links 2013
+- [ ] Fix image links 2012
+- [ ] Fix image links 2011
+- [ ] Fix image links 2010
+- [ ] Fix image links 2009
 - [ ] Search
 - [ ] Most popular
 - [ ] Subscribe

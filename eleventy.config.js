@@ -5,6 +5,7 @@ const markdownIt = require('markdown-it');
 const markdownItAttrs = require('markdown-it-attrs');
 const pluginDate = require('eleventy-plugin-date');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
+const embedVimeo = require("eleventy-plugin-vimeo-embed");
 const embedYouTube = require('eleventy-plugin-youtube-embed');
 const pluginStats = require('eleventy-plugin-post-stats');
 
@@ -23,6 +24,7 @@ module.exports = eleventyConfig => {
 
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
+	eleventyConfig.addPlugin(embedVimeo);
 	eleventyConfig.addPlugin(embedYouTube);
 	eleventyConfig.addPlugin(pluginDate);
 	eleventyConfig.addPlugin(pluginGallery);

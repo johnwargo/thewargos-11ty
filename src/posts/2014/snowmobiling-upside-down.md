@@ -9,4 +9,4 @@ Spent the weekend in the Ellicottville area snowmobiling with some friends. This
 
 We get together once or twice a year to do something interesting, hang out, drink, ride scary motor vehicles at a high (and dangerous) rate of speed, drink some more, shoot things and swap stories (and abuse) for hours on end. It is a wonderful thing.
 
-![Snowmobile Buddies](images/snow-buddies.jpg)
+{% image "src/images/2014/snow-buddies.jpg", "Snowmobile Buddies", "image-full" %}
