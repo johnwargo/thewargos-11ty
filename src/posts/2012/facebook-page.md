@@ -1,11 +1,10 @@
 ---
 title: Facebook Page
 date: 2012-11-29
+headerImage: src/images/2012/msw_logo_md.jpg
 categories: 
   - Miscellaneous
 ---
-
-![McNelly SoftWorks Logo](images/msw_logo_md.jpg)
 
 I discovered yesterday that my little side business, McNelly SoftWorks, has a Facebook page. I didn't create a Facebook page for the business, but apparently it's had one for several years now. Here's a [link to the page](https://www.facebook.com/pages/McNelly-Softworks/162508630443365?ref=ts&fref=ts "Link to McNelly SoftWorks Facebook Page") - I'm going to make some nice graphics for the page just to experiment with it.
 

@@ -9,4 +9,4 @@ I have been wanting to create something visual to add to the top of this site, p
 
 You can also see the one I very quickly created for McNelly SoftWorks below. Click on the photo to view it full size. Pretty cool stuff.
 
-![McNelly SoftWorks Collage](images/mcnelly_collage.png)
+{% image "src/images/2012/mcnelly_collage.png", "McNelly SoftWorks Collage", "image-full" %}

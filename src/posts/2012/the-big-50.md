@@ -11,7 +11,7 @@ We had a sort of meat theme for the weekend that preceded my birthday. We had a 
 
 Two of my neighbors got together and gave me a cooler (photo below) containing 50 pieces of Beef. One of the wives, probably the one with the most OCD walked through the store and carefully counted every piece in every package to make sure the count came out to exactly 50 pieces.
 
-![Birthday Meat Cooler](images/Birthday-Cooler.png)
+{% image "src/images/2012/Birthday-Cooler.png", "Birthday Meat Cooler", "image-full" %}
 
 It was too funny. I got burgers, sausage (beef of course), kielbasa, Bratwurst, ribs and much more. I especially liked the cooler they brought it in. We’ve kept it and every time I look at it I laugh out loud.
 

@@ -16,7 +16,7 @@ I’m thankful that I’m in reasonably good health (see below about my back). T
 
 I’m thankful for my family being safe and healthy. My friends too – I lost an excellent and amazing friend last year, and I’m glad nothing like that happened this year (so far, still a couple of days left). Losing Bill truly made me more thankful of the friends that remained – since his passing shocked me so much.
 
-I’m thankful that my siblings live so close. The move to NC put all with 4 hour drive of eachother – and that’s a good thing. Going to be seeing both of them (and their families) Friday.
+I’m thankful that my siblings live so close. The move to NC put all with 4 hour drive of each other – and that’s a good thing. Going to be seeing both of them (and their families) Friday.
 
 I’m thankful that my family has discovered my Amazon wish list. It’s so cool that for birthdays and Christmas that my list of things I want is right there for the viewing. If any of you feel like getting me something off the list, …
 

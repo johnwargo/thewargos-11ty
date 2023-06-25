@@ -21,6 +21,6 @@ His right arm is broken, so I had to go get a dowel so we can put it back togeth
 
 Through Anna’s laughter, she suggested that we get some fake snow to put on the ground around my cool and amazing stand – here’s a picture:
 
-![Snowman](images/DSC_6419.jpg)
+{% image "src/images/2012/DSC_6419.jpg", "Snowman", "image-full" %}
 
 We also took some pictures of the kids and dogs for our yearly Christmas card. 150 pictures later, we may have one we’re able to use for the card. We’ll see what happens.

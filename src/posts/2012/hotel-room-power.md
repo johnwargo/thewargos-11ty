@@ -5,9 +5,9 @@ categories:
   - Travel
 ---
 
-![European Hotel Room Power Switch](images/hotel-room-power.jpg)
-
 I arrived in Spain on Sunday, November 11th. I was tired (don’t sleep well on planes), stinky and trying to stay awake (I failed – ended up sleeping for like an hour after I got settled into my room). I was staying at the Auditorium Madrid, supposedly the largest hotel in Europe (it was pretty big) and my room was very, very far from the lobby.
+
+{% image "src/images/2012/hotel-room-power.jpg", "European Hotel Room Power Switch", "image-full" %}
 
 When I walked in my room, I set about putting all of my stuff away and quickly noticed that none of the lights in my hotel room worked. ‘Crap’ I said to myself privately (I was alone, so I’m not sure why I felt the need to say it to myself privately, but I did) what was I going to do. I was tired and stinky and didn’t want to deal with switching rooms or waiting for my electricity to be turned back on.
 
