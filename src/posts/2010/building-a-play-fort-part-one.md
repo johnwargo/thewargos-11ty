@@ -1,5 +1,5 @@
 ---
-title: Building a Play Fort (Part One)
+title: Building a Play Fort Part One
 date: 2010-05-26
 categories: 
   - The House
@@ -11,6 +11,6 @@ So, fast forward to 2010 and our new house. Where the house in Akron had a good 
 
 So, I spoke with my builder and got some design hints then Sunday Anna and I dug some holes, purchased some wood and we're going to begin building this weekend. On Sunday, we set the cornerstone - a 12 foot long post that will be the anchor of the fort. Tonight we'll put up the frame and the other posts and this weekend we'll floor it and put up some railings. Stay tuned, but I thought you'd enjoy a photo or two of this lonely post sitting in the middle of the woods.
 
-\[gallery link="file" columns="2"\]
+{% image "src/images/2010/fort1.jpg", "", "image-full" %}
 
 The remaining wood for the fort should arrive within the hour.

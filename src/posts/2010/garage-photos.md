@@ -11,4 +11,8 @@ Before we hired the builder, we spoke to several customers plus the owner of the
 
 Anyway, the builder was kind enough to share some pictures of the garage - this is what my new garage will look like although mine won't be brick, it will be the same as the house, grey stucco.
 
-\[gallery link="file" columns="2"\]
+{% gallery "garage" %}
+{% galleryImage "src/images/2010/Garage-1.jpg", "Garage photo 1" %}
+{% galleryImage "src/images/2010/Garage-2.jpg", "Garage photo 2" %}
+{% galleryImage "src/images/2010/Garage-3.jpg", "Garage photo 3" %}
+{% endgallery %}

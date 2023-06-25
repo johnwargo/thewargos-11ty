@@ -9,7 +9,13 @@ Well, after many (many, many) problems and delays, the walls are finally going u
 
 Here are some pictures.
 
-\[gallery link="file" columns="2" orderby="rand"\]
+{% gallery "" %}
+{% galleryImage "src/images/2010/walls-1.jpg", "" %}
+{% galleryImage "src/images/2010/walls-2.jpg", "" %}
+{% galleryImage "src/images/2010/walls-3.jpg", "" %}
+{% galleryImage "src/images/2010/walls-4.jpg", "" %}
+{% galleryImage "src/images/2010/walls-5.jpg", "" %}
+{% endgallery %}
 
 All of us have been spending most of the morning sitting on the back porch watching the workers work away. It's mesmerizing - I had to pull myself away several times today to go back to work.
 

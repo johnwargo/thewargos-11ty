@@ -9,4 +9,4 @@ We have these crappy little blocks the previous owner used to build some stairs 
 
 This last weekend, I suggested that we take some of the blocks and make a fire pit down/back in the woods in my back yard. My back is out (9 days now) so Elizabeth worked one block down into the back and Anna carried/rolled another 23 of them down. The blocks lay perfectly into a little circle, so now we have a nice fire pit to use this fall/winter.  Here's a pic (I dropped the camera, so it no longer focuses - probably explains the blurriness of the picture).
 
-![The Fire Pit](images/Firepit1.jpg)
+{% image "src/images/2010/Firepit1.jpg", "The Fire Pit", "image-full" %}

@@ -11,4 +11,8 @@ August isn't happy about it, but at least I know I can still hit a Soccer ball.
 
 Here are some pictured of the front beds Anna's working on.
 
-\[gallery link=file\]
+{% gallery "" %}
+{% galleryImage "src/images/2010/beds-1.jpg", "" %}
+{% galleryImage "src/images/2010/beds-2.jpg", "" %}
+{% galleryImage "src/images/2010/beds-3.jpg", "" %}
+{% endgallery %}

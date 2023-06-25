@@ -15,7 +15,7 @@ Of course I had to let each of the kids do it once before I forced a stop.
 
 When we got home, we delivered a gift to our neighbor's across the street and as we came home we (me and the kids) noticed that it would be really cool to ride the kettcar down the driveway. Here's a picture of the driveway (snow covered today of course).
 
-![Driveway](images/Blosser-2.jpg)
+{% image "src/images/2010/Blosser-2.jpg", "Driveway", "image-full" %}
 
 August chickened out, tugged on the break all the way down. When Elizabeth did it, she went full tilt, down the driveway, across the street (with me making sure there were no cars coming of course) and into our yard. When she hit our yard, she went over the curb and went airborne (just a foot or so) before coming crashing down.
 

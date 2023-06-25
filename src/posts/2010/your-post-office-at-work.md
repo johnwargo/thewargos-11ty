@@ -19,7 +19,9 @@ The other day, I got an envelope in the mail. It was thick, like it had several 
 
 The US Postal Service, in its infinite wisdom, got the letter – saw that it said ‘John & Anna Wargo’ on the front of it and didn’t know where to deliver it. They:
 
-1.    Opened the letter 2.    Saw the address of the Surveyor 3.    Stuffed it in an envelope and delivered it to the surveyor!
+1. Opened the letter 
+2. Saw the address of the Surveyor 
+3. Stuffed it in an envelope and delivered it to the surveyor!
 
 Yep, they delivered it to the person listed inside the letter rather than the people identified on the front of the letter. I can’t imagine that there are that many John and Anna Wargo couples in Charlotte – I’ll have to take a look.
 

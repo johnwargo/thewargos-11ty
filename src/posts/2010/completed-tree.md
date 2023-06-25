@@ -7,4 +7,4 @@ categories:
 
 Our Christmas tree looks amazing, best tree I've ever gotten. Here's a picture of the final product.
 
-![Christmas Tree Finished](images/Christmas-Tree-Finished.jpg "Christmas Tree Finished")
+{% image "src/images/2010/christmas-tree-finished.jpg", "Christmas Tree Finished", "image-full" %}

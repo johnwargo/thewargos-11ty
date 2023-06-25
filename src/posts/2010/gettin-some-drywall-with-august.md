@@ -9,7 +9,7 @@ Our new house has a lot of storage. When we first looked at it, it kept me awake
 
 Each of the upstairs front rooms have dormers and to either side of the dormers are storage rooms (with little half doors). Augusts' room has two of them, but they're unfinished (as shown in the figure below).
 
-![One of the Storage Closets](images/storage_closet.jpg)
+{% image "src/images/2010/storage_closet.jpg", "One of the Storage Closets", "image-full" %}
 
 I promised August that we'd cover the walls in the storage rooms (August uses one of them as a little play room as you can see) and he's been bugging me ever since we got here to get started on the project. Today I pulled out the back seats in the van, put a booster seat in the front seat and August and I headed to Home Depot to buy some drywall.
 

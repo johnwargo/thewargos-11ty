@@ -7,11 +7,19 @@
 		],
 		"description": "Anchor Link with Target"
 	},
+	"Anchor Target": {
+		"scope": "markdown, liquid",
+		"prefix": "!link",
+		"body": [
+			"{target=\"_blank\"}"
+		],
+		"description": "Anchor Link with Target"
+	},
 	"IMG": {
 		"scope": "markdown, liquid",
 		"prefix": "!img",
 		"body": [
-			"{% image \"src/images/2023/\", \"\", \"image-full\" %}"
+			"{% image \"src/images/2010/\", \"\", \"image-full\" %}"
 		],
 		"description": "Image Tag"
 	},
@@ -27,7 +35,7 @@
 	},
 	"Link Target": {
 		"scope": "markdown, liquid",
-		"prefix": "!liquid",
+		"prefix": "!target",
 		"body": [
 			" target=\"_blank\""
 		],

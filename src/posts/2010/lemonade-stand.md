@@ -11,8 +11,8 @@ Before I knew it, I was dragging my kids and a neighbor’s kids into the house 
 
 After lunch, we all worked together to make a pitcher of lemonade and signs. We dragged a couple of tables outside, collected cups from different houses and got to work.  We setup on the corner so we could get access to cars from the maximum number of directions (three in our case) and got to work. A little while later another neighborhood friend came by and hopped out to help.
 
-![Lemonade Stand](images/Lemonade-Stand.jpg)
+{% image "src/images/2010/Lemonade-Stand.jpg", "Lemonade Stand", "image-full" %}
 
-A whole lot of people stopped and bought lemonade. Those that didn’t at least drove by with a big smile on their face. Our local Carolina Panther (that’s American Football for those of you who don’t know) neighbor stopped on his cool, three-wheel motorcycle and tossed over $20 for the kids (didn’t take any lemonade). In all, the kids took in $40 and had a great time doing it (it proably cost me about $5 in materials – which I didn’t get back). We took all of the money into the house and sat at the table to split it all up. August suggested that everyone make a bank out of green plastic cups, so everyone had their own, special place to put their earnings.
+A whole lot of people stopped and bought lemonade. Those that didn’t at least drove by with a big smile on their face. Our local Carolina Panther (that’s American Football for those of you who don’t know) neighbor stopped on his cool, three-wheel motorcycle and tossed over $20 for the kids (didn’t take any lemonade). In all, the kids took in $40 and had a great time doing it (it probably cost me about $5 in materials – which I didn’t get back). We took all of the money into the house and sat at the table to split it all up. August suggested that everyone make a bank out of green plastic cups, so everyone had their own, special place to put their earnings.
 
 I’m sure we’ll be doing it again soon. Anna promised to make some cookies or Rice Krispie Treats to add some food to the list of sale items. Could be fun.

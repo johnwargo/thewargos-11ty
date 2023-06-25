@@ -124,12 +124,6 @@ module.exports = eleventyConfig => {
 		eleventyConfig.addPassthroughCopy(path);
 	});
 
-	// Assumes cascading folders per year
-	let thisYear = new Date().getFullYear();
-	for (let i = 2009; i <= 2010; i++) {
-		eleventyConfig.addPassthroughCopy(`src/images/${i}/*`);
-	}
-
 	// Only minify HTML if we are in production because it slows builds
 	if (isProduction) {
 		eleventyConfig.addTransform('htmlmin', htmlMinTransform);

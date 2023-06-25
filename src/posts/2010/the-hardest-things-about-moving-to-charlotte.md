@@ -21,4 +21,4 @@ Phone Dialing revisited. The other part of this is how hard it is to dial local 
 
 ## Conclusion
 
-That's it - the hardest things so far. You'd think the move would have caused more problems than that but it really went pretty smoothly. The movers showed up on time, did what they said they'd do and didn't break anything (much). The only other problem was those idiots at Time Warner but I've [already written about that](http://www.thewargos.com/2010/02/time-warner-cable-bunch-of-idiots/).
+That's it - the hardest things so far. You'd think the move would have caused more problems than that but it really went pretty smoothly. The movers showed up on time, did what they said they'd do and didn't break anything (much). The only other problem was those idiots at Time Warner but I've [already written about that](http://www.thewargos.com/2010/02/time-warner-cable-bunch-of-idiots/){target="_blank"}.

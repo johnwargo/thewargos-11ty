@@ -9,4 +9,4 @@ When we were in Akron, I just couldn't get excited about Christmas. I don't know
 
 We've been so busy this year that I really haven't been able to make anything happen, but for Christmas Anna picked up a 7 1/2 foot lighted (fake) Christmas tree. Friday morning, I couldn't put ANYTHING up for Christmas before Thanksgiving, I dug out the new tree and assembled it up in the dormer. It looks great from the street and from the main foyer. We even finally figured out what that last switch was for in one of the bedroom storage areas (it controlled the outlet in the dormer). Here's a picture of the twins up in the dormer with the new tree.
 
-![Dormer Tree](images/DSC_3291.jpg)
+{% image "src/images/2010/DSC_3291.jpg", "Dormer Tree", "image-full" %}

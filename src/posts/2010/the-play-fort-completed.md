@@ -9,8 +9,8 @@ Well, my brother and sister came up for the weekend to help with building the fo
 
 Here's the building crew:
 
-![Three Builders](images/Three-Builders1.jpg)
+{% image "src/images/2010/Three-Builders1.jpg", "Three Builders", "image-full" %}
 
 And here we are climbing on the fort:
 
-![Three Builders Climbing](images/Three-Builders7.jpg)
+{% image "src/images/2010/Three-Builders7.jpg", "Three Builders Climbing", "image-full" %}

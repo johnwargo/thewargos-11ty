@@ -11,4 +11,4 @@ All of us worked together to put the lights on the tree before the twins went to
 
 Here's a picture of the tree as it was last night. Merry Christmas!
 
-![Wargo Christmas Tree](images/Christmas-Tree-1.jpg "Wargo Christmas Tree")
+{% image "src/images/2010/Christmas-Tree-1.jpg", "Wargo Christmas Tree", "image-full" %}
