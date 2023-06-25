@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 categories: []
 ---
-
+{% assign latest_posts = collections.post | reverse %}
 {% image "src/images/collage-header.png", "wargo family collage", "image featured" %}
 
 <p>Welcome to the Wargo Family home page. We started this site back in 2009 and use it to post updates about what we're up to. You'll notice a huge gap between 2017 and 2023. Part of that was due to the Pandemic (not a hoax) and some was simple laziness.</p>
@@ -17,8 +17,10 @@ categories: []
   <a href="/categories/">Categories</a>. section. Enjoy!
 </p>
 
+<h3>Most Recent Articles</h3><br/>
+
 <ul class="divided">
-  {%- for post in collections.post reversed limit: 5 -%}
+  {% for post in latest_posts limit: 10 %}
     <li>
       <strong>
         <a href="{{post.url}}">{{ post.data.title }}</a>
@@ -42,7 +44,7 @@ categories: []
       {% else %}
         {% excerpt post %}
       {% endif %}
-      <p class="sitelink">
+      <p>
         <a href="{{post.url}}">Read Full Article</a>
       </p>
 

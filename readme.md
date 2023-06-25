@@ -16,7 +16,8 @@ Demo site: https://thewargos.netlify.app/
 - [x] Clean up post content
 - [x] Home content
 - [x] Home sidebar
+- [x] Favicon
 - [ ] Fix image links
 - [ ] Menu highlighting on paginated pages
 - [ ] Search
-- [ ] Favicon
+
