@@ -18,7 +18,17 @@ Demo site: https://thewargos.netlify.app/
 - [x] Home sidebar
 - [x] Favicon
 - [x] Menu highlighting on paginated pages
+- [ ] Image gallery
 - [ ] Fix image links
 - [ ] Search
 - [ ] Most popular
 - [ ] Subscribe
+
+## Notes to Self
+
+```liquid
+{% gallery "gallery-id" %}
+{% galleryImage "src/images/year/image-file-name.jpg", "Image Alt Text" %}
+{% galleryImage "src/images/year/image-file-name.jpg", "Image Alt Text" %}
+{% endgallery %}
+```

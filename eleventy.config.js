@@ -10,6 +10,7 @@ const pluginStats = require('eleventy-plugin-post-stats');
 
 // local plugins
 const pluginImages = require("./eleventy.config.images.js");
+const pluginGallery = require("./eleventy.config.gallery.js");
 
 // Transforms
 // https://learneleventyfromscratch.com/lesson/31.html#minifying-html-output
@@ -24,8 +25,9 @@ module.exports = eleventyConfig => {
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
 	eleventyConfig.addPlugin(embedYouTube);
 	eleventyConfig.addPlugin(pluginDate);
-	eleventyConfig.addPlugin(pluginRss);
+	eleventyConfig.addPlugin(pluginGallery);
 	eleventyConfig.addPlugin(pluginImages);
+	eleventyConfig.addPlugin(pluginRss);
 	eleventyConfig.addPlugin(pluginStats);
 
 	// https://github.com/11ty/eleventy/issues/2301
@@ -115,7 +117,7 @@ module.exports = eleventyConfig => {
 		"src/assets/sass/",
 		"src/assets/webfonts/",
 		// Images folders
-		"src/images/*",		
+		"src/images/*",
 	].forEach((path) => {
 		eleventyConfig.addPassthroughCopy(path);
 	});
