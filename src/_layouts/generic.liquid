@@ -9,7 +9,7 @@ pixelarity.com | hello@pixelarity.com
 License: pixelarity.com/license
 --><html>
   <head>
-    <title>{{ siteTitle }}</title>
+    <title>{{ siteTitle }}: {{ title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="manifest" href="/manifest.json">
@@ -25,23 +25,26 @@ License: pixelarity.com/license
         <div class="container">
           <article class="box post">
             {% if headerImage %}
-              <span class="image fit"><img
+              <span class="image featured"><img
                   src="{{ headerImage }}"
                   alt="{{ headerImageAltText }}"
                   class="image featured" />
               </span>
             {% else %}
-              {% image "src/images/collage-header.png", "wargo family collage", "image featured" %}
-            {% endif %}
-            <header>
-              <h2>{{ title }}</h2>
-            </header>
-            {{ content }}
-          </article>
-        </div>
-      </section>
-      {% include "footer.html" %}
-    </div>
-    {% include "scripts.html" %}
+              <span class="image featured"><img
+                  src="/images/collage-header.png"
+                  alt="wargo family collage"
+                  class="image featured" />
+              {% endif %}
+              <header>
+                <h2>{{ title }}</h2>
+              </header>
+              {{ content }}
+            </article>
+          </div>
+        </section>
+        {% include "footer.html" %}
+      </div>
+      {% include "scripts.html" %}</body>
   </body>
 </html>
