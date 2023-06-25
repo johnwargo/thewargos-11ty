@@ -1,11 +1,5 @@
 #!/usr/bin/env zx
 
-async function gitUpdate(msg) {
-  await $`git add -A`;
-  await $`git commit -m ${msg}`;
-  await $`git push`;
-}
-
 console.log('\nStarting project publish...');
 
 // With ZX the first three commands are the node executable, the zx executable, and the script name
@@ -51,10 +45,8 @@ if (theArgs.length > 1) {
   process.exit(1);
 }
 
-// throw in a blank line on the console
 console.log();
 await $`gen-build-info src/_data`;
-// await $`11ty-cat-pages`;
 console.log('\nBuilding site');
 await $`eleventy`;
 
@@ -63,7 +55,9 @@ if (updateIndex) {
   await $`algolia-idxup _site/algolia.json WAR_`;
 }
 
-await gitUpdate(theArgs[0]);
+await $`git add -A`;
+await $`git commit -m ${theArgs[0]}`;
+await $`git push`;
 
 if (updatePackage) {
   let msg = "Incrementing package version";
