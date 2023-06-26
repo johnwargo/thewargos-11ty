@@ -9,12 +9,12 @@ So, I've had to wear reading glasses for the last couple of years. As I've gotte
 
 Well, the kids couldn't wait for me to open them and I quickly opened the package (very hard to do without breaking the glasses inside) and distributed the new ones to their hiding places. I pushed out the lenses on two old pair and gave them to the kids to wear. I think August has been wearing these lenseless glasses for a full 24 hours, Elizabeth not as much. Here is a picture of August wearing his:
 
-\[caption id="attachment\_387" align="alignnone" width="300" caption="August in Empty Reading Glasses"\]![August in Empty Reading Glasses](images/IMG00003-20091213-0821-300x225.jpg "August in Empty Reading Glasses")\[/caption\]
+{% image "src/images/2009/IMG00003-20091213-0821.jpg", "August in Empty Reading Glasses", "image-full" %}
 
 And here are some blurry ones of both of them (they just wouldn't sit still for the photo).
 
-\[caption id="attachment\_388" align="alignnone" width="300" caption="The Twins in Empty Reading Classes #1"\]![The Twins in Empty Reading Classes #1](images/IMG00005-20091213-0822-300x225.jpg "The Twins in Empty Reading Classes #1")\[/caption\]
+{% image "src/images/2009/IMG00005-20091213-0822.jpg", "The Twins in Empty Reading Classes #1", "image-full" %}
 
-\[caption id="attachment\_389" align="alignnone" width="300" caption="The Twins in Empty Reading Classes #2"\]![The Twins in Empty Reading Classes #2](images/IMG00004-20091213-0822-300x225.jpg "The Twins in Empty Reading Classes #2")\[/caption\]
+{% image "src/images/2009/IMG00004-20091213-0822.jpg", "The Twins in Empty Reading Classes #2", "image-full" %}
 
 Oh what fun it is to be a parent of twins!

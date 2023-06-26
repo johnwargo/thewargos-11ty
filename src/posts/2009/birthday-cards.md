@@ -9,6 +9,8 @@ For my birthday, both children made me their own cards. They're pretty cute, so 
 
 Here they are: 
 
-![August's Card (Front)](images/Birthday-Card-A-1-300x196.jpg August's Card (Front))
-![August's Card (Inside)](images/Birthday-Card-A-2-300x196.jpg August's Card (Inside))
-![Elizabeth's Card (Inside)](images/Birthday-Card-E-1-300x232.jpg Elizabeth's Card (Inside))\[/caption\]
+{% image "src/images/2009/Birthday-Card-A-1.jpg", "August's Card (Front)", "image-full" %}
+<br />
+{% image "src/images/2009/Birthday-Card-A-2.jpg", "August's Card (Inside)", "image-full" %}
+<br />
+{% image "src/images/2009/Birthday-Card-E-1.jpg", "Elizabeth's Card (Inside)", "image-full" %}

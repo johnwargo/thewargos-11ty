@@ -19,7 +19,7 @@
 		"scope": "markdown, liquid",
 		"prefix": "!img",
 		"body": [
-			"{% image \"src/images/2010/\", \"\", \"image-full\" %}"
+			"{% image \"src/images/2009/\", \"\", \"image-full\" %}"
 		],
 		"description": "Image Tag"
 	},

@@ -5,4 +5,4 @@ categories:
   - Miscellaneous
 ---
 
-I'm sitting by the pool, drinking a ceffeine free Dr. Pepper watching someone up on a ladder trimming a palm tree with a chain saw. What fun! Got a tee time at 2:06.
+I'm sitting by the pool, drinking a caffeine free Dr. Pepper watching someone up on a ladder trimming a palm tree with a chain saw. What fun! Got a tee time at 2:06.

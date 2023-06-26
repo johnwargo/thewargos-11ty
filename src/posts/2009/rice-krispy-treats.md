@@ -11,4 +11,4 @@ My publisher has been selling books all day and has sold at least 30 (out of the
 
 Here's a really blurry photo of the sign RIM created for the event.
 
-\[caption id="attachment\_378" align="alignnone" width="216" caption="Book Signing Sign"\]![Book Signing Sign](images/Book-Sign-400-216x300.png "Book Signing Sign")\[/caption\]
+{% image "src/images/2009/Book-Sign-400.png", "Book Signing Sign", "image-full" %}

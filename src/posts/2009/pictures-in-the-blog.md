@@ -7,4 +7,4 @@ categories:
 
 Of course, all along I've been able to include pictures in posts but never through to do so. Here's one.
 
-\[caption id="attachment\_127" align="alignnone" width="300" caption="Elizabeth & August @ Blue Bell"\][![Elizabeth & August @ Blue Bell](images/dsc_9635-300x199.jpg "Blue Bell Creamery")](http://johnwargo.fatcow.com/the-wargos/wp-content/uploads/2009/06/dsc_9635.jpg)\[/caption\]
+{% image "src/images/2009/dsc_9635.jpg", "Elizabeth & August @ Blue Bell", "image-full" %}

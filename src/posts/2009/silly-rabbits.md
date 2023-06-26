@@ -9,4 +9,4 @@ A few years ago we had these silly rabbits that built a nest and had babies in t
 
 Well, I went outside the other day and there appears to be a new nest -even closer to the door and more easily visible.
 
-![Rabbit Nest?](images/IMG00006-20090616-1726-300x225.jpg "IMG00006-20090616-1726")
+{% image "src/images/2009/IMG00006-20090616-1726.jpg", "Rabbit Nest", "image-full" %}

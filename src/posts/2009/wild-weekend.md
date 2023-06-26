@@ -7,8 +7,6 @@ categories:
   - The Twins
 ---
 
-Phew, wild weekend.
-
 OK, so I got sick again- yuck. I was in Columbia, MD and tried to come home Thursday when I got really sick, but my boss (rightfully so) suggested I see how I felt Friday. Well, I felt HORRIBLE Friday and made beeline for home. It was a mess, I was sick all the way home but was able to get on the earliest flight home. Rushed to the house, climbed into bed and spent most of the next 18 hours there.  It was the worst I'd felt in years. I went to see my Doctor and turns out I had a 99.6 temperature.
 
 Abby came to visit this weekend. She's 15.5 and has her temporary license. Wow, she's driving now, amazing. I made a point of letting her drive my car and Anna's, she did really well.
