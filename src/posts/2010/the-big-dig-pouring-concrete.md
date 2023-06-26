@@ -7,7 +7,7 @@ categories:
 
 Well, the big concrete trucks came today and poured the footers for the new garage/office. Take a look.
 
-{% gallery "" %}
+{% gallery "the-big-dig" %}
 {% galleryImage "src/images/2010/footer-1.jpg", "" %}
 {% galleryImage "src/images/2010/footer-2.jpg", "" %}
 {% galleryImage "src/images/2010/footer-3.jpg", "" %}

@@ -25,7 +25,7 @@ Demo site: https://thewargos.netlify.app/
 - [x] Fix image links 2011
 - [x] Fix image links 2010
 - [x] Fix image links 2009
+- [x] Set production variable
 - [ ] Search
 - [ ] Most popular
 - [ ] Subscribe
-- [ ] Set production variable

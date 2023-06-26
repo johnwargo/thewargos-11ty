@@ -1,0 +1,28 @@
+---
+title: Albums
+description: Yearly Photo albums (random pics)
+layout: generic
+eleventyNavigation:
+  key: Albums
+  order: 4
+categories: []
+---
+
+<p>This section of the site contains a random selection of photos plus a separate photo gallery for every year.</p>
+
+{% gallery "random-photos" %}
+  {% galleryImage "src/images/anna-and-john-first.jpg", "Our first picture together" %}
+  {% galleryImage "src/images/arduino-pinewood-derby.jpg", "August with a pinewood derby car" %}
+  {% galleryImage "src/images/2009/DSC_0906.jpg", "Family picture with Santa" %}
+{% endgallery %}
+
+{% if collections.albums.length > 0 %}
+  <p>The following pages list all yearly photo albums in reverse chronological order.</p>
+  <ul>
+    {% for album in collections.albums %}
+      <li>
+        <a href="{{album.url}}">{{ album.data.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

@@ -9,7 +9,7 @@ Well, Stucco is on the walls and we're very slowly making progress.  The painte
 
 Here's pictures before and after stucco.
 
-{% gallery "" %}
+{% gallery "garage-photos" %}
 {% galleryImage "src/images/2010/DSC_2256.jpg", "garage photo before stucco 1" %}
 {% galleryImage "src/images/2010/DSC_2279.jpg", "garage photo before stucco 2" %}
 {% galleryImage "src/images/2010/DSC_3073.jpg", "garage photo after stucco" %}

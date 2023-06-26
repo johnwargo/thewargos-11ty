@@ -7,7 +7,7 @@ categories:
 
 Well, about $350 later, our camera has been fixed and I can get back to taking some good pictures of the new garage/office. While I was out of town last week, they finished framing the building, put on the roof and installed the windows. Here's some update pictures:
 
-{% gallery "" %}
+{% gallery "garage-photos" %}
 {% galleryImage "src/images/2010/Wargo-Garage-01.jpg", "Garage Photo 1" %}
 {% galleryImage "src/images/2010/Wargo-Garage-02.jpg", "Garage Photo 2" %}
 {% galleryImage "src/images/2010/Wargo-Garage-03.jpg", "Garage Photo 3" %}
