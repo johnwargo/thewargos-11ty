@@ -14,8 +14,8 @@ When we moved to NC, the CDs stayed in boxes until I wanted one (or more) bad en
 I really want to have access to all of them, so on New Year’s day Anna and I cleaned out the storage room where I’m going to build some shelves. Here are some pictures (below) of the room where I’m going to put the shelves – notice that the wall is sloped, so I only have 55 inches to build my shelves in. Click on the images to view the full photo.
 
 {% gallery "cd-shelving" %}
-{% galleryImage "src/images/2013/CD-Shelving-before-1.jpg", "CD Shelving before 1" %}
-{% galleryImage "src/images/2013/CD-Shelving-before-2.jpg", "CD Shelving before 2" %}
+{% galleryImage "src/images/2013/cd-shelving-before-1.jpg", "CD Shelving before 1" %}
+{% galleryImage "src/images/2013/cd-shelving-before-2.jpg", "CD Shelving before 2" %}
 {% endgallery %}
 
 I’ve already built one of the shelves, so I’ll mount that one tonight and show you tomorrow how it looks.
