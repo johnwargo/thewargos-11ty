@@ -14,7 +14,7 @@ async function galleryImageShortcode(src, alt) {
 
     console.log(`[galleryImageShortcode] ${src}`);
 
-    if(metadata.height > metadata.width) {
+    if (metadata.height > metadata.width) {
         lightboxImageWidth = PORTRAIT_LIGHTBOX_IMAGE_WIDTH;
     }
 
@@ -39,7 +39,7 @@ async function galleryImageShortcode(src, alt) {
 
 function galleryShortcode(content, name) {
     console.log(`[galleryShortcode] ${name}`);
-  return `
+    return `
       <div>
           <div class="gallery" id="gallery-${name}">
               ${content}
@@ -57,8 +57,8 @@ function galleryShortcode(content, name) {
       </div>
   `.replace(/(\r\n|\n|\r)/gm, "");
 }
-  
+
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPairedLiquidShortcode('gallery', galleryShortcode)
-  eleventyConfig.addLiquidShortcode('galleryImage', galleryImageShortcode)
+    eleventyConfig.addPairedLiquidShortcode('gallery', galleryShortcode)
+    eleventyConfig.addLiquidShortcode('galleryImage', galleryImageShortcode)
 }
