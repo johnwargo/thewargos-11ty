@@ -9,6 +9,5 @@ module.exports = (value, outputPath) => {
       minifyCSS: true
     });
   }
-
   return value;
 };
