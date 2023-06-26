@@ -38,7 +38,7 @@ async function galleryImageShortcode(src, alt) {
 }
 
 function galleryShortcode(content, name) {
-    console.log(`[galleryShortcode] ${name}`);
+    console.log(`[galleryShortcode] "${name}"`);
     return `
       <div>
           <div class="gallery" id="gallery-${name}">

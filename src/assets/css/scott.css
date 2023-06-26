@@ -1,3 +1,11 @@
 .main section .image-full {
   max-width: 100%;
 }
+
+.box .image.featured {
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  margin-left: 0;
+}
