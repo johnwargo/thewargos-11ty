@@ -2,7 +2,7 @@
   max-width: 100%;
 }
 
-.box .image.featured {
+.box.post .image.featured {
   width: 100%;
   position: relative;
   top: 0;
