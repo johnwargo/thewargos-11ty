@@ -27,7 +27,7 @@ categories: []
 <ul class="divided">
   {% for post in latest_posts limit: 5 %}
     <li>
-      <strong>
+      <strong class="header-link">
         <a href="{{post.url}}">{{ post.data.title }}</a>
       </strong>
       <br/>
@@ -50,7 +50,7 @@ categories: []
         {% excerpt post %}
       {% endif %}
       <p>
-        <a href="{{post.url}}">Read Full Article</a>
+        <a class="article-link" href="{{ post.url }}">Read Full Article</a>
       </p>
 
     </li>

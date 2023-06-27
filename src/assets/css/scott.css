@@ -1,11 +1,16 @@
-.main section .image-full {
+section#main .image-full {
   max-width: 100%;
 }
 
-.box .image.featured {
-  width: 100%;
+.box.post .header-link {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  margin-top: 0.2rem;
+}
+.box.post .article-link {
   position: relative;
-  top: 0;
-  left: 0;
-  margin-left: 0;
+  top: -0.4rem;
+}
+p.subhead {
+  margin-bottom: 0;
 }

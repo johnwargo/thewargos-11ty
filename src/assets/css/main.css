@@ -103,7 +103,7 @@ input, select, textarea {
 		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
-		line-height: 1.75em;
+		line-height: 1.5em;
 	}
 
 	strong, b {
@@ -172,7 +172,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 2em;
+		margin-bottom: 1rem;
 	}
 
 /* Container */
@@ -656,7 +656,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 50px 0 0 50px;
+						padding: 25px 0 0 50px;
 					}
 
 					.row.gtr-uniform {
@@ -1574,13 +1574,12 @@ input, select, textarea {
 		padding: 2.75em 1.75em 2.75em 1.75em;
 	}
 
-		.box .image.featured {
-			position: relative;
-			width: auto;
-			left: 1.75em;
-			top: 1.75em;
-			margin: -4.5em 0 4.25em -3.5em;
-		}
+	.box .image.featured {
+    position: relative;
+    width: calc(100% + 3.5rem);
+    top: 1.75rem;
+    margin: -4.5rem 0 4.25rem -1.7rem;
+}
 
 		.box.post header {
 			padding-top: 1em;
@@ -1880,7 +1879,7 @@ input, select, textarea {
 
 		ul.divided li {
 			border-top: solid 1px #ddd;
-			padding: 1em 0 1em 0;
+			padding: 1rem 0 0.1rem 0;
 		}
 
 			ul.divided li:first-child {
@@ -2068,7 +2067,7 @@ input, select, textarea {
 		position: relative;
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
-		padding: 5em 0 4em 0;
+		padding: 3rem 0 2rem 0;
 		text-align: center;
 	}
 
@@ -2291,7 +2290,7 @@ input, select, textarea {
 	#footer {
 		position: relative;
 		color: #858484;
-		padding: 4em 0;
+		padding: 0 0 1rem;
 	}
 
 		#footer:before {
