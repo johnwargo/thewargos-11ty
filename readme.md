@@ -29,3 +29,4 @@ Demo site: https://thewargos.netlify.app/
 - [ ] Search
 - [ ] Most popular
 - [ ] Subscribe
+- [ ] Photo gallery folders
