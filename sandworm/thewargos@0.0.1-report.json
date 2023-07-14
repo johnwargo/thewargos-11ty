@@ -1,0 +1,3161 @@
+{
+  "name": "thewargos",
+  "version": "0.0.1",
+  "createdAt": 1689340115615,
+  "system": {
+    "sandwormVersion": "1.42.0",
+    "nodeVersion": "18.16.1",
+    "lockfileVersion": 3,
+    "packageManager": "npm",
+    "packageManagerVersion": "9.8.0"
+  },
+  "configuration": {
+    "includeDev": false,
+    "skipLicenseIssues": false,
+    "skipMetaIssues": false,
+    "showVersions": false,
+    "rootIsShell": false,
+    "loadDataFrom": "registry",
+    "output": [
+      "tree",
+      "treemap",
+      "csv"
+    ]
+  },
+  "rootVulnerabilities": [],
+  "dependencyVulnerabilities": [
+    {
+      "findings": {
+        "sources": [
+          {
+            "name": "semver",
+            "version": "5.7.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "cross-spawn",
+            "version": "6.0.5",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "semver",
+            "version": "5.7.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "read-pkg",
+            "version": "3.0.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "normalize-package-data",
+            "version": "2.5.0",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "npm-run-all>cross-spawn>semver",
+          "npm-run-all>read-pkg>normalize-package-data>semver"
+        ]
+      },
+      "source": 1092459,
+      "githubAdvisoryId": "GHSA-c2qf-rxjj-qqgw",
+      "name": "semver",
+      "title": "semver vulnerable to Regular Expression Denial of Service",
+      "url": "https://github.com/advisories/GHSA-c2qf-rxjj-qqgw",
+      "severity": "moderate",
+      "range": "<5.7.2"
+    },
+    {
+      "findings": {
+        "sources": [
+          {
+            "name": "word-wrap",
+            "version": "1.2.3",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "@google-analytics/data",
+            "version": "3.2.2",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "google-gax",
+            "version": "3.6.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "protobufjs-cli",
+            "version": "1.1.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "escodegen",
+            "version": "1.14.3",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "optionator",
+            "version": "0.8.3",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "word-wrap",
+            "version": "1.2.3",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "@google-analytics/data",
+            "version": "3.2.2",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "@google-analytics/data>google-gax>protobufjs-cli>escodegen>optionator>word-wrap"
+        ]
+      },
+      "source": 1092330,
+      "githubAdvisoryId": "GHSA-j8xg-fqg3-53r7",
+      "name": "word-wrap",
+      "title": "word-wrap vulnerable to Regular Expression Denial of Service",
+      "url": "https://github.com/advisories/GHSA-j8xg-fqg3-53r7",
+      "severity": "moderate",
+      "range": "<=1.2.3"
+    }
+  ],
+  "licenseUsage": [
+    {
+      "string": "MIT",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "@11ty/dependency-tree",
+          "version": "2.0.1"
+        },
+        {
+          "name": "@11ty/eleventy",
+          "version": "2.0.1"
+        },
+        {
+          "name": "@11ty/eleventy-dev-server",
+          "version": "1.0.4"
+        },
+        {
+          "name": "@11ty/eleventy-fetch",
+          "version": "3.0.0"
+        },
+        {
+          "name": "@11ty/eleventy-img",
+          "version": "3.1.0"
+        },
+        {
+          "name": "@11ty/eleventy-navigation",
+          "version": "0.3.5"
+        },
+        {
+          "name": "@11ty/eleventy-plugin-rss",
+          "version": "1.2.0"
+        },
+        {
+          "name": "@11ty/eleventy-utils",
+          "version": "1.0.1"
+        },
+        {
+          "name": "@11ty/lodash-custom",
+          "version": "4.17.21"
+        },
+        {
+          "name": "@babel/helper-string-parser",
+          "version": "7.22.5"
+        },
+        {
+          "name": "@babel/helper-validator-identifier",
+          "version": "7.22.5"
+        },
+        {
+          "name": "@babel/parser",
+          "version": "7.22.5"
+        },
+        {
+          "name": "@babel/types",
+          "version": "7.22.5"
+        },
+        {
+          "name": "@nodelib/fs.scandir",
+          "version": "2.1.5"
+        },
+        {
+          "name": "@nodelib/fs.stat",
+          "version": "2.0.5"
+        },
+        {
+          "name": "@nodelib/fs.walk",
+          "version": "1.2.8"
+        },
+        {
+          "name": "@pkgjs/parseargs",
+          "version": "0.11.0"
+        },
+        {
+          "name": "@sindresorhus/slugify",
+          "version": "1.1.2"
+        },
+        {
+          "name": "@sindresorhus/transliterate",
+          "version": "0.1.2"
+        },
+        {
+          "name": "escape-string-regexp",
+          "version": "2.0.0"
+        },
+        {
+          "name": "@types/glob",
+          "version": "8.1.0"
+        },
+        {
+          "name": "@types/minimatch",
+          "version": "5.1.2"
+        },
+        {
+          "name": "@types/linkify-it",
+          "version": "3.0.2"
+        },
+        {
+          "name": "@types/long",
+          "version": "4.0.2"
+        },
+        {
+          "name": "@types/markdown-it",
+          "version": "12.2.3"
+        },
+        {
+          "name": "@types/mdurl",
+          "version": "1.0.2"
+        },
+        {
+          "name": "@types/minimatch",
+          "version": "3.0.5"
+        },
+        {
+          "name": "@types/node",
+          "version": "20.3.1"
+        },
+        {
+          "name": "@types/rimraf",
+          "version": "3.0.2"
+        },
+        {
+          "name": "a-sync-waterfall",
+          "version": "1.0.1"
+        },
+        {
+          "name": "abort-controller",
+          "version": "3.0.0"
+        },
+        {
+          "name": "acorn",
+          "version": "7.4.1"
+        },
+        {
+          "name": "acorn-jsx",
+          "version": "5.3.2"
+        },
+        {
+          "name": "agent-base",
+          "version": "6.0.2"
+        },
+        {
+          "name": "ansi-regex",
+          "version": "5.0.1"
+        },
+        {
+          "name": "emoji-regex",
+          "version": "8.0.0"
+        },
+        {
+          "name": "string-width",
+          "version": "4.2.3"
+        },
+        {
+          "name": "strip-ansi",
+          "version": "6.0.1"
+        },
+        {
+          "name": "ansi-regex",
+          "version": "6.0.1"
+        },
+        {
+          "name": "ansi-styles",
+          "version": "4.3.0"
+        },
+        {
+          "name": "any-promise",
+          "version": "0.1.0"
+        },
+        {
+          "name": "argparse",
+          "version": "1.0.10"
+        },
+        {
+          "name": "array-buffer-byte-length",
+          "version": "1.0.0"
+        },
+        {
+          "name": "array-differ",
+          "version": "3.0.0"
+        },
+        {
+          "name": "array-union",
+          "version": "2.1.0"
+        },
+        {
+          "name": "array-uniq",
+          "version": "1.0.3"
+        },
+        {
+          "name": "arrify",
+          "version": "2.0.1"
+        },
+        {
+          "name": "asap",
+          "version": "2.0.6"
+        },
+        {
+          "name": "assert-never",
+          "version": "1.2.1"
+        },
+        {
+          "name": "async",
+          "version": "3.2.4"
+        },
+        {
+          "name": "available-typed-arrays",
+          "version": "1.0.5"
+        },
+        {
+          "name": "babel-walk",
+          "version": "3.0.0-canary-5"
+        },
+        {
+          "name": "balanced-match",
+          "version": "1.0.2"
+        },
+        {
+          "name": "base64-js",
+          "version": "1.5.1"
+        },
+        {
+          "name": "bcp-47",
+          "version": "1.0.8"
+        },
+        {
+          "name": "bcp-47-match",
+          "version": "1.0.3"
+        },
+        {
+          "name": "bcp-47-normalize",
+          "version": "1.1.1"
+        },
+        {
+          "name": "bignumber.js",
+          "version": "9.1.1"
+        },
+        {
+          "name": "binary-extensions",
+          "version": "2.2.0"
+        },
+        {
+          "name": "bl",
+          "version": "4.1.0"
+        },
+        {
+          "name": "bluebird",
+          "version": "3.7.2"
+        },
+        {
+          "name": "boxen",
+          "version": "7.1.0"
+        },
+        {
+          "name": "chalk",
+          "version": "5.2.0"
+        },
+        {
+          "name": "brace-expansion",
+          "version": "1.1.11"
+        },
+        {
+          "name": "braces",
+          "version": "3.0.2"
+        },
+        {
+          "name": "buffer",
+          "version": "5.7.1"
+        },
+        {
+          "name": "call-bind",
+          "version": "1.0.2"
+        },
+        {
+          "name": "camel-case",
+          "version": "3.0.0"
+        },
+        {
+          "name": "camelcase",
+          "version": "7.0.1"
+        },
+        {
+          "name": "catharsis",
+          "version": "0.9.0"
+        },
+        {
+          "name": "chalk",
+          "version": "4.1.2"
+        },
+        {
+          "name": "character-parser",
+          "version": "2.2.0"
+        },
+        {
+          "name": "chokidar",
+          "version": "3.5.3"
+        },
+        {
+          "name": "circular",
+          "version": "1.0.5"
+        },
+        {
+          "name": "clean-css",
+          "version": "4.2.4"
+        },
+        {
+          "name": "cli-boxes",
+          "version": "3.0.0"
+        },
+        {
+          "name": "cli-logger",
+          "version": "0.5.40"
+        },
+        {
+          "name": "cli-regexp",
+          "version": "0.1.2"
+        },
+        {
+          "name": "cli-util",
+          "version": "1.1.27"
+        },
+        {
+          "name": "wrap-ansi",
+          "version": "7.0.0"
+        },
+        {
+          "name": "color",
+          "version": "4.2.3"
+        },
+        {
+          "name": "color-convert",
+          "version": "2.0.1"
+        },
+        {
+          "name": "color-name",
+          "version": "1.1.4"
+        },
+        {
+          "name": "color-string",
+          "version": "1.9.1"
+        },
+        {
+          "name": "commander",
+          "version": "10.0.1"
+        },
+        {
+          "name": "concat-map",
+          "version": "0.0.1"
+        },
+        {
+          "name": "constantinople",
+          "version": "4.0.1"
+        },
+        {
+          "name": "cross-spawn",
+          "version": "7.0.3"
+        },
+        {
+          "name": "debug",
+          "version": "4.3.4"
+        },
+        {
+          "name": "decompress-response",
+          "version": "6.0.0"
+        },
+        {
+          "name": "deep-extend",
+          "version": "0.6.0"
+        },
+        {
+          "name": "deep-is",
+          "version": "0.1.4"
+        },
+        {
+          "name": "deepmerge",
+          "version": "4.3.1"
+        },
+        {
+          "name": "define-properties",
+          "version": "1.2.0"
+        },
+        {
+          "name": "dependency-graph",
+          "version": "0.11.0"
+        },
+        {
+          "name": "dev-ip",
+          "version": "1.0.1"
+        },
+        {
+          "name": "doctypes",
+          "version": "1.1.0"
+        },
+        {
+          "name": "dom-serializer",
+          "version": "1.4.1"
+        },
+        {
+          "name": "duplexify",
+          "version": "4.1.2"
+        },
+        {
+          "name": "eastasianwidth",
+          "version": "0.2.0"
+        },
+        {
+          "name": "ee-first",
+          "version": "1.1.1"
+        },
+        {
+          "name": "eleventy-generate-category-pages",
+          "version": "0.0.14"
+        },
+        {
+          "name": "eleventy-plugin-date",
+          "version": "1.0.0"
+        },
+        {
+          "name": "luxon",
+          "version": "1.28.1"
+        },
+        {
+          "name": "eleventy-plugin-post-stats",
+          "version": "0.0.9"
+        },
+        {
+          "name": "eleventy-plugin-vimeo-embed",
+          "version": "1.3.7"
+        },
+        {
+          "name": "eleventy-plugin-youtube-embed",
+          "version": "1.9.0"
+        },
+        {
+          "name": "emoji-regex",
+          "version": "9.2.2"
+        },
+        {
+          "name": "encodeurl",
+          "version": "1.0.2"
+        },
+        {
+          "name": "end-of-stream",
+          "version": "1.4.4"
+        },
+        {
+          "name": "errno",
+          "version": "0.1.8"
+        },
+        {
+          "name": "error-ex",
+          "version": "1.3.2"
+        },
+        {
+          "name": "es-abstract",
+          "version": "1.21.2"
+        },
+        {
+          "name": "es-set-tostringtag",
+          "version": "2.0.1"
+        },
+        {
+          "name": "es-to-primitive",
+          "version": "1.2.1"
+        },
+        {
+          "name": "escalade",
+          "version": "3.1.1"
+        },
+        {
+          "name": "escape-html",
+          "version": "1.0.3"
+        },
+        {
+          "name": "escape-string-regexp",
+          "version": "4.0.0"
+        },
+        {
+          "name": "acorn",
+          "version": "8.9.0"
+        },
+        {
+          "name": "event-target-shim",
+          "version": "5.0.1"
+        },
+        {
+          "name": "eventemitter3",
+          "version": "4.0.7"
+        },
+        {
+          "name": "extend",
+          "version": "3.0.2"
+        },
+        {
+          "name": "extend-shallow",
+          "version": "2.0.1"
+        },
+        {
+          "name": "fast-glob",
+          "version": "3.2.12"
+        },
+        {
+          "name": "fast-levenshtein",
+          "version": "2.0.6"
+        },
+        {
+          "name": "brace-expansion",
+          "version": "2.0.1"
+        },
+        {
+          "name": "fill-range",
+          "version": "7.0.1"
+        },
+        {
+          "name": "finalhandler",
+          "version": "1.2.0"
+        },
+        {
+          "name": "debug",
+          "version": "2.6.9"
+        },
+        {
+          "name": "ms",
+          "version": "2.0.0"
+        },
+        {
+          "name": "flat-cache",
+          "version": "3.0.4"
+        },
+        {
+          "name": "for-each",
+          "version": "0.3.3"
+        },
+        {
+          "name": "fs-constants",
+          "version": "1.0.0"
+        },
+        {
+          "name": "fs-extra",
+          "version": "11.1.1"
+        },
+        {
+          "name": "fsevents",
+          "version": "2.3.2"
+        },
+        {
+          "name": "function-bind",
+          "version": "1.1.1"
+        },
+        {
+          "name": "function.prototype.name",
+          "version": "1.1.5"
+        },
+        {
+          "name": "functions-have-names",
+          "version": "1.2.3"
+        },
+        {
+          "name": "generate-build-info",
+          "version": "0.0.3"
+        },
+        {
+          "name": "get-intrinsic",
+          "version": "1.2.1"
+        },
+        {
+          "name": "get-symbol-description",
+          "version": "1.0.0"
+        },
+        {
+          "name": "github-from-package",
+          "version": "0.0.0"
+        },
+        {
+          "name": "globalthis",
+          "version": "1.0.3"
+        },
+        {
+          "name": "google-p12-pem",
+          "version": "4.0.1"
+        },
+        {
+          "name": "gopd",
+          "version": "1.0.1"
+        },
+        {
+          "name": "gray-matter",
+          "version": "4.0.3"
+        },
+        {
+          "name": "gtoken",
+          "version": "6.1.2"
+        },
+        {
+          "name": "handlebars",
+          "version": "4.7.7"
+        },
+        {
+          "name": "has",
+          "version": "1.0.3"
+        },
+        {
+          "name": "has-bigints",
+          "version": "1.0.2"
+        },
+        {
+          "name": "has-flag",
+          "version": "4.0.0"
+        },
+        {
+          "name": "has-property-descriptors",
+          "version": "1.0.0"
+        },
+        {
+          "name": "has-proto",
+          "version": "1.0.1"
+        },
+        {
+          "name": "has-symbols",
+          "version": "1.0.3"
+        },
+        {
+          "name": "has-tostringtag",
+          "version": "1.0.0"
+        },
+        {
+          "name": "he",
+          "version": "1.2.0"
+        },
+        {
+          "name": "html-minifier",
+          "version": "4.0.0"
+        },
+        {
+          "name": "commander",
+          "version": "2.20.3"
+        },
+        {
+          "name": "htmlparser2",
+          "version": "7.2.0"
+        },
+        {
+          "name": "http-equiv-refresh",
+          "version": "1.0.0"
+        },
+        {
+          "name": "https-proxy-agent",
+          "version": "5.0.1"
+        },
+        {
+          "name": "image-size",
+          "version": "1.0.2"
+        },
+        {
+          "name": "internal-slot",
+          "version": "1.0.5"
+        },
+        {
+          "name": "is-alphabetical",
+          "version": "1.0.4"
+        },
+        {
+          "name": "is-alphanumerical",
+          "version": "1.0.4"
+        },
+        {
+          "name": "is-array-buffer",
+          "version": "3.0.2"
+        },
+        {
+          "name": "is-arrayish",
+          "version": "0.2.1"
+        },
+        {
+          "name": "is-bigint",
+          "version": "1.0.4"
+        },
+        {
+          "name": "is-binary-path",
+          "version": "2.1.0"
+        },
+        {
+          "name": "is-boolean-object",
+          "version": "1.1.2"
+        },
+        {
+          "name": "is-callable",
+          "version": "1.2.7"
+        },
+        {
+          "name": "is-core-module",
+          "version": "2.12.1"
+        },
+        {
+          "name": "is-date-object",
+          "version": "1.0.5"
+        },
+        {
+          "name": "is-decimal",
+          "version": "1.0.4"
+        },
+        {
+          "name": "is-expression",
+          "version": "4.0.0"
+        },
+        {
+          "name": "is-extendable",
+          "version": "0.1.1"
+        },
+        {
+          "name": "is-extglob",
+          "version": "2.1.1"
+        },
+        {
+          "name": "is-fullwidth-code-point",
+          "version": "3.0.0"
+        },
+        {
+          "name": "is-glob",
+          "version": "4.0.3"
+        },
+        {
+          "name": "is-negative-zero",
+          "version": "2.0.2"
+        },
+        {
+          "name": "is-number",
+          "version": "7.0.0"
+        },
+        {
+          "name": "is-number-object",
+          "version": "1.0.7"
+        },
+        {
+          "name": "is-promise",
+          "version": "2.2.2"
+        },
+        {
+          "name": "is-regex",
+          "version": "1.1.4"
+        },
+        {
+          "name": "is-shared-array-buffer",
+          "version": "1.0.2"
+        },
+        {
+          "name": "is-stream",
+          "version": "2.0.1"
+        },
+        {
+          "name": "is-stream-ended",
+          "version": "0.1.4"
+        },
+        {
+          "name": "is-string",
+          "version": "1.0.7"
+        },
+        {
+          "name": "is-symbol",
+          "version": "1.0.4"
+        },
+        {
+          "name": "is-typed-array",
+          "version": "1.1.10"
+        },
+        {
+          "name": "is-weakref",
+          "version": "1.0.2"
+        },
+        {
+          "name": "iso-639-1",
+          "version": "2.1.15"
+        },
+        {
+          "name": "js-stringify",
+          "version": "1.0.2"
+        },
+        {
+          "name": "js-yaml",
+          "version": "3.14.1"
+        },
+        {
+          "name": "linkify-it",
+          "version": "3.0.3"
+        },
+        {
+          "name": "markdown-it",
+          "version": "12.3.2"
+        },
+        {
+          "name": "mkdirp",
+          "version": "1.0.4"
+        },
+        {
+          "name": "json-bigint",
+          "version": "1.0.0"
+        },
+        {
+          "name": "json-parse-better-errors",
+          "version": "1.0.2"
+        },
+        {
+          "name": "jsonfile",
+          "version": "6.1.0"
+        },
+        {
+          "name": "jstransformer",
+          "version": "1.0.0"
+        },
+        {
+          "name": "junk",
+          "version": "1.0.3"
+        },
+        {
+          "name": "jwa",
+          "version": "2.0.0"
+        },
+        {
+          "name": "jws",
+          "version": "4.0.0"
+        },
+        {
+          "name": "kind-of",
+          "version": "6.0.3"
+        },
+        {
+          "name": "klaw",
+          "version": "3.0.0"
+        },
+        {
+          "name": "kleur",
+          "version": "4.1.5"
+        },
+        {
+          "name": "levn",
+          "version": "0.3.0"
+        },
+        {
+          "name": "linkify-it",
+          "version": "4.0.1"
+        },
+        {
+          "name": "liquidjs",
+          "version": "10.8.3"
+        },
+        {
+          "name": "list-to-array",
+          "version": "1.1.0"
+        },
+        {
+          "name": "load-json-file",
+          "version": "4.0.0"
+        },
+        {
+          "name": "pify",
+          "version": "3.0.0"
+        },
+        {
+          "name": "lodash",
+          "version": "4.17.21"
+        },
+        {
+          "name": "lodash.camelcase",
+          "version": "4.3.0"
+        },
+        {
+          "name": "lodash.deburr",
+          "version": "4.1.0"
+        },
+        {
+          "name": "lower-case",
+          "version": "1.1.4"
+        },
+        {
+          "name": "luxon",
+          "version": "3.3.0"
+        },
+        {
+          "name": "markdown-it",
+          "version": "13.0.1"
+        },
+        {
+          "name": "markdown-it-attrs",
+          "version": "4.1.6"
+        },
+        {
+          "name": "marked",
+          "version": "4.3.0"
+        },
+        {
+          "name": "maximatch",
+          "version": "0.1.0"
+        },
+        {
+          "name": "array-differ",
+          "version": "1.0.0"
+        },
+        {
+          "name": "array-union",
+          "version": "1.0.2"
+        },
+        {
+          "name": "arrify",
+          "version": "1.0.1"
+        },
+        {
+          "name": "mdurl",
+          "version": "1.0.1"
+        },
+        {
+          "name": "memorystream",
+          "version": "0.3.1"
+        },
+        {
+          "name": "merge2",
+          "version": "1.4.1"
+        },
+        {
+          "name": "micromatch",
+          "version": "4.0.5"
+        },
+        {
+          "name": "mime",
+          "version": "3.0.0"
+        },
+        {
+          "name": "mimic-response",
+          "version": "3.1.0"
+        },
+        {
+          "name": "minimist",
+          "version": "1.2.8"
+        },
+        {
+          "name": "mkdirp",
+          "version": "0.5.6"
+        },
+        {
+          "name": "mkdirp-classic",
+          "version": "0.5.3"
+        },
+        {
+          "name": "morphdom",
+          "version": "2.7.0"
+        },
+        {
+          "name": "ms",
+          "version": "2.1.2"
+        },
+        {
+          "name": "multimatch",
+          "version": "5.0.0"
+        },
+        {
+          "name": "mustache",
+          "version": "4.2.0"
+        },
+        {
+          "name": "napi-build-utils",
+          "version": "1.0.2"
+        },
+        {
+          "name": "neo-async",
+          "version": "2.6.2"
+        },
+        {
+          "name": "nice-try",
+          "version": "1.0.5"
+        },
+        {
+          "name": "no-case",
+          "version": "2.3.2"
+        },
+        {
+          "name": "node-abi",
+          "version": "3.45.0"
+        },
+        {
+          "name": "node-addon-api",
+          "version": "6.1.0"
+        },
+        {
+          "name": "node-fetch",
+          "version": "2.6.11"
+        },
+        {
+          "name": "normalize-path",
+          "version": "3.0.0"
+        },
+        {
+          "name": "npm-run-all",
+          "version": "4.1.5"
+        },
+        {
+          "name": "ansi-styles",
+          "version": "3.2.1"
+        },
+        {
+          "name": "chalk",
+          "version": "2.4.2"
+        },
+        {
+          "name": "color-convert",
+          "version": "1.9.3"
+        },
+        {
+          "name": "color-name",
+          "version": "1.1.3"
+        },
+        {
+          "name": "cross-spawn",
+          "version": "6.0.5"
+        },
+        {
+          "name": "escape-string-regexp",
+          "version": "1.0.5"
+        },
+        {
+          "name": "has-flag",
+          "version": "3.0.0"
+        },
+        {
+          "name": "path-key",
+          "version": "2.0.1"
+        },
+        {
+          "name": "shebang-command",
+          "version": "1.2.0"
+        },
+        {
+          "name": "shebang-regex",
+          "version": "1.0.0"
+        },
+        {
+          "name": "supports-color",
+          "version": "5.5.0"
+        },
+        {
+          "name": "commander",
+          "version": "5.1.0"
+        },
+        {
+          "name": "object-assign",
+          "version": "4.1.1"
+        },
+        {
+          "name": "object-hash",
+          "version": "3.0.0"
+        },
+        {
+          "name": "object-inspect",
+          "version": "1.12.3"
+        },
+        {
+          "name": "object-keys",
+          "version": "1.1.1"
+        },
+        {
+          "name": "object.assign",
+          "version": "4.1.4"
+        },
+        {
+          "name": "on-finished",
+          "version": "2.4.1"
+        },
+        {
+          "name": "optionator",
+          "version": "0.8.3"
+        },
+        {
+          "name": "outdent",
+          "version": "0.8.0"
+        },
+        {
+          "name": "p-finally",
+          "version": "1.0.0"
+        },
+        {
+          "name": "p-queue",
+          "version": "6.6.2"
+        },
+        {
+          "name": "p-timeout",
+          "version": "3.2.0"
+        },
+        {
+          "name": "param-case",
+          "version": "2.1.1"
+        },
+        {
+          "name": "parse-json",
+          "version": "4.0.0"
+        },
+        {
+          "name": "parse-srcset",
+          "version": "1.0.2"
+        },
+        {
+          "name": "parseurl",
+          "version": "1.3.3"
+        },
+        {
+          "name": "path-is-absolute",
+          "version": "1.0.1"
+        },
+        {
+          "name": "path-key",
+          "version": "3.1.1"
+        },
+        {
+          "name": "path-parse",
+          "version": "1.0.7"
+        },
+        {
+          "name": "path-to-regexp",
+          "version": "6.2.1"
+        },
+        {
+          "name": "path-type",
+          "version": "3.0.0"
+        },
+        {
+          "name": "picomatch",
+          "version": "2.3.1"
+        },
+        {
+          "name": "pidtree",
+          "version": "0.3.1"
+        },
+        {
+          "name": "pify",
+          "version": "2.3.0"
+        },
+        {
+          "name": "please-upgrade-node",
+          "version": "3.2.0"
+        },
+        {
+          "name": "posthtml",
+          "version": "0.16.6"
+        },
+        {
+          "name": "posthtml-parser",
+          "version": "0.11.0"
+        },
+        {
+          "name": "posthtml-render",
+          "version": "3.0.0"
+        },
+        {
+          "name": "posthtml-urls",
+          "version": "1.0.0"
+        },
+        {
+          "name": "prebuild-install",
+          "version": "7.1.1"
+        },
+        {
+          "name": "prelude-ls",
+          "version": "1.1.2"
+        },
+        {
+          "name": "promise",
+          "version": "7.3.1"
+        },
+        {
+          "name": "promise-each",
+          "version": "2.2.0"
+        },
+        {
+          "name": "prr",
+          "version": "1.0.1"
+        },
+        {
+          "name": "pug",
+          "version": "3.0.2"
+        },
+        {
+          "name": "pug-attrs",
+          "version": "3.0.0"
+        },
+        {
+          "name": "pug-code-gen",
+          "version": "3.0.2"
+        },
+        {
+          "name": "pug-error",
+          "version": "2.0.0"
+        },
+        {
+          "name": "pug-filters",
+          "version": "4.0.0"
+        },
+        {
+          "name": "pug-lexer",
+          "version": "5.0.1"
+        },
+        {
+          "name": "pug-linker",
+          "version": "4.0.0"
+        },
+        {
+          "name": "pug-load",
+          "version": "3.0.0"
+        },
+        {
+          "name": "pug-parser",
+          "version": "6.0.0"
+        },
+        {
+          "name": "pug-runtime",
+          "version": "3.0.1"
+        },
+        {
+          "name": "pug-strip-comments",
+          "version": "2.0.0"
+        },
+        {
+          "name": "pug-walk",
+          "version": "2.0.0"
+        },
+        {
+          "name": "pump",
+          "version": "3.0.0"
+        },
+        {
+          "name": "queue",
+          "version": "6.0.2"
+        },
+        {
+          "name": "queue-microtask",
+          "version": "1.2.3"
+        },
+        {
+          "name": "strip-json-comments",
+          "version": "2.0.1"
+        },
+        {
+          "name": "read-pkg",
+          "version": "3.0.0"
+        },
+        {
+          "name": "readable-stream",
+          "version": "3.6.2"
+        },
+        {
+          "name": "readdirp",
+          "version": "3.6.0"
+        },
+        {
+          "name": "regexp.prototype.flags",
+          "version": "1.5.0"
+        },
+        {
+          "name": "relateurl",
+          "version": "0.2.7"
+        },
+        {
+          "name": "require-directory",
+          "version": "2.1.1"
+        },
+        {
+          "name": "requizzle",
+          "version": "0.2.4"
+        },
+        {
+          "name": "resolve",
+          "version": "1.22.2"
+        },
+        {
+          "name": "retry-request",
+          "version": "5.0.2"
+        },
+        {
+          "name": "reusify",
+          "version": "1.0.4"
+        },
+        {
+          "name": "rss-parser",
+          "version": "3.13.0"
+        },
+        {
+          "name": "run-parallel",
+          "version": "1.2.0"
+        },
+        {
+          "name": "safe-buffer",
+          "version": "5.2.1"
+        },
+        {
+          "name": "safe-regex-test",
+          "version": "1.0.0"
+        },
+        {
+          "name": "section-matter",
+          "version": "1.0.0"
+        },
+        {
+          "name": "semver-compare",
+          "version": "1.0.0"
+        },
+        {
+          "name": "shebang-command",
+          "version": "2.0.0"
+        },
+        {
+          "name": "shebang-regex",
+          "version": "3.0.0"
+        },
+        {
+          "name": "shell-quote",
+          "version": "1.8.1"
+        },
+        {
+          "name": "side-channel",
+          "version": "1.0.4"
+        },
+        {
+          "name": "simple-concat",
+          "version": "1.0.1"
+        },
+        {
+          "name": "simple-get",
+          "version": "4.0.1"
+        },
+        {
+          "name": "simple-swizzle",
+          "version": "0.2.2"
+        },
+        {
+          "name": "is-arrayish",
+          "version": "0.3.2"
+        },
+        {
+          "name": "slash",
+          "version": "1.0.0"
+        },
+        {
+          "name": "slugify",
+          "version": "1.6.6"
+        },
+        {
+          "name": "spdx-expression-parse",
+          "version": "3.0.1"
+        },
+        {
+          "name": "statuses",
+          "version": "2.0.1"
+        },
+        {
+          "name": "stream-shift",
+          "version": "1.0.1"
+        },
+        {
+          "name": "string_decoder",
+          "version": "1.3.0"
+        },
+        {
+          "name": "string-width",
+          "version": "5.1.2"
+        },
+        {
+          "name": "string.prototype.padend",
+          "version": "3.1.4"
+        },
+        {
+          "name": "string.prototype.trim",
+          "version": "1.2.7"
+        },
+        {
+          "name": "string.prototype.trimend",
+          "version": "1.0.6"
+        },
+        {
+          "name": "string.prototype.trimstart",
+          "version": "1.0.6"
+        },
+        {
+          "name": "strip-ansi",
+          "version": "7.1.0"
+        },
+        {
+          "name": "strip-bom",
+          "version": "3.0.0"
+        },
+        {
+          "name": "strip-bom-string",
+          "version": "1.0.0"
+        },
+        {
+          "name": "strip-json-comments",
+          "version": "3.1.1"
+        },
+        {
+          "name": "supports-color",
+          "version": "7.2.0"
+        },
+        {
+          "name": "supports-preserve-symlinks-flag",
+          "version": "1.0.0"
+        },
+        {
+          "name": "tar-fs",
+          "version": "2.1.1"
+        },
+        {
+          "name": "tar-stream",
+          "version": "2.2.0"
+        },
+        {
+          "name": "tmp",
+          "version": "0.2.1"
+        },
+        {
+          "name": "to-fast-properties",
+          "version": "2.0.0"
+        },
+        {
+          "name": "to-regex-range",
+          "version": "5.0.1"
+        },
+        {
+          "name": "token-stream",
+          "version": "1.0.0"
+        },
+        {
+          "name": "tr46",
+          "version": "0.0.3"
+        },
+        {
+          "name": "type-check",
+          "version": "0.3.2"
+        },
+        {
+          "name": "typed-array-length",
+          "version": "1.0.4"
+        },
+        {
+          "name": "uc.micro",
+          "version": "1.0.6"
+        },
+        {
+          "name": "unbox-primitive",
+          "version": "1.0.2"
+        },
+        {
+          "name": "underscore",
+          "version": "1.13.6"
+        },
+        {
+          "name": "universalify",
+          "version": "2.0.0"
+        },
+        {
+          "name": "unpipe",
+          "version": "1.0.0"
+        },
+        {
+          "name": "upper-case",
+          "version": "1.1.3"
+        },
+        {
+          "name": "util-deprecate",
+          "version": "1.0.2"
+        },
+        {
+          "name": "void-elements",
+          "version": "3.1.0"
+        },
+        {
+          "name": "whatwg-url",
+          "version": "5.0.0"
+        },
+        {
+          "name": "which-boxed-primitive",
+          "version": "1.0.2"
+        },
+        {
+          "name": "which-typed-array",
+          "version": "1.1.9"
+        },
+        {
+          "name": "widest-line",
+          "version": "4.0.1"
+        },
+        {
+          "name": "with",
+          "version": "7.0.2"
+        },
+        {
+          "name": "word-wrap",
+          "version": "1.2.3"
+        },
+        {
+          "name": "wordwrap",
+          "version": "1.0.0"
+        },
+        {
+          "name": "wrap-ansi",
+          "version": "8.1.0"
+        },
+        {
+          "name": "ansi-styles",
+          "version": "6.2.1"
+        },
+        {
+          "name": "ws",
+          "version": "8.13.0"
+        },
+        {
+          "name": "xml2js",
+          "version": "0.5.0"
+        },
+        {
+          "name": "xmlbuilder",
+          "version": "11.0.1"
+        },
+        {
+          "name": "yargs",
+          "version": "17.7.2"
+        }
+      ]
+    },
+    {
+      "string": "ISC",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "@iarna/toml",
+          "version": "2.2.5"
+        },
+        {
+          "name": "@isaacs/cliui",
+          "version": "8.0.2"
+        },
+        {
+          "name": "ansi-align",
+          "version": "3.0.1"
+        },
+        {
+          "name": "anymatch",
+          "version": "3.1.3"
+        },
+        {
+          "name": "chownr",
+          "version": "1.1.4"
+        },
+        {
+          "name": "cliui",
+          "version": "8.0.1"
+        },
+        {
+          "name": "fastq",
+          "version": "1.15.0"
+        },
+        {
+          "name": "minimatch",
+          "version": "5.1.6"
+        },
+        {
+          "name": "glob",
+          "version": "7.2.3"
+        },
+        {
+          "name": "rimraf",
+          "version": "3.0.2"
+        },
+        {
+          "name": "flatted",
+          "version": "3.2.7"
+        },
+        {
+          "name": "foreground-child",
+          "version": "3.1.1"
+        },
+        {
+          "name": "fs.realpath",
+          "version": "1.0.0"
+        },
+        {
+          "name": "get-caller-file",
+          "version": "2.0.5"
+        },
+        {
+          "name": "glob",
+          "version": "8.1.0"
+        },
+        {
+          "name": "glob-parent",
+          "version": "5.1.2"
+        },
+        {
+          "name": "graceful-fs",
+          "version": "4.2.11"
+        },
+        {
+          "name": "hosted-git-info",
+          "version": "2.8.9"
+        },
+        {
+          "name": "inflight",
+          "version": "1.0.6"
+        },
+        {
+          "name": "inherits",
+          "version": "2.0.4"
+        },
+        {
+          "name": "ini",
+          "version": "1.3.8"
+        },
+        {
+          "name": "is-json",
+          "version": "2.0.1"
+        },
+        {
+          "name": "isexe",
+          "version": "2.0.0"
+        },
+        {
+          "name": "lru-cache",
+          "version": "6.0.0"
+        },
+        {
+          "name": "minimatch",
+          "version": "3.1.2"
+        },
+        {
+          "name": "minipass",
+          "version": "3.3.6"
+        },
+        {
+          "name": "semver",
+          "version": "5.7.1"
+        },
+        {
+          "name": "which",
+          "version": "1.3.1"
+        },
+        {
+          "name": "once",
+          "version": "1.4.0"
+        },
+        {
+          "name": "lru-cache",
+          "version": "9.1.2"
+        },
+        {
+          "name": "minipass",
+          "version": "6.0.2"
+        },
+        {
+          "name": "recursive-copy",
+          "version": "2.0.14"
+        },
+        {
+          "name": "rimraf",
+          "version": "2.7.1"
+        },
+        {
+          "name": "rimraf",
+          "version": "5.0.1"
+        },
+        {
+          "name": "glob",
+          "version": "10.2.7"
+        },
+        {
+          "name": "minimatch",
+          "version": "9.0.1"
+        },
+        {
+          "name": "sax",
+          "version": "1.2.4"
+        },
+        {
+          "name": "semver",
+          "version": "7.5.2"
+        },
+        {
+          "name": "signal-exit",
+          "version": "4.0.2"
+        },
+        {
+          "name": "ssri",
+          "version": "8.0.1"
+        },
+        {
+          "name": "which",
+          "version": "2.0.2"
+        },
+        {
+          "name": "wrappy",
+          "version": "1.0.2"
+        },
+        {
+          "name": "y18n",
+          "version": "5.0.8"
+        },
+        {
+          "name": "yallist",
+          "version": "4.0.0"
+        },
+        {
+          "name": "yaml",
+          "version": "2.3.1"
+        },
+        {
+          "name": "yargs-parser",
+          "version": "21.1.1"
+        }
+      ]
+    },
+    {
+      "string": "Apache-2.0",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "@google-analytics/data",
+          "version": "3.2.2"
+        },
+        {
+          "name": "@grpc/grpc-js",
+          "version": "1.8.15"
+        },
+        {
+          "name": "@grpc/proto-loader",
+          "version": "0.7.7"
+        },
+        {
+          "name": "@jsdoc/salty",
+          "version": "0.2.5"
+        },
+        {
+          "name": "detect-libc",
+          "version": "2.0.1"
+        },
+        {
+          "name": "ecdsa-sig-formatter",
+          "version": "1.0.11"
+        },
+        {
+          "name": "ejs",
+          "version": "3.1.9"
+        },
+        {
+          "name": "eslint-visitor-keys",
+          "version": "3.4.1"
+        },
+        {
+          "name": "fast-text-encoding",
+          "version": "1.0.6"
+        },
+        {
+          "name": "filelist",
+          "version": "1.0.4"
+        },
+        {
+          "name": "gaxios",
+          "version": "5.1.0"
+        },
+        {
+          "name": "gcp-metadata",
+          "version": "5.2.0"
+        },
+        {
+          "name": "google-auth-library",
+          "version": "8.8.0"
+        },
+        {
+          "name": "google-gax",
+          "version": "3.6.1"
+        },
+        {
+          "name": "jake",
+          "version": "10.8.7"
+        },
+        {
+          "name": "js2xmlparser",
+          "version": "4.0.2"
+        },
+        {
+          "name": "jsdoc",
+          "version": "4.0.2"
+        },
+        {
+          "name": "lite-youtube-embed",
+          "version": "0.2.0"
+        },
+        {
+          "name": "long",
+          "version": "4.0.0"
+        },
+        {
+          "name": "proto3-json-serializer",
+          "version": "1.1.1"
+        },
+        {
+          "name": "long",
+          "version": "5.2.3"
+        },
+        {
+          "name": "sharp",
+          "version": "0.32.1"
+        },
+        {
+          "name": "spdx-correct",
+          "version": "3.2.0"
+        },
+        {
+          "name": "tunnel-agent",
+          "version": "0.6.0"
+        },
+        {
+          "name": "validate-npm-package-license",
+          "version": "3.0.4"
+        },
+        {
+          "name": "xmlcreate",
+          "version": "2.0.4"
+        }
+      ]
+    },
+    {
+      "string": "BSD-2-Clause",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "entities",
+          "version": "4.5.0"
+        },
+        {
+          "name": "entities",
+          "version": "2.2.0"
+        },
+        {
+          "name": "domelementtype",
+          "version": "2.3.0"
+        },
+        {
+          "name": "domhandler",
+          "version": "4.3.1"
+        },
+        {
+          "name": "domutils",
+          "version": "2.8.0"
+        },
+        {
+          "name": "entities",
+          "version": "3.0.1"
+        },
+        {
+          "name": "escodegen",
+          "version": "1.14.3"
+        },
+        {
+          "name": "estraverse",
+          "version": "4.3.0"
+        },
+        {
+          "name": "espree",
+          "version": "9.5.2"
+        },
+        {
+          "name": "esprima",
+          "version": "4.0.1"
+        },
+        {
+          "name": "estraverse",
+          "version": "5.3.0"
+        },
+        {
+          "name": "esutils",
+          "version": "2.0.3"
+        },
+        {
+          "name": "entities",
+          "version": "2.1.0"
+        },
+        {
+          "name": "normalize-package-data",
+          "version": "2.5.0"
+        },
+        {
+          "name": "nunjucks",
+          "version": "3.2.4"
+        },
+        {
+          "name": "uglify-js",
+          "version": "3.17.4"
+        },
+        {
+          "name": "webidl-conversions",
+          "version": "3.0.1"
+        }
+      ]
+    },
+    {
+      "string": "BSD-3-Clause",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "@protobufjs/aspromise",
+          "version": "1.1.2"
+        },
+        {
+          "name": "@protobufjs/base64",
+          "version": "1.1.2"
+        },
+        {
+          "name": "@protobufjs/codegen",
+          "version": "2.0.4"
+        },
+        {
+          "name": "@protobufjs/eventemitter",
+          "version": "1.1.0"
+        },
+        {
+          "name": "@protobufjs/fetch",
+          "version": "1.1.0"
+        },
+        {
+          "name": "@protobufjs/float",
+          "version": "1.0.2"
+        },
+        {
+          "name": "@protobufjs/inquire",
+          "version": "1.1.0"
+        },
+        {
+          "name": "@protobufjs/path",
+          "version": "1.1.2"
+        },
+        {
+          "name": "@protobufjs/pool",
+          "version": "1.1.0"
+        },
+        {
+          "name": "@protobufjs/utf8",
+          "version": "1.1.0"
+        },
+        {
+          "name": "buffer-equal-constant-time",
+          "version": "1.0.1"
+        },
+        {
+          "name": "ieee754",
+          "version": "1.2.1"
+        },
+        {
+          "name": "moo",
+          "version": "0.5.2"
+        },
+        {
+          "name": "protobufjs",
+          "version": "7.2.4"
+        },
+        {
+          "name": "protobufjs-cli",
+          "version": "1.1.1"
+        },
+        {
+          "name": "source-map",
+          "version": "0.6.1"
+        },
+        {
+          "name": "sprintf-js",
+          "version": "1.0.3"
+        }
+      ]
+    },
+    {
+      "string": "BlueOak-1.0.0",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Uncategorized",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "jackspeak",
+          "version": "2.2.1"
+        },
+        {
+          "name": "path-scurry",
+          "version": "1.9.2"
+        }
+      ]
+    },
+    {
+      "string": "(MIT OR WTFPL)",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": true
+      },
+      "dependencies": [
+        {
+          "name": "expand-template",
+          "version": "2.0.3"
+        }
+      ]
+    },
+    {
+      "string": "N/A",
+      "meta": {
+        "categories": {
+          "defaultCategory": "N/A",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "hamljs",
+          "version": "0.6.2"
+        }
+      ]
+    },
+    {
+      "string": "Python-2.0",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "argparse",
+          "version": "2.0.1"
+        }
+      ]
+    },
+    {
+      "string": "Unlicense",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Public Domain",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "markdown-it-anchor",
+          "version": "8.6.7"
+        }
+      ]
+    },
+    {
+      "string": "(BSD-3-Clause OR GPL-2.0)",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Permissive",
+          "userCategories": []
+        },
+        "isSpdxExpression": true
+      },
+      "dependencies": [
+        {
+          "name": "node-forge",
+          "version": "1.3.1"
+        }
+      ]
+    },
+    {
+      "string": "(BSD-2-Clause OR MIT OR Apache-2.0)",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Expression",
+          "userCategories": []
+        },
+        "isSpdxExpression": true
+      },
+      "dependencies": [
+        {
+          "name": "rc",
+          "version": "1.2.8"
+        }
+      ]
+    },
+    {
+      "string": "CC-BY-3.0",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Uncategorized",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "spdx-exceptions",
+          "version": "2.3.0"
+        }
+      ]
+    },
+    {
+      "string": "CC0-1.0",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Public Domain",
+          "userCategories": []
+        },
+        "isSpdxExpression": false
+      },
+      "dependencies": [
+        {
+          "name": "spdx-license-ids",
+          "version": "3.0.13"
+        }
+      ]
+    },
+    {
+      "string": "(MIT OR CC0-1.0)",
+      "meta": {
+        "categories": {
+          "defaultCategory": "Public Domain",
+          "userCategories": []
+        },
+        "isSpdxExpression": true
+      },
+      "dependencies": [
+        {
+          "name": "type-fest",
+          "version": "2.19.0"
+        }
+      ]
+    }
+  ],
+  "licenseIssues": [
+    {
+      "name": "jackspeak",
+      "version": "2.2.1",
+      "severity": "low",
+      "title": "Package uses a license that is not OSI approved (\"BlueOak-1.0.0\")",
+      "shortTitle": "License not OSI approved",
+      "recommendation": "Read and validate the license terms",
+      "sandwormIssueCode": 102,
+      "sandwormIssueId": "SWRM-102-jackspeak-2.2.1",
+      "findings": {
+        "sources": [
+          {
+            "name": "jackspeak",
+            "version": "2.2.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "glob",
+            "version": "10.2.7",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "jackspeak",
+            "version": "2.2.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "rimraf>glob>jackspeak"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "path-scurry",
+      "version": "1.9.2",
+      "severity": "low",
+      "title": "Package uses a license that is not OSI approved (\"BlueOak-1.0.0\")",
+      "shortTitle": "License not OSI approved",
+      "recommendation": "Read and validate the license terms",
+      "sandwormIssueCode": 102,
+      "sandwormIssueId": "SWRM-102-path-scurry-1.9.2",
+      "findings": {
+        "sources": [
+          {
+            "name": "path-scurry",
+            "version": "1.9.2",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "glob",
+            "version": "10.2.7",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "path-scurry",
+            "version": "1.9.2",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "rimraf>glob>path-scurry"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "jackspeak",
+      "version": "2.2.1",
+      "severity": "high",
+      "title": "Package uses an atypical license (\"BlueOak-1.0.0\")",
+      "shortTitle": "Atypical license",
+      "recommendation": "Read and validate the license terms",
+      "sandwormIssueCode": 104,
+      "sandwormIssueId": "SWRM-104-jackspeak-2.2.1",
+      "findings": {
+        "sources": [
+          {
+            "name": "jackspeak",
+            "version": "2.2.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "glob",
+            "version": "10.2.7",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "jackspeak",
+            "version": "2.2.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "rimraf>glob>jackspeak"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "path-scurry",
+      "version": "1.9.2",
+      "severity": "high",
+      "title": "Package uses an atypical license (\"BlueOak-1.0.0\")",
+      "shortTitle": "Atypical license",
+      "recommendation": "Read and validate the license terms",
+      "sandwormIssueCode": 104,
+      "sandwormIssueId": "SWRM-104-path-scurry-1.9.2",
+      "findings": {
+        "sources": [
+          {
+            "name": "path-scurry",
+            "version": "1.9.2",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "glob",
+            "version": "10.2.7",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "path-scurry",
+            "version": "1.9.2",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "rimraf",
+            "version": "5.0.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "rimraf>glob>path-scurry"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "hamljs",
+      "version": "0.6.2",
+      "severity": "critical",
+      "title": "Package has no specified license",
+      "shortTitle": "No license specified",
+      "recommendation": "Check the package code and files for license information",
+      "sandwormIssueCode": 100,
+      "sandwormIssueId": "SWRM-100-hamljs-0.6.2",
+      "findings": {
+        "sources": [
+          {
+            "name": "hamljs",
+            "version": "0.6.2",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "@11ty/eleventy",
+            "version": "2.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "hamljs",
+            "version": "0.6.2",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "eleventy-plugin-post-stats",
+            "version": "0.0.9",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "@11ty/eleventy",
+            "version": "2.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "eleventy-plugin-post-stats",
+            "version": "0.0.9",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "@11ty/eleventy>hamljs",
+          "eleventy-plugin-post-stats>@11ty/eleventy>hamljs"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "rc",
+      "version": "1.2.8",
+      "severity": "high",
+      "title": "Package uses a custom license expression (\"(BSD-2-Clause OR MIT OR Apache-2.0)\")",
+      "shortTitle": "Custom license expression",
+      "recommendation": "Validate that the license expression complies with your license policy",
+      "sandwormIssueCode": 106,
+      "sandwormIssueId": "SWRM-106-rc-1.2.8",
+      "findings": {
+        "sources": [
+          {
+            "name": "rc",
+            "version": "1.2.8",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "@11ty/eleventy-img",
+            "version": "3.1.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "sharp",
+            "version": "0.32.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "prebuild-install",
+            "version": "7.1.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "rc",
+            "version": "1.2.8",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "@11ty/eleventy-img",
+            "version": "3.1.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "sharp",
+            "version": "0.32.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "@11ty/eleventy-img>sharp>prebuild-install>rc",
+          "sharp>prebuild-install>rc"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "spdx-exceptions",
+      "version": "2.3.0",
+      "severity": "low",
+      "title": "Package uses a license that is not OSI approved (\"CC-BY-3.0\")",
+      "shortTitle": "License not OSI approved",
+      "recommendation": "Read and validate the license terms",
+      "sandwormIssueCode": 102,
+      "sandwormIssueId": "SWRM-102-spdx-exceptions-2.3.0",
+      "findings": {
+        "sources": [
+          {
+            "name": "spdx-exceptions",
+            "version": "2.3.0",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "read-pkg",
+            "version": "3.0.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "normalize-package-data",
+            "version": "2.5.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "validate-npm-package-license",
+            "version": "3.0.4",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-correct",
+            "version": "3.2.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-expression-parse",
+            "version": "3.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-exceptions",
+            "version": "2.3.0",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "npm-run-all>read-pkg>normalize-package-data>validate-npm-package-license>spdx-correct>spdx-expression-parse>spdx-exceptions",
+          "npm-run-all>read-pkg>normalize-package-data>validate-npm-package-license>spdx-expression-parse>spdx-exceptions"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "spdx-exceptions",
+      "version": "2.3.0",
+      "severity": "high",
+      "title": "Package uses an atypical license (\"CC-BY-3.0\")",
+      "shortTitle": "Atypical license",
+      "recommendation": "Read and validate the license terms",
+      "sandwormIssueCode": 104,
+      "sandwormIssueId": "SWRM-104-spdx-exceptions-2.3.0",
+      "findings": {
+        "sources": [
+          {
+            "name": "spdx-exceptions",
+            "version": "2.3.0",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "read-pkg",
+            "version": "3.0.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "normalize-package-data",
+            "version": "2.5.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "validate-npm-package-license",
+            "version": "3.0.4",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-correct",
+            "version": "3.2.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-expression-parse",
+            "version": "3.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-exceptions",
+            "version": "2.3.0",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "npm-run-all>read-pkg>normalize-package-data>validate-npm-package-license>spdx-correct>spdx-expression-parse>spdx-exceptions",
+          "npm-run-all>read-pkg>normalize-package-data>validate-npm-package-license>spdx-expression-parse>spdx-exceptions"
+        ]
+      },
+      "type": "license"
+    },
+    {
+      "name": "spdx-license-ids",
+      "version": "3.0.13",
+      "severity": "low",
+      "title": "Package uses a license that is not OSI approved (\"CC0-1.0\")",
+      "shortTitle": "License not OSI approved",
+      "recommendation": "Read and validate the license terms",
+      "sandwormIssueCode": 102,
+      "sandwormIssueId": "SWRM-102-spdx-license-ids-3.0.13",
+      "findings": {
+        "sources": [
+          {
+            "name": "spdx-license-ids",
+            "version": "3.0.13",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "read-pkg",
+            "version": "3.0.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "normalize-package-data",
+            "version": "2.5.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "validate-npm-package-license",
+            "version": "3.0.4",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-correct",
+            "version": "3.2.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-expression-parse",
+            "version": "3.0.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "spdx-license-ids",
+            "version": "3.0.13",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "npm-run-all",
+            "version": "4.1.5",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "npm-run-all>read-pkg>normalize-package-data>validate-npm-package-license>spdx-correct>spdx-expression-parse>spdx-license-ids",
+          "npm-run-all>read-pkg>normalize-package-data>validate-npm-package-license>spdx-correct>spdx-license-ids",
+          "npm-run-all>read-pkg>normalize-package-data>validate-npm-package-license>spdx-expression-parse>spdx-license-ids"
+        ]
+      },
+      "type": "license"
+    }
+  ],
+  "metaIssues": [
+    {
+      "severity": "moderate",
+      "title": "Package has no specified source code repository",
+      "shortTitle": "Has no repository",
+      "name": "eleventy-generate-category-pages",
+      "version": "0.0.14",
+      "sandwormIssueCode": 202,
+      "sandwormIssueId": "SWRM-202-eleventy-generate-category-pages-0.0.14",
+      "findings": {
+        "sources": [
+          {
+            "name": "eleventy-generate-category-pages",
+            "version": "0.0.14",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "eleventy-generate-category-pages",
+            "version": "0.0.14",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "eleventy-generate-category-pages",
+            "version": "0.0.14",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "eleventy-generate-category-pages"
+        ]
+      },
+      "type": "meta"
+    },
+    {
+      "severity": "high",
+      "title": "Package uses postinstall script: \"node scripts/postinstall\"",
+      "shortTitle": "Uses postinstall script",
+      "name": "protobufjs",
+      "version": "7.2.4",
+      "sandwormIssueCode": 201,
+      "sandwormIssueSpecifier": "postinstall",
+      "sandwormIssueId": "SWRM-201-protobufjs-7.2.4-postinstall",
+      "findings": {
+        "sources": [
+          {
+            "name": "protobufjs",
+            "version": "7.2.4",
+            "flags": {
+              "prod": true,
+              "peer": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "@google-analytics/data",
+            "version": "3.2.2",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "google-gax",
+            "version": "3.6.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "@grpc/grpc-js",
+            "version": "1.8.15",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "@grpc/proto-loader",
+            "version": "0.7.7",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "protobufjs",
+            "version": "7.2.4",
+            "flags": {
+              "prod": true,
+              "peer": true
+            }
+          },
+          {
+            "name": "proto3-json-serializer",
+            "version": "1.1.1",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "protobufjs-cli",
+            "version": "1.1.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "@google-analytics/data",
+            "version": "3.2.2",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "@google-analytics/data>google-gax>@grpc/grpc-js>@grpc/proto-loader>protobufjs",
+          "@google-analytics/data>google-gax>@grpc/proto-loader>protobufjs",
+          "@google-analytics/data>google-gax>proto3-json-serializer>protobufjs",
+          "@google-analytics/data>google-gax>protobufjs",
+          "@google-analytics/data>google-gax>protobufjs-cli>protobufjs"
+        ]
+      },
+      "type": "meta"
+    },
+    {
+      "severity": "high",
+      "title": "Package uses install script: \"(node install/libvips && node install/dll-copy && prebuild-install) || (node install/can-compile && node-gyp rebuild && node install/dll-copy)\"",
+      "shortTitle": "Uses install script",
+      "name": "sharp",
+      "version": "0.32.1",
+      "sandwormIssueCode": 201,
+      "sandwormIssueSpecifier": "install",
+      "sandwormIssueId": "SWRM-201-sharp-0.32.1-install",
+      "findings": {
+        "sources": [
+          {
+            "name": "sharp",
+            "version": "0.32.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "affects": [
+          {
+            "name": "@11ty/eleventy-img",
+            "version": "3.1.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "sharp",
+            "version": "0.32.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "rootDependencies": [
+          {
+            "name": "@11ty/eleventy-img",
+            "version": "3.1.0",
+            "flags": {
+              "prod": true
+            }
+          },
+          {
+            "name": "sharp",
+            "version": "0.32.1",
+            "flags": {
+              "prod": true
+            }
+          }
+        ],
+        "paths": [
+          "@11ty/eleventy-img>sharp",
+          "sharp"
+        ]
+      },
+      "type": "meta"
+    }
+  ],
+  "resolvedIssues": [],
+  "errors": []
+}
