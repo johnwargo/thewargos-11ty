@@ -4,7 +4,7 @@ date: 2015-08-11
 categories: 
   - Anna
   - Family
-HeaderImage: images/2015/funny_glasses.jpg
+headerImage: /images/headers/funny_glasses.jpg
 ---
 
 We figured out recently that it's been many, many years since Anna and I have taken a vacation together. Recently, my brother in law invited us to join them at their lake house to help celebrate his wife (Anna's sister's)…, um, ah, 30th birthday. I immediately jumped on the chance to have a getaway and Anna quickly approved.
