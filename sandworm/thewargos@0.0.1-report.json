@@ -1,7 +1,7 @@
 {
   "name": "thewargos",
   "version": "0.0.1",
-  "createdAt": 1689340115615,
+  "createdAt": 1689340195269,
   "system": {
     "sandwormVersion": "1.42.0",
     "nodeVersion": "18.16.1",
@@ -24,76 +24,6 @@
   },
   "rootVulnerabilities": [],
   "dependencyVulnerabilities": [
-    {
-      "findings": {
-        "sources": [
-          {
-            "name": "semver",
-            "version": "5.7.1",
-            "flags": {
-              "prod": true
-            }
-          }
-        ],
-        "affects": [
-          {
-            "name": "npm-run-all",
-            "version": "4.1.5",
-            "flags": {
-              "prod": true
-            }
-          },
-          {
-            "name": "cross-spawn",
-            "version": "6.0.5",
-            "flags": {
-              "prod": true
-            }
-          },
-          {
-            "name": "semver",
-            "version": "5.7.1",
-            "flags": {
-              "prod": true
-            }
-          },
-          {
-            "name": "read-pkg",
-            "version": "3.0.0",
-            "flags": {
-              "prod": true
-            }
-          },
-          {
-            "name": "normalize-package-data",
-            "version": "2.5.0",
-            "flags": {
-              "prod": true
-            }
-          }
-        ],
-        "rootDependencies": [
-          {
-            "name": "npm-run-all",
-            "version": "4.1.5",
-            "flags": {
-              "prod": true
-            }
-          }
-        ],
-        "paths": [
-          "npm-run-all>cross-spawn>semver",
-          "npm-run-all>read-pkg>normalize-package-data>semver"
-        ]
-      },
-      "source": 1092459,
-      "githubAdvisoryId": "GHSA-c2qf-rxjj-qqgw",
-      "name": "semver",
-      "title": "semver vulnerable to Regular Expression Denial of Service",
-      "url": "https://github.com/advisories/GHSA-c2qf-rxjj-qqgw",
-      "severity": "moderate",
-      "range": "<5.7.2"
-    },
     {
       "findings": {
         "sources": [
@@ -1816,7 +1746,7 @@
         },
         {
           "name": "semver",
-          "version": "5.7.1"
+          "version": "5.7.2"
         },
         {
           "name": "which",
@@ -1860,7 +1790,7 @@
         },
         {
           "name": "semver",
-          "version": "7.5.2"
+          "version": "7.5.4"
         },
         {
           "name": "signal-exit",
