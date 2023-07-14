@@ -26,13 +26,11 @@ License: pixelarity.com/license
       <section id="main">
         <div class="container">
           <div class="box post">
-            {% if headerImage %}
-              <span class="image featured">
-                <img
-                  src="{{ headerImage }}"
-                  alt="{{ headerImageAltText }}"
-                  class="image featured" />
-              </span>
+            {% if headerImage %}             
+              <img
+                src="{{ headerImage }}"
+                alt="{{ headerImageAltText }}"
+                class="image featured" />             
             {% else %}
               <img
                 src="/images/collage-header.png"

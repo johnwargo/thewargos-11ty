@@ -3,7 +3,7 @@ title: Pinewood Derby 2013
 date: 2013-01-27
 categories: 
   - Family
-HeaderImage: images/2013/august-pinewood-derby.jpg
+headerImage: /images/2013/august-pinewood-derby.jpg
 ---
 
 Every year, I invite August's Cub Scout pack over to the house to use my tools to create the members pinewood derby cars. It’s a lot of fun, we usually get a great turnout and some pretty interesting cars are made. Afterwards we order some pizza and have a big Cub Scout pizza party. The kids enjoy themselves, Elizabeth chases the boys she likes around the house and the boys pretend that they don’t like her and HATE being chased by her.

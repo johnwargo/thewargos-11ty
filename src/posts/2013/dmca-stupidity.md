@@ -3,7 +3,7 @@ title: DMCA Stupidity
 date: 2013-01-28
 categories: 
   - Miscellaneous
-HeaderImage: images/2016/handcuffs.png
+headerImage: /images/2016/handcuffs.png
 ---
 
 OK, let me see if I got this straight:

@@ -1,7 +1,6 @@
 ---
 title: Facebook Page
 date: 2012-11-29
-headerImage: src/images/2012/msw_logo_md.jpg
 categories: 
   - Miscellaneous
 ---

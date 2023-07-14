@@ -3,7 +3,7 @@ title: Sledding with the Siblings
 date: 2013-01-02
 categories: 
   - Family
-HeaderImage: images/2013/Siblings-Sledding.png"
+headerImage: /images/headers/Siblings-Sledding.png"
 ---
 
 We spent this weekend with my siblings in the NC mountains. On Sunday, we headed over to Maggie Valley to do some tubing in the snow, but the place was sold out until 8 PM. We bagged that idea. We decided to take the scenic route home and drove a few miles before turning off onto the Blue Ridge Parkway. Because of the recent snow, the parkway was closed, but a bunch of cars had pulled over and there were a lot of people hiking and enjoying the snow.

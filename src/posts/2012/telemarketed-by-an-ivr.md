@@ -3,7 +3,6 @@ title: Telemarketed by an IVR
 date: 2012-12-27
 categories: 
   - Geeking Out
-headerImage: callcenter.png
 ---
 
 I just got a telemarketing call from an Interactive Voice Response (IVR) system. I was sitting in my office and a call came in from a number I didn’t recognize. When I answered, there was a long pause, so I knew someone was telemarketing me. After a while, I usually say something smart-allecky like ‘hello? You called me?” and hang-up if the pause lasts too long.
