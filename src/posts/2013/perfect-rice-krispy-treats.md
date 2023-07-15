@@ -3,7 +3,7 @@ title: Perfect Rice Krispy Treats
 date: 2013-01-18
 categories: 
   - Miscellaneous
-headerImage: /images/2013/rice_krispy_treats.png
+headerImage: /images/headers/rice_krispy_treats.png
 ---
 
 I made a double batch of Rice Krispy treats today. I’m having some neighbors over tonight to play Poker and I thought I’d make something nice for them.

@@ -3,7 +3,6 @@ title: Pinewood Derby 2013
 date: 2013-01-27
 categories: 
   - Family
-headerImage: /images/2013/august-pinewood-derby.jpg
 ---
 
 Every year, I invite August's Cub Scout pack over to the house to use my tools to create the members pinewood derby cars. It’s a lot of fun, we usually get a great turnout and some pretty interesting cars are made. Afterwards we order some pizza and have a big Cub Scout pizza party. The kids enjoy themselves, Elizabeth chases the boys she likes around the house and the boys pretend that they don’t like her and HATE being chased by her.
@@ -20,7 +19,7 @@ Here’s the car – washers and all.
 
 {% image "src/images/2013/pinewood-derby-car.jpg", "Pinewood Derby Car", "image-full" %}
 
-I had to work the breakfast at the races, so I headed over to the event and Anna waited for the kids to get up. August must have registered some disdain at my weight installation, because Anna called me and was looking for the car’s spray paint. She gave it a quick paintjob and headed off to the race.
+I had to work the breakfast at the races, so I headed over to the event and Anna waited for the kids to get up. August must have registered some disdain at my weight installation, because Anna called me and was looking for the car’s spray paint. She gave it a quick paint job and headed off to the race.
 
 Anyway, at the race, August and I put some graphite on the axels and registered the car. When his Den’s race came up, we watched in anticipation as the first heat was run. In order to make everything ‘fair’ (Life isn’t Fair) they run each car in each track lane so nobody can complain about one lane being faster/slower than another.
 
@@ -41,6 +40,8 @@ Fifth race? 1st Place. Very exciting!
 Sixth race? 1st place yet again. Holy sh%#! That’s amazing!
 
 End of the day, August took third place for his den and he’s quite proud (see photo). He’s already planning on using the same car next year, but I’m hoping we can start early and really work on the car for next year.
+
+{% image "src/images/2013/august-pinewood-derby.jpg", "", "image-full" %}
 
 Me? Yea, I’m proud – he made the car, I only helped.
 
