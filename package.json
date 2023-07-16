@@ -3,7 +3,7 @@
   "description": "Eleventy version of the static web site at https://thewargos.com",
   "license": "MIT",
   "author": "John M. Wargo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf _site",
