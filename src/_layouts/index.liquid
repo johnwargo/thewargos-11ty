@@ -45,10 +45,13 @@ License: pixelarity.com/license
                   <h3>Most Popular</h3>
                 </header>
                 <p>The following list displays the most popular (most viewed) articles in the site.</p>
-                <ul class="divided">
-                  <li>
-                    <strong>Nothing to see here (yet)</strong>
-                  </li>
+                <ul>
+                  {% for item in popularArticles limit: 5 %}
+                    <li>
+                      <a href="{{ item.url }}">
+                        {{ item.title }}</a>
+                    </li>
+                  {% endfor %}
                 </ul>
                 <footer>
                   <a href="/articles/" class="button alt">All Articles</a>
