@@ -40,23 +40,25 @@ License: pixelarity.com/license
                   <a href="/about/" class="button alt">Read More</a>
                 </footer>
               </section>
-              <section class="box">
-                <header>
-                  <h3>Most Popular</h3>
-                </header>
-                <p>The following list displays the most popular (most viewed) articles in the site.</p>
-                <ul>
-                  {% for item in popularArticles limit: 5 %}
-                    <li>
-                      <a href="{{ item.url }}">
-                        {{ item.title }}</a>
-                    </li>
-                  {% endfor %}
-                </ul>
-                <footer>
-                  <a href="/articles/" class="button alt">All Articles</a>
-                </footer>
-              </section>
+              {% if topPosts.length > 0 %}
+                <section class="box">
+                  <header>
+                    <h3>Most Popular</h3>
+                  </header>
+                  <p>The following list displays the most popular (most viewed) articles in the site.</p>
+                  <ul>
+                    {% for item in topPosts %}
+                      <li>
+                        <a href="{{ item.url }}">
+                          {{ item.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                  <footer>
+                    <a href="/articles/" class="button alt">All Articles</a>
+                  </footer>
+                </section>
+              {%endif %}              
               <section class="box">
                 <header>
                   <h3>Article Categories</h3>

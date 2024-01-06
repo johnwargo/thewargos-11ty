@@ -12,7 +12,7 @@ async function galleryImageShortcode(src, alt) {
 
     const metadata = await sharp(src).metadata();
 
-    console.log(`[galleryImageShortcode] ${src}`);
+    // console.log(`[galleryImageShortcode] ${src}`);
 
     if (metadata.height > metadata.width) {
         lightboxImageWidth = PORTRAIT_LIGHTBOX_IMAGE_WIDTH;
@@ -38,7 +38,7 @@ async function galleryImageShortcode(src, alt) {
 }
 
 function galleryShortcode(content, name) {
-    console.log(`[galleryShortcode] "${name}"`);
+    // console.log(`[galleryShortcode] "${name}"`);
     return `
       <div>
           <div class="gallery" id="gallery-${name}">

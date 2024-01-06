@@ -31,7 +31,7 @@ module.exports = function (eleventyConfig) {
     sizes = '100vw'
   ) => {    
 
-    console.log(`[imageShortcode] ${src}`);
+    // console.log(`[imageShortcode] ${src}`);
 
     const imageMetadata = await Image(src, {
       widths: [...widths, null],
